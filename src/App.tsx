@@ -1,6 +1,9 @@
 import { useState, useEffect } from "react";
 
-import type { BlogSummary } from "./types";
+import type { BlogSummary, Classes, ContentType } from "./types";
+
+type SummaryKey = "General" | Classes | ContentType;
+
 
 import {
   Card,
@@ -179,7 +182,7 @@ export default function App() {
 
                 {selectedTabs.map((tab) => {
                   
-                  const summaryData = item.summaries?.[tab];
+                  const summaryData = item.summaries?.[tab as SummaryKey];
                   const wordStats = summaryData?.word_stats;
                   return (
                     <TabsContent key={tab} value={tab}>
