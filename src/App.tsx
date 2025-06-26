@@ -90,14 +90,16 @@ export default function App() {
               original_url: "#",
               date: "Never",
               source: "Nowhere",
-              summary: "No summaries were found on file. Please check your data source.",
-              word_stats: {
-                original: 0,
-                summary: 0,
-                reduction_percent: 0
+              summaries: {
+                General: {
+                  summary: "No summaries were found on file. Please check your data source.",
+                  word_stats: {
+                    original: 0,
+                    summary: 0,
+                    reduction_percent: 0
+                  }
+                }
               },
-              classSummaries: {},
-              contentTypeSummaries: {}
             }
           ]);
         }
@@ -111,14 +113,16 @@ export default function App() {
             original_url: "#",
             date: "",
             source: "",
-            summary: "No summaries were found on file. Please check your data source.",
-            word_stats: {
-              original: 0,
-              summary: 0,
-              reduction_percent: 0
+            summaries: {
+              General: {
+                summary: "No summaries were found on file. Please check your data source.",
+                word_stats: {
+                  original: 0,
+                  summary: 0,
+                  reduction_percent: 0
+                }
+              }
             },
-            classSummaries: {},
-            contentTypeSummaries: {}
           }
         ]);
       });
