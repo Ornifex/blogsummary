@@ -171,17 +171,30 @@ export default function App() {
                 <TabsList
                   className={`grid w-full grid-cols-12 bg-foreground border-b border-accent text-card rounded-none`}
                 >
-                  {selectedTabs.map((tab) => (
-                    <TabsTrigger
-                      key={tab}
-                      value={tab}
-                      className="text-gray-200 rounded-none data-[state=active]:bg-accent data-[state=active]:text-foreground transition-colors truncate max-w-[10ch]"
-                      style={{ minWidth: 0 }}
-                      title={tab}
-                    >
-                      <span className="truncate block">{tab.charAt(0).toUpperCase() + tab.slice(1)}</span>
-                    </TabsTrigger>
-                  ))}
+                  {selectedTabs.map((tab) => {
+                    const summaryData = item.summaries?.[tab as SummaryKey];
+                    const isReferToGeneral = summaryData?.summary?.trim().includes("Please refer to the general summary.");
+                    return (
+                      <TabsTrigger
+                        key={tab}
+                        value={tab}
+                        className={
+                          "text-gray-200 rounded-none data-[state=active]:bg-accent data-[state=active]:text-foreground transition-colors truncate max-w-[10ch]" +
+                          (isReferToGeneral ? " opacity-50 cursor-not-allowed" : "")
+                        }
+                        style={{ minWidth: 0 }}
+                        title={isReferToGeneral ? "No specific summary for this tab. Please refer to the general summary." : tab}
+                        disabled={isReferToGeneral}
+                      >
+                        <span className="truncate block">
+                          {tab.charAt(0).toUpperCase() + tab.slice(1)}
+                          {isReferToGeneral && (
+                            <span className="ml-1 text-red-400" title="No summary">!</span>
+                          )}
+                        </span>
+                      </TabsTrigger>
+                    );
+                  })}
                 </TabsList>
 
                 {selectedTabs.map((tab) => {
