@@ -129,7 +129,7 @@ export default function App() {
   };
 
   const selectedTabs = [
-    "general",
+    "General",
     ...selected.classes,
     ...selected.contentTypes,
     ...selected.expansions,
@@ -160,14 +160,14 @@ export default function App() {
               </CardDescription>
             </CardHeader>
             <CardContent>
-              <Tabs defaultValue="general" className="w-full bg-card-foreground text-card rounded-none">
+              <Tabs defaultValue="General" className="w-full bg-card-foreground text-card rounded-none">
                 <TabsList
                   className={`grid w-full grid-cols-12 bg-foreground border-b border-accent text-card rounded-none`}
                 >
                   {selectedTabs.map((tab) => (
                     <TabsTrigger
                       key={tab}
-                      value={tab.toLowerCase()}
+                      value={tab}
                       className="text-gray-200 rounded-none data-[state=active]:bg-accent data-[state=active]:text-foreground transition-colors truncate max-w-[10ch]"
                       style={{ minWidth: 0 }}
                       title={tab}
@@ -178,26 +178,16 @@ export default function App() {
                 </TabsList>
 
                 {selectedTabs.map((tab) => {
-                  const isGeneral = tab === "general";
-                  const word_stats =
-                    isGeneral
-                      ? item.word_stats
-                      : (item.classSummaries?.[tab as keyof typeof item.classSummaries]?.word_stats) ||
-                        (item.contentTypeSummaries?.[tab as keyof typeof item.contentTypeSummaries]?.word_stats) ||
-                        { original: 0, summary: 0, reduction_percent: 0 };
-                  const summary =
-                    isGeneral
-                      ? item.summary
-                      : (item.classSummaries?.[tab as keyof typeof item.classSummaries]?.summary) ||
-                        (item.contentTypeSummaries?.[tab as keyof typeof item.contentTypeSummaries]?.summary) ||
-                        "No summary available for this filter.";
+                  
+                  const summaryData = item.summaries?.[tab];
+                  const wordStats = summaryData?.word_stats;
                   return (
-                    <TabsContent key={tab} value={tab.toLowerCase()}>
-                      <div className="text-gray-200" dangerouslySetInnerHTML={{ __html: summary }} />
+                    <TabsContent key={tab} value={tab}>
+                      <div className="text-gray-200" dangerouslySetInnerHTML={{ __html: summaryData?.summary ?? "" }} />
                       <div className="text-sm flex justify-between text-gray-400">
                         <span></span>
                         <span>
-                          Original: {word_stats.original} | Summary: {word_stats.summary} | Reduction: {word_stats.reduction_percent}%
+                          Original: {wordStats?.original ?? "-"} | Summary: {wordStats?.summary ?? "-"} | Reduction: {wordStats?.reduction_percent ?? "-"}%
                         </span>
                       </div>
                     </TabsContent>

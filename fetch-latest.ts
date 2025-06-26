@@ -1,4 +1,5 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
+/* eslint-disable no-console */
 // fetch-latest.ts
 import dotenv from "dotenv";
 dotenv.config();
@@ -88,7 +89,7 @@ async function summarize(
       """`;
   } else {
     // 🔵 HYPERFOCUSED SUMMARY MODE
-    const baseInstruction = `You are an expert summarizer for World of Warcraft blog posts, focusing on the current retail version, The War Within and later.
+    prompt = `You are an expert summarizer for World of Warcraft blog posts, focusing on the current retail version, The War Within and later.
      Your task is to create a concise, clear summary of the provided blog post content. Do not preface your response with any framing text.
      Summarize the following blog post in **approximately 150 words**, but only if the content merits it. 
      Feel free to exceed 150 words, if absolutely necessary to capture all relevant info.
@@ -96,9 +97,9 @@ async function summarize(
      If relevant content is sparse, fewer words are preferred.
      Focus on content relevant to *Retail WoW only* — The War Within and later.
      Do not include Classic, Wrath, Season of Discovery, Season of Mastery, Mists of Pandaria, Cataclysm, or other non-Retail versions.
-     Focusing *only* on content relevant to the selected ${type === "class" ? "class" : "content type"}: "${preference}".`;
+     Focusing *only* on content relevant to the selected ${type === "class" ? "class" : "content type"}: "${preference}".
 
-    const relevanceFilter = `Ignore all unrelated or general-purpose information already likely covered in the main summary. 
+    Ignore all unrelated or general-purpose information already likely covered in the main summary. 
      Exclude information that applies equally to all players.
      Do not include background context, unrelated events, or other classes/content types.
      Ensure all points are consistent with each other and with the source text.
@@ -106,24 +107,17 @@ async function summarize(
      Do not include Classic, Wrath, Season of Discovery, Season of Mastery, Mists of Pandaria, Cataclysm, or other non-Retail versions.
      Do not include vague statements or generic marketing language (e.g. “players will enjoy exciting adventures”). Focus only on concrete details explicitly stated in the text.
      M+ pertains to specifically Mythic+ dungeons, not raid content. Raid content excludes M+ dungeons. 
-     Open World content is not M+ or Raiding, it refers specifically to outdoor content like world quests, events, and exploration.`;
+     Open World content is not M+ or Raiding, it refers specifically to outdoor content like world quests, events, and exploration.
 
-    const duplicationWarning = `Assume the user has read the general summary. Do not repeat or paraphrase it.`;
-
-    const formatting = `Output in clean, minimal HTML. Use simple HTML tags such as <strong>, <em>, <ul>, <li>, and <br> only when they improve readability. Avoid tables or excessive formatting. 
+    Assume the user has read the general summary. Do not repeat or paraphrase it. 
+    
+    Output in clean, minimal HTML. Use simple HTML tags such as <strong>, <em>, <ul>, <li>, and <br> only when they improve readability. Avoid tables or excessive formatting. 
      Use readable, concise, and structured phrasing. Do not use markdown. Only return the raw summary content, which can be formatted for clarity, prefer clarity in formatting, like lists, and linebreaks, where it makes sense. 
      Do not prepend or append any explanation, greeting, or framing text. This includes most importantly, do not include the words "Summary" or "Summarize" in the output.
      Do not include any additional context, disclaimers, or explanations. The summary should be ready to be displayed directly to the user without any additional framing or context.
-     `;
+     
 
-    const fallback = `If the blog post contains no content relevant to "${preference}", return exactly: "Please refer to the general summary."`;
-
-    prompt = `
-      ${baseInstruction}
-      ${relevanceFilter}
-      ${duplicationWarning}
-      ${formatting}
-      ${fallback}
+    If the blog post contains no content relevant to "${preference}", return exactly: "Please refer to the general summary."
 
       """
       ${text}
@@ -165,16 +159,12 @@ async function main() {
     const { text: articleText, date } = await fetchArticleContent(post.url);
     console.log(`Fetched article text for: ${post.title}`);
 
-    const summary = await summarize(articleText);
-    
-    console.log("hmm");
-
+    const generalSummary = await summarize(articleText);
     const originalWordCount = countWords(articleText);
-    const summaryWordCount = countWords(summary);
-    const reduction = ((1 - summaryWordCount / originalWordCount) * 100).toFixed(1);
-    console.log(`Original word count: ${originalWordCount}, Summary word count: ${summaryWordCount}, Reduction: ${reduction}%`);
+    const generalSummaryWordCount = countWords(generalSummary);
+    const generalReduction = parseFloat(((1 - generalSummaryWordCount / originalWordCount) * 100).toFixed(1));
 
-    const classSummaries: Record<string, { summary: string; word_stats: { original: number; summary: number; reduction_percent: number } }> = {};
+    const classSummaries: BlogSummary["summaries"] = {};
     for (const className of CLASSES) {
       console.log(`Summarizing for class: ${className}`);
       const classSummary = await summarize(articleText, className, "class");
@@ -190,13 +180,12 @@ async function main() {
       };
     }
 
-    const contentTypeSummaries: Record<string, { summary: string; word_stats: { original: number; summary: number; reduction_percent: number } }> = {};
     for (const contentType of CONTENT_TYPES) {
       console.log(`Summarizing for content type: ${contentType}`);
       const ctSummary = await summarize(articleText, contentType, "contentType");
       await delay(5000);
       const ctSummaryWordCount = countWords(ctSummary);
-      contentTypeSummaries[contentType] = {
+      classSummaries[contentType] = {
         summary: ctSummary,
         word_stats: {
           original: originalWordCount,
@@ -206,19 +195,21 @@ async function main() {
       };
     }
 
-    const newSummary = {
+    classSummaries["General"] = {
+      summary: generalSummary,
+      word_stats: {
+        original: originalWordCount,
+        summary: generalSummaryWordCount,
+        reduction_percent: generalReduction,
+      },
+    };
+
+    const newSummary: BlogSummary = {
       id: post.id,
       title: post.title,
       date: date.split("T")[0],
       original_url: post.url,
-      summary,
-      word_stats: {
-        original: originalWordCount,
-        summary: summaryWordCount,
-        reduction_percent: parseFloat(reduction),
-      },
-      classSummaries,
-      contentTypeSummaries,
+      summaries: classSummaries,
     };
 
     summaries.push(newSummary);

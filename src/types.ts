@@ -20,26 +20,10 @@ export interface BlogSummary {
   id: string;
   title: string;
   date: string;
-  summary: string;
   original_url: string;
-  word_stats: {
-    original: number;
-    summary: number;
-    reduction_percent: number;
-  };
   source?: string;
-  classSummaries?: {
-    [K in Classes]?: {
-      summary: string;
-      word_stats: {
-        original: number;
-        summary: number;
-        reduction_percent: number;
-      };
-    }
-  };
-  contentTypeSummaries?: {
-    [K in ContentType]?: {
+  summaries?: {
+    [K in "General" | Classes | ContentType]?: {
       summary: string;
       word_stats: {
         original: number;
