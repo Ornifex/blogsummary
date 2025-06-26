@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 
 import type { BlogSummary } from "./types";
+
 import {
   Card,
   CardHeader,
@@ -24,18 +25,48 @@ import {
 } from "@/components/ui/tabs"
 
 import { FilterBar } from "@/components/FilterBar";
+import { useCallback } from "react";
 
 
 export default function App() {
   const PAGE_SIZE = 5;
+  
+  const serializeSelected = useCallback((selected: typeof initialSelected) => ({
+    classes: Array.from(selected.classes),
+    contentTypes: Array.from(selected.contentTypes),
+    expansions: Array.from(selected.expansions),
+  }), []);
+
+  type SelectedSerialized = {
+    classes?: string[];
+    contentTypes?: string[];
+    expansions?: string[];
+  };
+
+  const deserializeSelected = (obj: SelectedSerialized) => ({
+    classes: new Set<string>(obj?.classes || []),
+    contentTypes: new Set<string>(obj?.contentTypes || []),
+    expansions: new Set<string>(obj?.expansions || []),
+  });
+
+  const initialSelected = {
+    classes: new Set<string>(),
+    contentTypes: new Set<string>(),
+    expansions: new Set<string>(),
+  };
+
+  const [selected, setSelected] = useState(() => {
+    const stored = localStorage.getItem("blogsummary-selected");
+    return stored ? deserializeSelected(JSON.parse(stored)) : initialSelected;
+  });
+
+  useEffect(() => {
+    localStorage.setItem("blogsummary-selected", JSON.stringify(serializeSelected(selected)));
+  }, [selected, serializeSelected]);
+
   const [visibleCount, setVisibleCount] = useState<number>(PAGE_SIZE);
   const [items, setItems] = useState<BlogSummary[]>([]);
   const [summaries, setSummaries] = useState<BlogSummary[]>([]);
-  const [selected, setSelected] = useState({
-    classes: new Set<string>(),
-    contentTypes: new Set<string>(),
-    expansions: new Set<string>()
-  });
 
   useEffect(() => {
     fetch("/data/summaries.json")
@@ -123,10 +154,9 @@ export default function App() {
                 </a>
               </CardTitle>
               <CardDescription className="text-sm flex justify-between text-gray-400">
-                <span>{item.date} {item.source ? item.source : "Unknown Source"}</span>
-                <span>
-                  Original: {item.word_stats.original} | Summary: {item.word_stats.summary} | Reduction: {item.word_stats.reduction_percent}%
-                </span>
+                <span>{item.date}</span> 
+                <span>{item.source ? item.source : "Unknown Source"}</span>
+                
               </CardDescription>
             </CardHeader>
             <CardContent>
@@ -147,28 +177,32 @@ export default function App() {
                   ))}
                 </TabsList>
 
-                {selectedTabs.map((tab) =>
-                  tab === "general" ? (
-                    <TabsContent key={tab} value="general">
-                      <div
-                        className="text-gray-200"
-                        dangerouslySetInnerHTML={{ __html: item.summary }}
-                      />
-                    </TabsContent>
-                  ) : (
+                {selectedTabs.map((tab) => {
+                  const isGeneral = tab === "general";
+                  const word_stats =
+                    isGeneral
+                      ? item.word_stats
+                      : (item.classSummaries?.[tab as keyof typeof item.classSummaries]?.word_stats) ||
+                        (item.contentTypeSummaries?.[tab as keyof typeof item.contentTypeSummaries]?.word_stats) ||
+                        { original: 0, summary: 0, reduction_percent: 0 };
+                  const summary =
+                    isGeneral
+                      ? item.summary
+                      : (item.classSummaries?.[tab as keyof typeof item.classSummaries]?.summary) ||
+                        (item.contentTypeSummaries?.[tab as keyof typeof item.contentTypeSummaries]?.summary) ||
+                        "No summary available for this filter.";
+                  return (
                     <TabsContent key={tab} value={tab.toLowerCase()}>
-                      <div
-                        className="text-gray-200"
-                        dangerouslySetInnerHTML={{
-                          __html:
-                            item.classSummaries?.[tab as keyof typeof item.classSummaries]?.summary ||
-                            item.contentTypeSummaries?.[tab as keyof typeof item.contentTypeSummaries]?.summary ||
-                            "No summary available for this filter."
-                        }}
-                      />
+                      <div className="text-gray-200" dangerouslySetInnerHTML={{ __html: summary }} />
+                      <div className="text-sm flex justify-between text-gray-400">
+                        <span></span>
+                        <span>
+                          Original: {word_stats.original} | Summary: {word_stats.summary} | Reduction: {word_stats.reduction_percent}%
+                        </span>
+                      </div>
                     </TabsContent>
-                  )
-                )}
+                  );
+                })}
               </Tabs>
             </CardContent>
             {/*<CardFooter>

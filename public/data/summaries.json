@@ -4,11 +4,11 @@
     "title": "Break Through the Mists of Pandaria Classic on July 21",
     "date": "2025-06-25",
     "original_url": "https://worldofwarcraft.blizzard.com/news/24213954/break-through-the-mists-of-pandaria-classic-on-july-21",
-    "summary": "This blog post details the upcoming launch of World of Warcraft: Mists of Pandaria Classic. It highlights the addition of the Pandaren playable race and the Monk class. A pre-patch on July 1st brings class revamps, AOE looting, and the Theramore's Fall scenario. Players completing the Pandaren starting experience by July 30th can earn a special mount for modern WoW. Mogu'shan Vaults raid opens July 31st.",
+    "summary": "<p>Mists of Pandaria Classic launches July 21. A pre-patch arrives the week of July 1, introducing the Pandaren race and Monk class to modern WoW, alongside the Theramore's Fall scenario and Pet Battles. Completing the Pandaren starting experience by July 30 in MoP Classic earns the Shaohao's Sage Serpent mount in modern WoW. Mogu'shan Vaults raid opens July 31.</p>",
     "word_stats": {
       "original": 895,
-      "summary": 66,
-      "reduction_percent": 92.6
+      "summary": 59,
+      "reduction_percent": 93.4
     },
     "classSummaries": {
       "Warrior": {
@@ -84,11 +84,11 @@
         }
       },
       "Monk": {
-        "summary": "The Mists of Pandaria Classic pre-patch introduces the Monk class. Monks can specialize as Windwalkers for damage, Mistweavers for healing, or Brewmasters for tanking. Players can also play as the new Pandaren race, starting on the Wandering Isle to learn Monk abilities. A Level 85 character boost is available for Pandaren and Monks in Mists of Pandaria Classic.",
+        "summary": "Monks will be a new class available with the Mists of Pandaria Classic pre-patch, playable as Pandaren.\n\nMonk specializations include:\n*   Windwalker: Focuses on devastating attacks.\n*   Mistweaver: Specializes in healing allies.\n*   Brewmaster: Known for tanking and damage mitigation.\n\nPlayers can earn the Shaohao's Sage Serpent mount in modern WoW by completing the Pandaren starting experience in Mists of Pandaria Classic between July 1 and July 30.",
         "word_stats": {
           "original": 895,
-          "summary": 58,
-          "reduction_percent": 93.5
+          "summary": 68,
+          "reduction_percent": 92.4
         }
       },
       "Evoker": {
@@ -156,11 +156,11 @@
     "title": "Mists of Pandaria Classic: A Profession Primer",
     "date": "2025-06-25",
     "original_url": "https://worldofwarcraft.blizzard.com/news/24215172/mists-of-pandaria-classic-a-profession-primer",
-    "summary": "This blog post focuses on professions in Mists of Pandaria, a retail WoW expansion. Key features include the \"Spirit of Harmony\" crafting material used across many professions for epic gear and bonuses. Alchemy introduces transmutes, Blacksmithing, Leatherworking, and Tailoring gain new epic recipes, and Engineering gets mounts and gadgets. Herbalism introduces new herbs like Golden Lotus. Jewelcrafting features discovery recipes and panther mounts. Inscription offers new glyphs and staves. Secondary professions like First Aid, Fishing, Archaeology, and Cooking also see updates, with Cooking introducing specializations and unique recipes.",
+    "summary": "<p>The blog post details professions in Mists of Pandaria, focusing on the new crafting material, Spirit of Harmony. This BoP material is used across many professions for epic items, recipes, and vendor purchases. Alchemy introduces Golden Lotus and Alchemist Stones. Blacksmithing, Leatherworking, and Tailoring utilize Spirit of Harmony for PvP/dungeon gear and raid recipes using Blood Spirit. Enchanting reduces glow effects. Engineering gains new mounts, the Goblin Glider, and the Blingtron 4000. Herbalism features Golden Lotus and new herbs like Silkweed. Mining introduces Ghost Iron and Trillium. Skinning offers Exotic Leather. Jewelcrafting has discovery recipes and new Panther mounts. Inscription focuses on glyphs and shoulder enchants, with Staves and Fans as new crafted items. Secondary professions include improved bandages for First Aid, new fishing activities, expanded Archaeology digsites, and specialized Cooking recipes.</p>",
     "word_stats": {
       "original": 3254,
-      "summary": 88,
-      "reduction_percent": 97.3
+      "summary": 132,
+      "reduction_percent": 95.9
     },
     "classSummaries": {
       "Warrior": {
@@ -172,11 +172,11 @@
         }
       },
       "Mage": {
-        "summary": "<p>Mages in The War Within and later expansions will see the following profession-related changes:</p>\n<ul>\n    <li><strong>Alchemy</strong>: Can purchase an extra transmute.</li>\n    <li><strong>Jewelcrafting</strong>: Can use Spirit of Harmony to purchase extra daily discoveries. Jewelcrafters can also create a Scrying Gem, offering a form of \"far sight.\" New panther mounts can be crafted.</li>\n    <li><strong>Engineering</strong>: New craftable items include the Mechanical Pandaren Dragonling pet, two new rocket mounts, and a portable anvil/forge. The Goblin Glider allows for stylish gliding. The Blingtron 4000 offers daily gifts with a chance for mounts or pets.</li>\n    <li><strong>Enchanting</strong>: Glow effects from enchantments will have a lower visual impact.</li>\n</ul>",
+        "summary": "<ul>\n<li>Mage Alchemy recipes will utilize the rare Golden Lotus herb for flasks and potions, including a new swiftness potion that transforms the user into a Jinyu Assassin.</li>\n<li>Alchemist Stones will be an upgradable quest item.</li>\n<li>Alchemists can transmute Living Steel, a crucial material for crafting epic items.</li>\n<li>Enchanting glow effects on enchantments have been reduced in intensity.</li>\n</ul>",
         "word_stats": {
           "original": 3254,
-          "summary": 101,
-          "reduction_percent": 96.9
+          "summary": 59,
+          "reduction_percent": 98.2
         }
       },
       "Rogue": {
@@ -204,11 +204,11 @@
         }
       },
       "Hunter": {
-        "summary": "Please refer to the general summary.",
+        "summary": "There is no content relevant to Hunter in this blog post.",
         "word_stats": {
           "original": 3254,
-          "summary": 6,
-          "reduction_percent": 99.8
+          "summary": 11,
+          "reduction_percent": 99.7
         }
       },
       "Warlock": {
@@ -294,11 +294,11 @@
         }
       },
       "Open World": {
-        "summary": "<p>The blog post details the professions and open-world content introduced in Mists of Pandaria, focusing on new mechanics and materials.</p>\n<ul>\n  <li><strong>Spirit of Harmony:</strong> A new bind-on-pickup material found on all creatures, used for purchasing crafting bonuses, reagents, and recipes.</li>\n  <li><strong>Profession Tools:</strong> No longer required to be carried; instead, they provide skill bonuses.</li>\n  <li><strong>Alchemy:</strong> Features the rare Golden Lotus herb and allows for transmutes like Living Steel.</li>\n  <li><strong>Blacksmithing, Leatherworking, Tailoring:</strong> Utilize Spirit of Harmony for epic item recipes, including PvP and dungeon gear. Raid recipes drop from trash and bosses, with Blood Spirit being a raid-specific crafting reagent.</li>\n  <li><strong>Enchanting:</strong> Glow effects are reduced in intensity.</li>\n  <li><strong>Engineering:</strong> Introduces new mounts, pets, a portable anvil, and the Goblin Glider for aerial movement. The Blingtron 4000 dispenses gifts, with a rare chance for mounts or pets.</li>\n  <li><strong>Herbalism:</strong> Highlights the Golden Lotus herb with a treasure-finding buff and lists other new herbs like Green Tea Leaf and Rain Poppy. A spade tool provides a +10 skill boost.</li>\n  <li><strong>Mining:</strong> Introduces Ghost Iron and Trillium ores, with Trillium coming in black and white varieties. Kyparite is a new material for crafting epic gear.</li>\n  <li><strong>Skinning:</strong> Features Exotic Leather and a rare Magnificent Hide.</li>\n  <li><strong>Jewelcrafting:</strong> Introduces a new discovery system where players can bypass daily cooldowns with Spirit of Harmony. Players can equip two Jeweler's Gems, and Meta Gems are world drops. New Panther mounts are craftable.</li>\n  <li><strong>Inscription:</strong> Glyphs are learned through Northrend Inscription Research and Scrolls of Wisdom. Scrolls of Wisdom are also used for epic items, potentially limiting supply. Shoulder inscriptions are craftable for others. New Staves and Fans are introduced, with some epic Staves being account-bound and requiring significant time to craft.</li>\n  <li><strong>First Aid:</strong> High-end bandages can be crafted starting at skill level 550.</li>\n  <li><strong>Fishing:</strong> New fish species and daily quests are available at Angler's Outpost.</li>\n  <li><strong>Archaeology:</strong> Features new fragment types for Mogu and Pandaren. Dig sites have been expanded to six locations. Pristine artifacts start unique quests. Brann Bronzebeard and the Lorewalkers faction are introduced, offering new ways to acquire fragments and teleportation items.</li>\n  <li><strong>Cooking:</strong> Recipes are more organized, and individual feast bonuses are enhanced. Players can specialize in various cooking ways (Brew, Grill, Oven, Pot, Steamer, Wok) and earn Ironpaw Tokens from the Ironpaws faction for rewards, including heirloom items and new banquets.</li>\n</ul>",
+        "summary": "The War Within blog post does not contain information relevant to \"Open World\" content.\n\nPlease refer to the general summary.",
         "word_stats": {
           "original": 3254,
-          "summary": 381,
-          "reduction_percent": 88.3
+          "summary": 20,
+          "reduction_percent": 99.4
         }
       }
     }
@@ -308,11 +308,11 @@
     "title": "Journey Through the Wandering Isle and Take on the Way of the Monk",
     "date": "2025-06-25",
     "original_url": "https://worldofwarcraft.blizzard.com/news/24216885/journey-through-the-wandering-isle-and-take-on-the-way-of-the-monk",
-    "summary": "This blog post discusses the Pandaren race and Monk class introduced in Mists of Pandaria.\nPandaren start on the Wandering Isle, a living turtle, and learn about balance and nature.\nThey can choose to join the Alliance or Horde.\nThe Monk class offers tanking (Brewmaster), healing (Mistweaver), and DPS (Windwalker) specializations, emphasizing mobility and resource management.",
+    "summary": "The Mists of Pandaria pre-expansion patch introduced Pandaren and the Monk class.\n\nPandaren start on the Wandering Isle, a giant turtle, learning their culture of balance and harmony. Players level to 10 before choosing between the Alliance or Horde.\n\nMonks are available to many races and feature three specializations: Brewmaster (tank), Mistweaver (healer), and Windwalker (damage). They utilize energy and chi, with high mobility.\n\nThe Pandaren's story involves healing the Wandering Isle from an infection, prompting their decision to join the major factions.",
     "word_stats": {
       "original": 701,
-      "summary": 56,
-      "reduction_percent": 92
+      "summary": 83,
+      "reduction_percent": 88.2
     },
     "classSummaries": {
       "Warrior": {
@@ -332,11 +332,11 @@
         }
       },
       "Rogue": {
-        "summary": "The blog post details the introduction of the Pandaren race and the Monk class in the Mists of Pandaria pre-expansion patch.\n\nFor Rogues specifically:\n*   Pandaren can be Rogues.\n*   Pandaren Rogue racials include:\n    *   Bouncy: Take half falling damage.\n    *   Epicurean: Gain double stats from Well Fed effects.\n    *   Quaking Palm: Incapacitates a target for 4 seconds and turns off your attack.",
+        "summary": "Please refer to the general summary.",
         "word_stats": {
           "original": 701,
-          "summary": 63,
-          "reduction_percent": 91
+          "summary": 6,
+          "reduction_percent": 99.1
         }
       },
       "Priest": {
@@ -388,11 +388,11 @@
         }
       },
       "Monk": {
-        "summary": "<p>The Monk class, unique to Pandaren, focuses on discipline, balance, and physical mastery. Monks are versatile, with specializations for tanking (Brewmaster), healing (Mistweaver), and damage dealing (Windwalker).</p>\n<ul>\n<li><strong>Brewmaster:</strong> Utilizes Stagger to delay and mitigate damage.</li>\n<li><strong>Mistweaver:</strong> Blends melee abilities with healing to support allies.</li>\n<li><strong>Windwalker:</strong> Employs combos and chi for high damage output.</li>\n</ul>\n<p>Monks excel in mobility with abilities like Roll and Flying Serpent Kick.</p>",
+        "summary": "The Monk class, uniquely tied to the Pandaren narrative, emphasizes discipline, balance, and physical mastery.\n*   Monks utilize energy and chi to power their abilities, excelling in mobility with skills like Roll and Flying Serpent Kick.\n*   <strong>Brewmaster</strong> monks tank by delaying damage with Stagger, showcasing resilience and cleverness.\n*   <strong>Mistweaver</strong> monks are hybrid healers, blending melee abilities with restorative spells.\n*   <strong>Windwalker</strong> monks are damage dealers focused on precise, explosive combos.\n\nThe Monk class is available to Pandaren, Human, Orc, Dwarf, Tauren, Gnome, Troll, Draenei, and Blood Elf races.",
         "word_stats": {
           "original": 701,
-          "summary": 67,
-          "reduction_percent": 90.4
+          "summary": 90,
+          "reduction_percent": 87.2
         }
       },
       "Evoker": {
@@ -460,11 +460,11 @@
     "title": "Mists of Pandaria Classic: Enter the Mogu’shan Vaults Raid July 31!",
     "date": "2025-06-25",
     "original_url": "https://worldofwarcraft.blizzard.com/news/24216437/mists-of-pandaria-classic-enter-the-mogushan-vaults-raid-july-31",
-    "summary": "<p>Mogu'shan Vaults, a raid from the Mists of Pandaria expansion, is returning to Retail WoW on July 31st.</p>\n\n<p>Players can experience the raid on Normal and Heroic difficulties with 10 or 25 players. The raid features six bosses:</p>\n<ul>\n  <li>The Stone Guard</li>\n  <li>Feng the Accursed</li>\n  <li>Gara'jal the Spiritbinder</li>\n  <li>The Spirit Kings</li>\n  <li>Elegon</li>\n  <li>Will of the Emperor</li>\n</ul>\n\n<p>New achievements will also be available.</p>",
+    "summary": "Mogu'shan Vaults, a raid exploring the Mogu empire's secrets, becomes available on July 31st. Located in Kun Lai Summit, it features 6 bosses across Normal and Heroic difficulties for 10 and 25 players. Bosses include the Stone Guard, Feng the Accursed, Gara'jal the Spiritbinder, the Spirit Kings, Elegon, and the Will of the Emperor. Players can earn achievements by completing encounters and specific challenges.",
     "word_stats": {
       "original": 825,
-      "summary": 63,
-      "reduction_percent": 92.4
+      "summary": 64,
+      "reduction_percent": 92.2
     },
     "classSummaries": {
       "Warrior": {
@@ -566,19 +566,19 @@
     },
     "contentTypeSummaries": {
       "Delves": {
-        "summary": "Please refer to the general summary.",
+        "summary": "The Mogu'shan Vaults will be available on July 31st. This instance is located in the Kun Lai Summit and features 6 bosses. It will be available in (10) and (25) player modes, with both Normal and Heroic difficulties for each. Bosses include The Stone Guard, Feng the Accursed, Gara’jal the Spiritbinder, The Spirit Kings, Elegon, and Will of the Emperor. Achievements are available for completing the instance and for specific boss challenges on Heroic difficulties, with the \"Delver of the Vaults\" title being a reward for defeating all bosses on Heroic.",
         "word_stats": {
           "original": 825,
-          "summary": 6,
-          "reduction_percent": 99.3
+          "summary": 91,
+          "reduction_percent": 89
         }
       },
       "Raiding": {
-        "summary": "The Mogu'shan Vaults raid opens on July 31st, featuring six bosses: Stone Guard, Feng the Accursed, Gara'jal the Spiritbinder, The Spirit Kings, Elegon, and Will of the Emperor. It is located in the Kun Lai Summit and will be available in 10 and 25-player formats, with Normal and Heroic difficulties for each. The raid focuses on uncovering the secrets of the Mogu empire. Several raid achievements are available, including specific challenges for defeating bosses on Heroic difficulty and unique group objectives like \"Must Love Dogs\" and \"Show Me Your Moves!\".",
+        "summary": "Mogu'shan Vaults will be available on July 31st.\n\n*   **Location:** Kun Lai Summit\n*   **Level:** 90\n*   **Difficulties:** Normal and Heroic (10 and 25 player versions)\n*   **Bosses:** 6\n    *   The Stone Guard\n    *   Feng the Accursed\n    *   Gara’jal the Spiritbinder\n    *   The Spirit Kings (Four Kings)\n    *   Elegon\n    *   Will of the Emperor\n*   **Achievements:** Includes general boss kill achievements, Heroic difficulty achievements, and several special encounter-based achievements for Normal and Heroic difficulties. The \"Delver of the Vaults\" title is awarded for completing all Heroic difficulty achievements.",
         "word_stats": {
           "original": 825,
-          "summary": 90,
-          "reduction_percent": 89.1
+          "summary": 88,
+          "reduction_percent": 89.3
         }
       },
       "M+": {
@@ -598,11 +598,11 @@
         }
       },
       "Open World": {
-        "summary": "This blog post details the Mogu'shan Vaults, a raid instance available in The War Within.\n\n*   **Location:** Kun Lai Summit\n*   **Bosses:** 6\n*   **Difficulties:** 10-player and 25-player Normal and Heroic.\n*   **Bosses include:** The Stone Guard, Feng the Accursed, Gara’jal the Spiritbinder, The Spirit Kings, Elegon, and Will of the Emperor.\n*   **Achievements:** Various achievements are available, including those for defeating bosses on Heroic difficulty, earning the \"Delver of the Vaults\" title, and completing specific encounter challenges.",
+        "summary": "Mogu'shan Vaults, a raid instance located in the Kun Lai Summit, is now available. This instance features 6 bosses: The Stone Guard, Feng the Accursed, Gara'jal the Spiritbinder, The Spirit Kings, Elegon, and Will of the Emperor. It can be tackled on Normal and Heroic difficulties for both 10 and 25 player groups. The blog post also details several raid achievements, including those for defeating specific bosses on Heroic difficulty and unique challenge achievements like \"Must Love Dogs\" and \"Getting Hot In Here.\"",
         "word_stats": {
           "original": 825,
-          "summary": 78,
-          "reduction_percent": 90.5
+          "summary": 83,
+          "reduction_percent": 89.9
         }
       }
     }
@@ -612,125 +612,125 @@
     "title": "Hotfixes: June 24, 2025",
     "date": "2025-06-25",
     "original_url": "https://worldofwarcraft.blizzard.com/news/24201420/hotfixes-june-24-2025",
-    "summary": "Hotfixes for <a href=\"https://www.worldofwarcraft.com/news/24058772/hotfixes-may-9-2025\">Retail WoW</a> address class tuning, dungeon fixes, PvP adjustments, and item issues. Notable changes include Paladin threat generation increases, Evoker Augmentation set bonus nerfs, and Survival Hunter damage buffs. PvP sees various class adjustments, including Shaman healing and Warrior execute damage. Dungeon hotfixes tackle issues in Darkflame Cleft and Liberation of Undermine. Trading Post reputation gains are now correctly counted for Khaz Algar activities.",
+    "summary": "Hotfixes for The War Within include:\n\n*   **Achievements**: \"I'm Bringing Nerub-ack\" and \"Can You Please Spell 'Gobanna?'\" now count towards \"Azeroth's Next Top Model\".\n*   **Delves**: Overcharged Titan Console now spawns in Shadow Realm. Some Durable Information Storage Container belt effects were adjusted.\n*   **Items**: Fixed an issue with BFA Timewalking drops having higher stats than intended.\n*   **Lorewalking**: Resolved issues with players getting stuck in Ny'alotha and being incorrectly teleported to Dalaran.\n*   **Classes**: Tank specializations received a 15% threat generation increase. Paladin, Shaman, Evoker, Hunter, Mage, Priest, Rogue, Warlock, and Warrior saw various ability and talent adjustments.\n*   **Player vs. Player**: Numerous PvP talent and ability tuning changes were implemented across multiple classes.\n*   **Nightfall Event**: Flame's Radiance reputation gains increased by 100%.",
     "word_stats": {
       "original": 4115,
-      "summary": 67,
-      "reduction_percent": 98.4
+      "summary": 125,
+      "reduction_percent": 97
     },
     "classSummaries": {
       "Warrior": {
-        "summary": "<ul>\n  <li>Arms Warrior: Whirlwind damage increased by 100%.</li>\n  <li>Fury Warrior: Whirlwind damage increased by 120%.</li>\n  <li>Fury Warrior: Thunder Clap damage increased by 25%.</li>\n  <li>Fury Warrior: Odyn’s Fury damage increased by 30%.</li>\n  <li>Fury Warrior: Mountain Thane: Thunder Blast damage increased by 25%.</li>\n  <li>Arms Warrior: Execute damage reduced by 15% in PvP combat.</li>\n  <li>Arms Warrior: Rend damage increased by 15% in PvP combat.</li>\n  <li>Warrior: Wrecking Throw’s damage increase to shields is now 75% less effective in PvP combat (was 30% less effective).</li>\n  <li>Warrior: Shattering Throw’s damage increase to shields is now 75% less effective in PvP combat (was 30%).</li>\n  <li>Protection Warrior: Fixed a bug causing Shield Charge to deal damage extra times or to targets near their starting position.</li>\n  <li>Arms Warrior: Colossus Smash can no longer be parried.</li>\n</ul>",
+        "summary": "<ul><li>Arms Warrior: Whirlwind damage increased by 100%.</li><li>Fury Warrior: Whirlwind damage increased by 120%, Thunder Clap damage increased by 25%, Odyn’s Fury damage increased by 30%, and Mountain Thane: Thunder Blast damage increased by 25%.</li><li>Arms Warrior: Execute damage reduced by 15% in PvP combat. Rend damage increased by 15% in PvP combat.</li><li>Protection Warrior: Fixed a bug causing Shield Charge to deal damage extra times or to targets near their starting position.</li><li>Arms Warrior: Colossus Smash can no longer be parried.</li></ul>",
         "word_stats": {
           "original": 4115,
-          "summary": 127,
-          "reduction_percent": 96.9
-        }
-      },
-      "Mage": {
-        "summary": "Mage Frost spec damage increased by 3% in PvE.\n\nIn PvP, Frostfire: Overpowered Barrier now reflects 40% of damage absorbed (down from 60%). Fire Mage Pyroblast, Fire Blast, Fireball, and Scorch damage increased by 15-20% in PvP. Frostfire: Isothermic Core now reduces Meteor's Comet Storm effectiveness to 200% (down from 250%), and Frostfire Bolt damage increased by 15% in PvP.",
-        "word_stats": {
-          "original": 4115,
-          "summary": 60,
-          "reduction_percent": 98.5
-        }
-      },
-      "Rogue": {
-        "summary": "<p>\n\tSubtlety Rogues received a 5% all-damage increase.\n</p>\n<p>\n\tOutlaw Rogues' Combat Stamina now increases Stamina by 18% in PvP combat.\n</p>\n<p>\n\tSeveral issues with Blade Flurry damage and target acquisition for Outlaw Rogues were addressed.\n</p>\n<p>\n\tKingsbane can no longer be parried for Assassination Rogues.\n</p>\n<p>\n\tNimble Flurry target acquisition issues for Subtlety Rogues were resolved.\n</p>\n<p>\n\tThe Fazed debuff now correctly increases damage from Blade Flurry and Nimble Flurry.\n</p>",
-        "word_stats": {
-          "original": 4115,
-          "summary": 77,
+          "summary": 78,
           "reduction_percent": 98.1
         }
       },
-      "Priest": {
-        "summary": "<p>\nPriest changes for The War Within and beyond include:<br>\n</p>\n<ul>\n<li><strong>Discipline:</strong> Power Word: Radiance healing is no longer reduced by 10% in PvP combat. Ultimate Penitence damage and healing increased by 35% in PvP combat.</li>\n<li><strong>Discipline:</strong> Resolved an issue causing the Cooldown Manager to track the duration of Power Word: Shield on the Priest instead of tracking its cooldown.</li>\n<li><strong>Holy:</strong> Fixed an issue causing Prayer of Healing to be able to be displayed on the Cooldown Manager when not talented.</li>\n</ul>",
+      "Mage": {
+        "summary": "<ul><li>Frost Mage all damage increased by 3% (PvP excluded).</li></ul>",
         "word_stats": {
           "original": 4115,
-          "summary": 83,
-          "reduction_percent": 98
+          "summary": 9,
+          "reduction_percent": 99.8
+        }
+      },
+      "Rogue": {
+        "summary": "<ul><li>Subtlety Rogue: All damage increased by 5% (PvE only).</li><li>Outlaw Rogue: Combat Stamina now increases Stamina by 18% in PvP combat (was 12%).</li><li>Assassination Rogue: Kingsbane can no longer be parried.</li><li>Outlaw Rogue: Fixed an issue where Blade Flurry could strike fewer than the maximum available targets near dead enemies. Also fixed an issue with Deft Maneuvers talent, and ensured Roll the Bones' Grand Melee buff dynamically updated Blade Flurry's damage.</li><li>Subtlety Rogue: Fixed an issue where Nimble Flurry could strike fewer than the maximum available targets near dead enemies.</li><li>Trickster Rogue: Fixed an issue preventing Blade Flurry and Nimble Flurry from dealing increased damage to targets with the Fazed debuff.</li></ul>",
+        "word_stats": {
+          "original": 4115,
+          "summary": 106,
+          "reduction_percent": 97.4
+        }
+      },
+      "Priest": {
+        "summary": "<ul><li>Shadow Priest: Psychic Link now causes direct damage to inflict 35% of damage dealt to targets afflicted by Vampiric Touch (was 30%).</li>\n<li>Shadow Priest: Halo damage increased by 30%.</li>\n<li>Shadow Priest: Voidweaver: Entropic Rift damage increased by 12%.</li>\n<li>Discipline Priest: Power Word: Radiance healing is no longer reduced by 10% in PvP combat.</li>\n<li>Discipline Priest: Ultimate Penitence damage and healing increased by 35% in PvP combat.</li>\n<li>Holy Priest: Prayer of Healing will no longer be displayed on the Cooldown Manager when not talented.</li>\n<li>Discipline Priest: Resolved an issue causing the Cooldown Manager to track the duration of Power Word: Shield on the Priest instead of tracking its cooldown.</li></ul>",
+        "word_stats": {
+          "original": 4115,
+          "summary": 108,
+          "reduction_percent": 97.4
         }
       },
       "Paladin": {
-        "summary": "<p><strong>June 20, 2025:</strong> Resolved an issue where Divine Hammer and Shield of the Righteous were not casting Empyrean Hammer.</p>\n<p><strong>May 27, 2025:</strong> Blessing of the Forge healing increased by 15%. Hammer and Anvil healing increased by 20%.</p>\n<p><strong>May 22, 2025:</strong> Resolved an issue causing Avenging Wrath to not function properly when talented into Radiant Glory.</p>\n<p><strong>May 16, 2025:</strong> Resolved an issue with Radiant Glory and Avenging Wrath interaction.</p>\n<p><strong>May 9, 2025:</strong> Sunlight will now correctly benefit from the Scarlet Enclave Shockadin 6-set bonus.</p>\n<p><strong>May 8, 2025:</strong> Added support for Sentinel and several PvP talents to the Cooldown Manager for Protection Paladins.</p>\n<p><strong>May 5, 2025:</strong> The Scarlet Enclave Protection 6-set bonus now correctly also allows the use of Avenging Wrath while under the effects of Forbearance.</p>\n<p><strong>April 30, 2025:</strong> The Avenging Shield buff granted from the Scarlet Enclave 6-piece set bonus for Protection Paladins correctly lasts the same duration as Avenging Wrath.</p>",
+        "summary": "*   **June 20, 2025:** Resolved an issue where Divine Hammer and Shield of the Righteous did not cast Empyrean Hammer.\n*   **May 27, 2025:** Lightsmith: Blessing of the Forge healing increased by 15%; Hammer and Anvil healing increased by 20%.\n*   **May 22, 2025:** Resolved an issue causing Avenging Wrath to not function properly when talented into Radiant Glory.\n*   **May 16, 2025:** Resolved an issue with the Radiant Glory and Avenging Wrath interaction.\n*   **May 9, 2025:** Sunlight now correctly benefits from the Scarlet Enclave Shockadin 6-set bonus.\n*   **May 8, 2025:** Added support for Sentinel and several PvP talents to the Cooldown Manager for Protection Paladins.\n*   **May 5, 2025:** The Scarlet Enclave Protection 6-set bonus now correctly allows the use of Avenging Wrath while under the effects of Forbearance.\n*   **April 30, 2025:** The Avenging Shield buff granted from the Scarlet Enclave 6-piece set bonus for Protection Paladins correctly lasts the same duration as Avenging Wrath.",
         "word_stats": {
           "original": 4115,
-          "summary": 151,
-          "reduction_percent": 96.3
+          "summary": 159,
+          "reduction_percent": 96.1
         }
       },
       "Hunter": {
-        "summary": "<p>Survival Hunter damage has been increased:</p>\n<ul>\n  <li>Explosive Shot: +15% damage</li>\n  <li>Fury of the Eagle: +25% damage</li>\n</ul>\n<p>Marksmanship Hunter issue fixed: Dying while channeling Rapid Fire no longer keeps Hunters in combat upon resurrection.</p>\n<p>In Player versus Player, Survival Hunter mechanics were adjusted:</p>\n<ul>\n  <li>Raptor Strike and Mongoose Bite no longer fail to deal damage on targets in breakable crowd control.</li>\n  <li>Flanking Strike now correctly fails to cast and does not go on cooldown if your pet is rooted or crowd-controlled.</li>\n</ul>\n<p>Master's Call PvP functionality improvements were made, ensuring it correctly applies to the Hunter and their pet regardless of target selection.</p>\n<p>Command Pet will now maintain its overridden spell when entering arenas and other instances.</p>",
+        "summary": "<ul>\n  <li>Survival Hunters: Explosive Shot damage increased by 15%.</li>\n  <li>Survival Hunters: Fury of the Eagle damage increased by 25%.</li>\n  <li>Marksmanship Hunters: Fixed an issue where dying while channeling Rapid Fire could keep Hunters in combat upon resurrecting.</li>\n  <li>Survival Hunters: Fixed an issue where Aspect of the Eagle variants of Raptor Strike and Mongoose Bite were dealing less damage than intended.</li>\n  <li>Survival Hunters: Fixed an issue where casting Coordinated Assault at greater than 30 yards away could grant Howl of the Pack Leader twice.</li>\n  <li>Survival Hunters: Fixed an issue where Aspect of the Eagle was not correctly extending the range of Spirit Bond.</li>\n  <li>PvP: Marksmanship Hunters: Spotter's Marks applied via Ohn'ahran Winds will now correctly obey PvP mults.</li>\n  <li>PvP: Hunters: Master's Call now applies its effect to you and your pet when targeting your own pet.</li>\n  <li>PvP: Hunters: Master's Call now correctly applies to you and your pet if you are targeting an enemy.</li>\n  <li>PvP: Hunters: Master's Call now correctly applies to you and your pet if you are targeting nothing.</li>\n  <li>PvP: Hunters: Command Pet will now maintain its overridden spell when entering arenas and other instances.</li>\n  <li>PvP: Survival Hunters: Fixed an issue causing Raptor Strike and Mongoose Bite to not deal damage when cast onto targets in breakable crowd control.</li>\n  <li>PvP: Survival Hunters: Flanking Strike will now correctly fail to cast and not go on cooldown if your pet is rooted or crowd-controlled.</li>\n</ul>",
         "word_stats": {
           "original": 4115,
-          "summary": 118,
-          "reduction_percent": 97.1
+          "summary": 234,
+          "reduction_percent": 94.3
         }
       },
       "Warlock": {
-        "summary": "<ul>\n  <li>Destruction Warlock: Ruination damage increased by 35%.</li>\n  <li>Destruction Warlock: Wicked Cleave damage increased by 15%.</li>\n  <li>Destruction Warlock: Chaos Salvo damage increased by 15%.</li>\n  <li>Destruction Warlock: Felseeker damage increased by 15%.</li>\n  <li>Destruction Warlock: Gloom of Nathreza now increases single target spell damage to Havoc-marked enemies by 7% (was 5%).</li>\n  <li>Hellcaller Warlock: Vile Taint was fixed to trigger Blackened Soul less times than intended.</li>\n  <li>Destruction Warlock: Crashing Chaos was fixed to not persist after the start of a Mythic+ run.</li>\n  <li>Hellcaller Warlock: Blackened Soul was fixed to generate stacks when two Soul Shard spenders are cast in quick succession.</li>\n  <li>Hellcaller Warlock: Wither was fixed to pandemic correctly when refreshed with no stacks.</li>\n  <li>Demonology Warlock: Shadow Bolt was fixed to not appear on the essential cooldown bar without Diabolic Ritual learned.</li>\n  <li>Demonology Warlock: Hand of Gul'dan was fixed to not appear on the essential cooldown bar without Secrets of the Coven learned.</li>\n  <li>Demonology Warlock: Hand of Gul'dan and Chaos Bolt were fixed to not glow when Demonic Art was active.</li>\n  <li>Warlock Demon Skin's armor increase is now 30% more effective in PvP combat.</li>\n  <li>Season of Discovery Warlock: Naxxramas 4-piece damage bonus now correctly applies to and activates Corruption applied by the Scarlet Enclave tank 2-piece bonus.</li>\n  <li>Season of Discovery Warlock: Scarlet Enclave Tank 4-piece bonus now correctly applies its heal from Corruption ticks off the instant tick from the Naxxramas damage 4-piece bonus.</li>\n</ul>",
+        "summary": "<ul>\n<li>Hellcaller Warlocks: Fixed an issue where Vile Taint would trigger Blackened Soul more times than intended.</li>\n<li>Destruction Warlocks: Fixed an issue where Crashing Chaos would persist after the start of a Mythic+ run.</li>\n<li>Warlock PvP: Demon Skin's armor increase is now 30% more effective in PvP combat.</li>\n<li>Hellcaller Warlocks: Fixed an issue where Blackened Soul would not generate a stack if two Soul Shard spenders were cast in quick succession.</li>\n<li>Hellcaller Warlocks: Fixed an issue where Wither would not pandemic when refreshed with no stacks.</li>\n<li>Demonology Warlocks: Fixed an issue where Shadow Bolt would appear on the essential cooldown bar without Diabolic Ritual being learned.</li>\n<li>Demonology Warlocks: Fixed an issue where Hand of Gul'dan would appear on the essential cooldown bar without Secrets of the Coven being learned.</li>\n<li>Demonology Warlocks: Fixed an issue where Hand of Gul'dan and Chaos Bolt would glow whenever Demonic Art was active.</li>\n<li>Season of Discovery Warlocks: The Naxxramas damage 4-piece bonus will now correctly apply to and activate the Corruption applied by the Scarlet Enclave tank 2-piece bonus.</li>\n<li>Season of Discovery Warlocks: The Scarlet Enclave Tank 4-piece bonus now correctly applies its heal from Corruption ticks off the instant tick from the Naxxramas damage 4-piece bonus.</li>\n</ul>",
         "word_stats": {
           "original": 4115,
-          "summary": 232,
-          "reduction_percent": 94.4
+          "summary": 203,
+          "reduction_percent": 95.1
         }
       },
       "Death Knight": {
-        "summary": "<p>The provided hotfixes include several changes relevant to Death Knights in The War Within:</p>\n<ul>\n  <li><strong>PvP Adjustments:</strong>\n    <ul>\n      <li>Improved Death Strike is no longer reduced by 50% in PvP combat.</li>\n      <li>Frost Strike damage increased by 12% in PvP combat.</li>\n      <li>Obliterate damage increased by 12% in PvP combat.</li>\n      <li>Unholy: Magus of the Dead’s Shadow Bolt damage is no longer reduced by 50% in PvP combat.</li>\n      <li>Unholy: Festering Strike damage increased by 100% in PvP combat.</li>\n    </ul>\n  </li>\n  <li><strong>Class Bug Fixes:</strong>\n    <ul>\n      <li>Unholy: Resolved an issue where certain bonuses could be retained by despawning and respawning the Death Knight’s pet.</li>\n    </ul>\n  </li>\n</ul>",
+        "summary": "Please refer to the general summary.",
         "word_stats": {
           "original": 4115,
-          "summary": 101,
-          "reduction_percent": 97.5
+          "summary": 6,
+          "reduction_percent": 99.9
         }
       },
       "Druid": {
-        "summary": "<ul>\n  <li>Druid Cooldown Manager updates: Bristling Fur and several PvP talents have been added.</li>\n  <li>Tooth and Claw is now tracked in buffs.</li>\n  <li>Maul only displays when Tooth and Claw or Ravage is known.</li>\n  <li>In PvP combat, Balance Druid's Wrath damage is increased by 15%.</li>\n  <li>Keeper of the Grove: Blooming Infusion now increases the damage of the next Wrath or Starfire by 25% (was 100%) for Balance and Restoration Druids in PvP combat.</li>\n</ul>",
+        "summary": "Druid:\n\n*   Guardian spec: Bristling Fur and several PvP talents have been added to the Cooldown Manager.\n*   Guardian spec: Tooth and Claw has been added to Tracked Buffs.\n*   Guardian spec: Maul will now only display on the Cooldown Manager when Tooth and Claw or Ravage is known.\n*   Balance and Restoration specs (PvP): Keeper of the Grove: Blooming Infusion now increases the damage of the next Wrath or Starfire by 25% (was 100%).\n*   Balance spec (PvP): Wrath damage increased by 15%.",
         "word_stats": {
           "original": 4115,
-          "summary": 73,
-          "reduction_percent": 98.2
+          "summary": 84,
+          "reduction_percent": 98
         }
       },
       "Monk": {
-        "summary": "- Zen Flight no longer restricts casting for Monks.\n- Fixed an issue where physical damage modifiers reduced healing transferred through Ancient Teachings.\n- Resolved an issue where Aspect of Harmony did not apply to targets with a healing absorb.\n- Corrected an issue where Unity Within did not automatically apply for Windwalker Monks when no enemy targets were present at the end of a channel.\n- Addressed an issue with Mistweaver Monks where Feather Feet did not function with Song of Chi-Ji.",
+        "summary": "<ul>\n  <li>Zen Flight no longer restricts casting.</li>\n  <li>Fixed an issue that caused physical damage modifiers to reduce the healing magical damage transfers through Ancient Teachings.</li>\n  <li>Fixed an issue that caused Aspect of Harmony to not apply to targets with a healing absorb present.</li>\n  <li>Fixed an issue that caused Unity Within to not automatically if no enemy targets are present when the channel ends for Windwalker Monks.</li>\n  <li>Mistweaver: Fixed an issue that caused Feather Feet to not function with Song of Chi-Ji.</li>\n</ul>",
         "word_stats": {
           "original": 4115,
-          "summary": 83,
+          "summary": 82,
           "reduction_percent": 98
         }
       },
       "Evoker": {
-        "summary": "<ul>\n  <li>Augmentation Evoker's Nerub-ar Palace 2-piece set bonus was reduced, decreasing Upheaval damage by 15% and Eruption damage by 15% per stack.</li>\n  <li>Preservation Evoker healing was increased by 4% for all spells and abilities (excluding PvP).</li>\n  <li>Preservation Evoker's Living Flame healing increased by 30%.</li>\n  <li>Preservation Evoker's Spiritbloom healing increased by 20%.</li>\n  <li>Preservation Evoker's Echo base healing increased by 100% (raw healing only).</li>\n  <li>Augmentation Evoker's Mass Eruption will now correctly benefit from effects that increase Eruption damage.</li>\n  <li>Augmentation Evoker's Mass Eruption and Bombardments will no longer trigger from Overlord's Eruptions when not talented into Breath of Eons.</li>\n</ul>",
+        "summary": "*   **Augmentation:** Nerub-ar Palace 2-piece set bonus reduced to 15% damage increase for Upheaval and Eruption (was 30%). Fixed an issue where Mass Eruption did not benefit from Eruption damage increases and could improperly trigger without Breath of Eons talented.\n*   **Preservation:** All spell and ability healing increased by 4% (PvP unaffected). Living Flame healing increased by 30%. Spiritbloom healing increased by 20%. Echo's base healing increased by 100%, but copied spell strength remains unchanged.",
         "word_stats": {
           "original": 4115,
-          "summary": 97,
-          "reduction_percent": 97.6
+          "summary": 75,
+          "reduction_percent": 98.2
         }
       },
       "Demon Hunter": {
-        "summary": "```html\nDemon Hunter hotfixes include:\n<ul>\n<li>Art of the Glaive stacks were not correctly tracked on the Cooldown Manager.</li>\n<li>A Fire Inside trinket interactions with Immolation Aura Mastery bonus were fixed.</li>\n</ul>\n```",
+        "summary": "Please refer to the general summary.",
         "word_stats": {
           "original": 4115,
-          "summary": 33,
-          "reduction_percent": 99.2
+          "summary": 6,
+          "reduction_percent": 99.9
         }
       }
     },
     "contentTypeSummaries": {
       "Delves": {
-        "summary": "<ul>\n<li>Overcharged Titan Console now spawns in Shadow Realm.</li>\n<li>Adjusted Durable Information Storage Container belt effects: Critical Chain increased by 25%, Static Charge increased by 50%, Charged Crystal decreased by 24%, Charged Bolt decreased by 62%.</li>\n<li>Some delve equipment was not requiring player level 80 to be equipped; this has been fixed.</li>\n<li>The Big Wheel of Cheese would not grant experience to Brann; this has been fixed.</li>\n</ul>",
+        "summary": "<ul>\n    <li>Overcharged Titan Console now spawns in Shadow Realm.</li>\n    <li>Adjusted Durable Information Storage Container belt effects: Critical Chain increased by 25%, Static Charge increased by 50%, Charged Crystal decreased by 24%, Charged Bolt decreased by 62%.</li>\n    <li>Some delve equipment was not requiring player level 80 to be equipped.</li>\n    <li>Fixed an issue where the Big Wheel of Cheese would not grant experience to Brann.</li>\n</ul>",
         "word_stats": {
           "original": 4115,
-          "summary": 68,
-          "reduction_percent": 98.3
+          "summary": 64,
+          "reduction_percent": 98.4
         }
       },
       "Raiding": {
-        "summary": "<p>The blog post details hotfixes for World of Warcraft, primarily focusing on The War Within and its associated content. Key changes relevant to raiding include:</p>\n<ul>\n<li><strong>Dungeons and Raids:</strong>\n<ul>\n<li>Darkflame Cleft: Addressed an issue where a Shuffling Horror could fall through the world. The visual for Rank Overseer’s Wild Wallop was updated.</li>\n<li>Liberation of Undermine: Giga Bombs on Mythic difficulty now have a 30-second longer lifetime. Junkyard D.0.G. being rooted will no longer prevent other D.0.G.s from casting Fiery Jaws. The required minimum number of players for Fused and Tick-Tock Canisters in Liberation of Undermine was reduced to 1 on Normal and Heroic. Stix Bunkjunker and Scrapmaster health were reduced on Mythic. Polarized Catastro-Blast damage was reduced. Reel Assistant health was reduced across all difficulties. Reward: Coin and Bomb health bonus, Scattered Payout damage, Traveling Flames damage, and Crushed! damage were all adjusted across various difficulties.</li>\n<li>Operation Mechagon: Workshop: Addressed an issue where Junkyard D.0.G. being rooted could prevent other D.0.G.s from casting Fiery Jaws.</li>\n</ul>\n</li>\n<li><strong>Class Adjustments (Relevant to Raid Performance):</strong>\n<ul>\n<li>Tank specializations: Threat generation increased by 15% due to difficulties holding threat.</li>\n<li>Evoker (Augmentation): Nerub-ar Palace 2-piece set bonus for Upheaval and Eruption damage was reduced.</li>\n<li>Hunter (Survival): Explosive Shot and Fury of the Eagle damage increased.</li>\n<li>Mage (Frost): All damage increased by 3%.</li>\n<li>Paladin (Holy): Several Lightsmith healing abilities saw increases.</li>\n<li>Priest (Shadow): Psychic Link, Halo, and Entropic Rift damage were increased.</li>\n<li>Rogue (Subtlety): All damage increased by 5%.</li>\n<li>Shaman (Restoration): Several Farseer talents saw increases to healing and mana efficiency.</li>\n<li>Warlock (Destruction): Several Diabolist talents saw damage increases.</li>\n<li>Warrior (Arms/Fury): Whirlwind damage significantly increased for both specs. Thunder Clap and Odyn’s Fury damage increased for Fury. Mountain Thane: Thunder Blast damage increased for Fury.</li>\n</ul>\n</li>\n</ul>",
+        "summary": "*   <strong>Liberation of Undermine:</strong>\n    *   Chrome King Gallywix: Giga Bombs lifetime increased by 30 seconds on Mythic. Required players for Fused and Tick-Tock Canisters reduced to 1 on Normal and Heroic.\n    *   Stix Bunkjunker health reduced by 5% on Mythic.\n    *   Scrapmaster health reduced by 10% on Mythic.\n    *   Sprocketmonger Lockenstock's Polarized Catastro-Blast damage reduced by 60%.\n    *   One-Armed Bandit's Reel Assistant health reduced by 10% on all difficulties. Reward: Coin and Bomb health bonus reduced by 25%. Scattered Payout damage reduced by 10%. Traveling Flames damage reduced by 19% on Mythic and 7% on Heroic. Crushed! damage reduced by 47% on Mythic and 20% on Heroic.\n    *   Lentil Sprocket location adjusted for X-Treme transit.\n    *   Mug’zee's Hot Mess placement issue resolved.\n*   <strong>Darkflame Cleft:</strong>\n    *   Visual of Rank Overseer’s Wild Wallop updated to match impact area.\n    *   Eerie Molds damage now counts towards damage taken spells like Rewind and Death Strike.\n    *   Shuffling Horror falling through the world issue fixed.\n*   <strong>Operation Mechagon: Workshop:</strong> Junkyard D.0.G. rooted issue fixed to prevent other D.0.G.s from casting Fiery Jaws.",
         "word_stats": {
           "original": 4115,
-          "summary": 294,
-          "reduction_percent": 92.9
+          "summary": 178,
+          "reduction_percent": 95.7
         }
       },
       "M+": {
@@ -742,19 +742,1691 @@
         }
       },
       "PvP": {
-        "summary": "Please refer to the general summary.",
+        "summary": "<ul>\n  <li>Druid: Balance & Restoration</li>\n  <ul>\n    <li>Wrath damage increased by 15% in PvP.</li>\n    <li>Keeper of the Grove: Blooming Infusion increases next Wrath/Starfire damage by 25% (was 100%) in PvP.</li>\n  </ul>\n  <li>Death Knight: Improved Death Strike no longer reduced by 50% in PvP.</li>\n  <li>Death Knight: Frost</li>\n  <ul>\n    <li>Frost Strike damage increased by 12% in PvP.</li>\n    <li>Obliterate damage increased by 12% in PvP.</li>\n  </ul>\n  <li>Death Knight: Unholy</li>\n  <ul>\n    <li>Magus of the Dead’s Shadow Bolt damage no longer reduced by 50% in PvP.</li>\n    <li>Festering Strike damage increased by 100% in PvP.</li>\n  </ul>\n  <li>Mage: Fire</li>\n  <ul>\n    <li>Pyroblast, Fire Blast, Fireball, Scorch damage increased by 20%, 15%, 15%, 15% respectively in PvP.</li>\n    <li>Frostfire: Frostfire Bolt damage increased by 15% in PvP.</li>\n  </ul>\n  <li>Mage: Frost</li>\n  <ul>\n    <li>Frostfire: Overpowered Barrier reflects 40% of damage absorbed (was 60%).</li>\n  </ul>\n  <li>Priest: Discipline</li>\n  <ul>\n    <li>Power Word: Radiance healing no longer reduced by 10% in PvP.</li>\n    <li>Ultimate Penitence damage and healing increased by 35% in PvP.</li>\n  </ul>\n  <li>Rogue: Outlaw</li>\n  <ul>\n    <li>Combat Stamina increases Stamina by 18% in PvP (was 12%).</li>\n  </ul>\n  <li>Shaman: Restoration</li>\n  <ul>\n    <li>Earth Shield and Earthliving Weapon healing increased by 20% in PvP.</li>\n    <li>Healing Rain healing increased by 15% in PvP.</li>\n    <li>Totemic: Surging Totem healing increased by 15% in PvP.</li>\n    <li>Totemic: Lively Totems casts a free Chain Heal at 150% effectiveness in PvP (was 100%).</li>\n  </ul>\n  <li>Warlock: Demon Skin armor increase 30% more effective in PvP.</li>\n  <li>Warrior: Arms</li>\n  <ul>\n    <li>Execute damage reduced by 15% in PvP.</li>\n    <li>Rend damage increased by 15% in PvP.</li>\n  </ul>\n  <li>Hunter: Master's Call now applies correctly to self and pet regardless of target. Command Pet maintains overridden spell in arenas.</li>\n  <li>Warrior: Wrecking Throw and Shattering Throw shield damage increase 75% less effective in PvP (was 30%).</li>\n  <li>Players in Random Battlegrounds can no longer see opposing names until the match begins. This applies to all rated and unrated battlegrounds and brawls.</li>\n</ul>",
         "word_stats": {
           "original": 4115,
-          "summary": 6,
-          "reduction_percent": 99.9
+          "summary": 306,
+          "reduction_percent": 92.6
         }
       },
       "Open World": {
-        "summary": "<ul><li><strong>Delves:</strong> The Overcharged Titan Console now spawns in the Shadow Realm. Tuning adjustments were made to Durable Information Storage Container belt effects, increasing Critical Chain by 25% and Static Charge by 50%, while decreasing Charged Crystal by 24% and Charged Bolt by 62% to balance their power.</li><li><strong>Lorewalking:</strong> Fixed an issue that could cause players to become stuck in Ny'alotha or be removed from artifact acquisition scenarios. Players were also occasionally teleported to Dalaran after specific cutscenes.</li><li><strong>Achievements:</strong> \"I'm Bringing Nerub-ack\" and \"Can You Please Spell \"Gobanna?\" now count towards \"Azeroth's Next Top Model\".</li><li><strong>Quests:</strong> Fixed visibility issues with Danath and Geya'rah on \"Faerin's Request\" and ensured Marran's jail cell door on \"Return to Stromgarde\" remains closed. The meaty bait for \"In a Pinch\" now shows up and is larger for improved visibility.</li></ul>",
+        "summary": "- Achievements: \"I'm Bringing Nerub-ack\" and \"Can You Please Spell 'Gobanna?'\" now count towards \"Azeroth's Next Top Model.\"\n- Delves: Overcharged Titan Console now spawns in the Shadow Realm. Adjustments made to Durable Information Storage Container belt effects: Critical Chain increased by 25%, Static Charge increased by 50%, Charged Crystal decreased by 24%, Charged Bolt decreased by 62%.\n- Lorewalking: Fixed issues preventing players from getting stuck in Ny'alotha or being teleported to Dalaran after cutscenes.\n- Quests: Danath and Geya'rah will no longer be invisible during \"Faerin's Request.\" Marran's jail cell door on \"Return to Stromgarde\" will no longer open inexplicably. Meaty bait in \"In a Pinch\" will now appear and has been increased in size.\n- Nightfall Event: Flame’s Radiance reputation gains increased by 100%. Nightfall Item vendors now offer additional weapons and shields.\n- Achievements: \"Gilded of the Undermine\" achievement completion bug fixed; log out in a War Within zone and log back in if eligible.\n- Mounts: Ground Skimming vigor recovery during Skyriding increased.",
         "word_stats": {
           "original": 4115,
+          "summary": 168,
+          "reduction_percent": 95.9
+        }
+      }
+    }
+  },
+  {
+    "id": "join-world-of-warcraft-at-gamescom-2025",
+    "title": "Join World of Warcraft at gamescom 2025!",
+    "date": "2025-06-23",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24215994/join-world-of-warcraft-at-gamescom-2025",
+    "summary": "World of Warcraft will attend gamescom 2025, August 20-24 in Cologne, Germany. The booth in Hall 8 will feature a Mythic Dungeon and Arena Showcase, Cosplay Showcase, and developer/creator meet and greets. Expect exclusive news and updates on the upcoming expansion, *Midnight*, the next part of the Worldsoul Saga. Live coverage will be available on official news and social media channels for those unable to attend.",
+    "word_stats": {
+      "original": 124,
+      "summary": 66,
+      "reduction_percent": 46.8
+    },
+    "classSummaries": {
+      "Warrior": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 124,
+          "summary": 6,
+          "reduction_percent": 95.2
+        }
+      },
+      "Mage": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 124,
+          "summary": 6,
+          "reduction_percent": 95.2
+        }
+      },
+      "Rogue": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 124,
+          "summary": 6,
+          "reduction_percent": 95.2
+        }
+      },
+      "Priest": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 124,
+          "summary": 6,
+          "reduction_percent": 95.2
+        }
+      },
+      "Paladin": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 124,
+          "summary": 6,
+          "reduction_percent": 95.2
+        }
+      },
+      "Hunter": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 124,
+          "summary": 6,
+          "reduction_percent": 95.2
+        }
+      },
+      "Warlock": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 124,
+          "summary": 6,
+          "reduction_percent": 95.2
+        }
+      },
+      "Death Knight": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 124,
+          "summary": 6,
+          "reduction_percent": 95.2
+        }
+      },
+      "Druid": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 124,
+          "summary": 6,
+          "reduction_percent": 95.2
+        }
+      },
+      "Monk": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 124,
+          "summary": 6,
+          "reduction_percent": 95.2
+        }
+      },
+      "Evoker": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 124,
+          "summary": 6,
+          "reduction_percent": 95.2
+        }
+      },
+      "Demon Hunter": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 124,
+          "summary": 6,
+          "reduction_percent": 95.2
+        }
+      }
+    },
+    "contentTypeSummaries": {
+      "Delves": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 124,
+          "summary": 6,
+          "reduction_percent": 95.2
+        }
+      },
+      "Raiding": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 124,
+          "summary": 6,
+          "reduction_percent": 95.2
+        }
+      },
+      "M+": {
+        "summary": "<ul>\n  <li>World of Warcraft will feature a Mythic Dungeon Showcase at gamescom 2025.</li>\n  <li>The event will take place from August 20-24 in Cologne, Germany.</li>\n  <li>Attendees can expect exclusive news and updates on <em>Midnight</em>, the next chapter in the Worldsoul Saga.</li>\n</ul>",
+        "word_stats": {
+          "original": 124,
+          "summary": 41,
+          "reduction_percent": 66.9
+        }
+      },
+      "PvP": {
+        "summary": "<p>World of Warcraft will feature a Mythic Dungeon and Arena Showcase at gamescom 2025, running from August 20-24 in Cologne, Germany.</p>\n<p>The event will provide exclusive news and updates on the upcoming expansion, <em>Midnight</em>, directly from the development team.</p>",
+        "word_stats": {
+          "original": 124,
+          "summary": 39,
+          "reduction_percent": 68.5
+        }
+      },
+      "Open World": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 124,
+          "summary": 6,
+          "reduction_percent": 95.2
+        }
+      }
+    }
+  },
+  {
+    "id": "wow-weekly-the-legacy-of-arathor-content-update-is-now-live-and-more",
+    "title": "WoW Weekly: The Legacy of Arathor Content Update is Now Live, and More!",
+    "date": "2025-06-20",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24213952/wow-weekly-the-legacy-of-arathor-content-update-is-now-live-and-more",
+    "summary": "<p>The Legacy of Arathor content update is live, featuring Overcharged Delves and a Combat Assistant. The Ghosts of K'aresh update for The War Within adds a new zone and continues the campaign. Turbulent Timeways returns with new dungeons and a mount reward. The Midsummer Fire Festival is available June 21-July 5, with new content in Khaz Algar. Sales offer discounts on The War Within, game services, and collectibles.</p>",
+    "word_stats": {
+      "original": 682,
+      "summary": 68,
+      "reduction_percent": 90
+    },
+    "classSummaries": {
+      "Warrior": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 682,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Mage": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 682,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Rogue": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 682,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Priest": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 682,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Paladin": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 682,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Hunter": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 682,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Warlock": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 682,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Death Knight": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 682,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Druid": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 682,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Monk": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 682,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Evoker": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 682,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Demon Hunter": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 682,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      }
+    },
+    "contentTypeSummaries": {
+      "Delves": {
+        "summary": "<p>Overcharged Delves have been introduced with the Legacy of Arathor content update.</p>",
+        "word_stats": {
+          "original": 682,
+          "summary": 12,
+          "reduction_percent": 98.2
+        }
+      },
+      "Raiding": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 682,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "M+": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 682,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "PvP": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 682,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Open World": {
+        "summary": "The \"Ghosts of K’aresh\" content update for The War Within introduces an all-new zone and continues the expansion's campaign. The Midsummer Fire Festival is now live until July 5th, and for the first time, it will be celebrated in Khaz Algar with new faction achievements, vendor items, and cosmetic drops from Frost Lord Ahune.",
+        "word_stats": {
+          "original": 682,
+          "summary": 54,
+          "reduction_percent": 92.1
+        }
+      }
+    }
+  },
+  {
+    "id": "embrace-the-heat-during-the-midsummer-fire-festival",
+    "title": "Embrace the Heat During the Midsummer Fire Festival",
+    "date": "2025-06-20",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24213951/embrace-the-heat-during-the-midsummer-fire-festival",
+    "summary": "The Midsummer Fire Festival runs June 21 - July 5. New for 2025, it extends to Khaz Algar with new zone achievements and transmog items. A new vendor offers transmog pieces, and Frost Lord Ahune has new cosmetic drops. Players can fight Ahune daily for loot, complete quests for Burning Blossoms, and desecrate or honor bonfires across Azeroth's zones for achievements. Completing specific sets of achievements earns the \"Flame Keeper\" or \"Flame Warden\" titles. Several new pets and cosmetic items are available.",
+    "word_stats": {
+      "original": 1797,
+      "summary": 82,
+      "reduction_percent": 95.4
+    },
+    "classSummaries": {
+      "Warrior": {
+        "summary": "New for 2025, the Midsummer Fire Festival expands to Khaz Algar with new faction achievements. Holiday vendors offer transmog gear: Grand Helm, Grand Mantle, and Grand Belt of the Fire Festival. Frost Lord Ahune will drop new cosmetic items, including the Crown of the Frost Lord and two-hand polearms/staves such as Glazfuris and Rethfuras.\n\nPlayers can earn Burning Blossoms by completing daily quests and participating in events. The holiday boss, Ahune, can be challenged daily via the Group Finder for a Satchel of Chilled Goods. The event features achievements for desecrating and honoring bonfires across various continents and expansions, culminating in meta-achievements like \"The Flame Keeper\" or \"The Flame Warden\" which grant titles. Other achievements involve torch juggling, dancing at ribbon poles, and stealing flames from enemy capital cities. New pets include Igneous Flameling, Frigid Frostling, Spirit of Summer, and Blazing Cindercrawler. Players can also acquire new cosmetic sets, heirlooms, and toys.",
+        "word_stats": {
+          "original": 1797,
+          "summary": 152,
+          "reduction_percent": 91.5
+        }
+      },
+      "Mage": {
+        "summary": "The Midsummer Fire Festival in The War Within introduces new content for Khaz Algar, including faction achievements like \"Flame Keeper of Khaz Algar\" and \"Flame Warden of Khaz Algar.\"\n\nNew transmog items available from the holiday vendor include the Grand Helm, Grand Mantle, and Grand Belt of the Fire Festival. Frost Lord Ahune will drop new cosmetic items: the Crown of the Frost Lord, Glazfuris (Two-Hand Polearm), Rethfuras (Two-Hand Polearm), Glazfuris (Two-Hand Staff), and Rethfuras (Two-Hand Staff).\n\nThe event also features activities such as defeating Ahune for a daily reward and completing quests for experience, gold, and Burning Blossoms. A significant portion of the achievements involves honoring and desecrating bonfires across various zones, including the new Khaz Algar zones. Completing specific sets of these achievements grants meta-achievements like \"The Fires of Azeroth\" and ultimately \"The Flame Keeper\" (Horde) or \"The Flame Warden\" (Alliance) titles. Other achievements include \"Torch Juggler,\" \"Ice the Frost Lord,\" \"King of the Fire Festival,\" and \"Burning Hot Pole Dance.\"\n\nNew pets include the Igneous Flameling, Frigid Frostling, Spirit of Summer, and Blazing Cindercrawler. Cosmetic items like the Mantle of the Fire Festival, Vestments of Summer, Sandals of Summer, Helm of the Fire Festival, and Tabards of Summer are available, alongside heirlooms and toys.",
+        "word_stats": {
+          "original": 1797,
+          "summary": 207,
+          "reduction_percent": 88.5
+        }
+      },
+      "Rogue": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1797,
+          "summary": 6,
+          "reduction_percent": 99.7
+        }
+      },
+      "Priest": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1797,
+          "summary": 6,
+          "reduction_percent": 99.7
+        }
+      },
+      "Paladin": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1797,
+          "summary": 6,
+          "reduction_percent": 99.7
+        }
+      },
+      "Hunter": {
+        "summary": "Midsummer Fire Festival Update:\n\n*   **New Content in Khaz Algar:**\n    *   Faction achievements for honoring flames in Azj-Kahet, Hallowfall, Isle of Dorn, and The Ringing Deeps.\n    *   New Transmog items: Grand Helm, Grand Mantle, and Grand Belt of the Fire Festival.\n    *   New cosmetic drops from Frost Lord Ahune: Crown of the Frost Lord, Glazfuris (Polearm/Staff), and Rethfuras (Polearm/Staff).\n\n*   **Activities:**\n    *   Daily encounters with Frost Lord Ahune for a Satchel of Chilled Goods.\n    *   Daily quests awarding experience, gold, and Burning Blossoms.\n    *   Achievements for desecrating and honoring bonfires across all major continents and expansions, including Khaz Algar.\n    *   Meta-achievements for completing regional bonfire achievements, leading to \"Flame Keeper\" or \"Flame Warden\" titles.\n\n*   **Rewards:**\n    *   Various cosmetic items, including Summer Wear and Tabards.\n    *   Heirloom upgrades.\n    *   Toys like the Fire Eater's Hearthstone and Cozy Bonfire.\n    *   Pets: Igneous Flameling, Frigid Frostling, Spirit of Summer, and Blazing Cindercrawler.",
+        "word_stats": {
+          "original": 1797,
+          "summary": 150,
+          "reduction_percent": 91.7
+        }
+      },
+      "Warlock": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1797,
+          "summary": 6,
+          "reduction_percent": 99.7
+        }
+      },
+      "Death Knight": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1797,
+          "summary": 6,
+          "reduction_percent": 99.7
+        }
+      },
+      "Druid": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1797,
+          "summary": 6,
+          "reduction_percent": 99.7
+        }
+      },
+      "Monk": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1797,
+          "summary": 6,
+          "reduction_percent": 99.7
+        }
+      },
+      "Evoker": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1797,
+          "summary": 6,
+          "reduction_percent": 99.7
+        }
+      },
+      "Demon Hunter": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1797,
+          "summary": 6,
+          "reduction_percent": 99.7
+        }
+      }
+    },
+    "contentTypeSummaries": {
+      "Delves": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1797,
+          "summary": 6,
+          "reduction_percent": 99.7
+        }
+      },
+      "Raiding": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1797,
+          "summary": 6,
+          "reduction_percent": 99.7
+        }
+      },
+      "M+": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1797,
+          "summary": 6,
+          "reduction_percent": 99.7
+        }
+      },
+      "PvP": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1797,
+          "summary": 6,
+          "reduction_percent": 99.7
+        }
+      },
+      "Open World": {
+        "summary": "<p>The Midsummer Fire Festival returns from June 21st to July 5th, with new content for The War Within expansion.</p>\n\n<ul>\n<li><strong>Khaz Algar Integration:</strong> The festival now includes Khaz Algar zones: Azj-Kahet, Hallowfall, Isle of Dorn, and The Ringing Deeps.</li>\n<li><strong>New Achievements:</strong> Two new faction-specific achievements are introduced for honoring flames in Khaz Algar: Flame Keeper of Khaz Algar (Horde) and Flame Warden of Khaz Algar (Alliance).</li>\n<li><strong>New Vendor Items:</strong> Obtain transmog gear: Grand Helm, Grand Mantle, and Grand Belt of the Fire Festival.</li>\n<li><strong>New Ahune Drops:</strong> Frost Lord Ahune will now drop cosmetic items: Crown of the Frost Lord, Glazfuris (Polearm), Rethfuras (Polearm), Glazfuris (Staff), and Rethfuras (Staff).</li>\n</ul>",
+        "word_stats": {
+          "original": 1797,
+          "summary": 109,
+          "reduction_percent": 93.9
+        }
+      }
+    }
+  },
+  {
+    "id": "wowcast-immerse-yourself-in-the-ghosts-of-karesh-content-update",
+    "title": "WoWCast: Immerse Yourself in the Ghosts of K’aresh Content Update",
+    "date": "2025-06-18",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24215104/wowcast-immerse-yourself-in-the-ghosts-of-karesh-content-update",
+    "summary": "<p>The Ghosts of K'aresh update for The War Within continues the campaign, introducing the shattered world of K'aresh as a new zone.</p>\n<p>Key additions include:</p>\n<ul>\n  <li>Tazavesh, the Veiled Market as a new city hub.</li>\n  <li>Manaforge Omega raid.</li>\n  <li>Upgradeable Reshii Wraps artifact and Phase Diving.</li>\n  <li>The Archival Assault Delve and the Ecological Succession system.</li>\n  <li>New dungeon Eco-Dome Al'dani and an updated dungeon pool for Season 3, with Tazavesh returning as a Mega-dungeon.</li>\n  <li>Class updates and new class sets tied to Hero Talents.</li>\n  <li>PvP updates and a new outdoor PvP location.</li>\n</ul>",
+    "word_stats": {
+      "original": 1151,
+      "summary": 91,
+      "reduction_percent": 92.1
+    },
+    "classSummaries": {
+      "Warrior": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1151,
+          "summary": 6,
+          "reduction_percent": 99.5
+        }
+      },
+      "Mage": {
+        "summary": "<ul><li>The Mage class will receive new Class Sets with set bonuses that align with Hero Talents, rather than traditional specializations.</li></ul>",
+        "word_stats": {
+          "original": 1151,
+          "summary": 20,
+          "reduction_percent": 98.3
+        }
+      },
+      "Rogue": {
+        "summary": "<ul>\n    <li><strong>Reshii Wraps:</strong> An upgradeable artifact cloak that allows Rogues to transform into an energy form.</li>\n    <li><strong>Phase Diving:</strong> A new open-world content type accessed via the Reshii Wraps, featuring new creatures, objectives, world quests, and mechanics like \"Warrants.\"</li>\n    <li><strong>Tazavesh, the Veiled Market:</strong> Returns as a hub city and also features two dungeons: \"Tazavesh Streets of Wonder\" and \"Tazavesh So'leah's Gambit\" in the Season 3 Mythic+ dungeon pool.</li>\n    <li><strong>Class Updates:</strong> Specific Rogue specializations may receive updates, though not explicitly detailed for Rogues in this excerpt.</li>\n    <li><strong>New Class Sets:</strong> Rogues will receive new class gear with set bonuses that align with their chosen Hero Talents.</li>\n    <li><strong>PvP Updates:</strong> Several PvP talents will be updated, and a new outdoor PvP zone, \"Vanquisher's Wake,\" will be available.</li>\n</ul>",
+        "word_stats": {
+          "original": 1151,
+          "summary": 123,
+          "reduction_percent": 89.3
+        }
+      },
+      "Priest": {
+        "summary": "<ul>\n    <li>Shadow Priest receives gameplay updates in the Ghosts of K’aresh content update.</li>\n    <li>New class sets will be available, with set bonuses aligning to Hero Talents rather than specializations.</li>\n</ul>",
+        "word_stats": {
+          "original": 1151,
+          "summary": 30,
+          "reduction_percent": 97.4
+        }
+      },
+      "Paladin": {
+        "summary": "The Ghosts of K'aresh update continues The War Within campaign, introducing the shattered world of K'aresh as a new zone and Tazavesh, the Veiled Market, as a city hub. Players will confront Dimensius, the All-Devouring, and his followers.\n\nKey additions for Paladins include:\n\n*   **New Upgradeable Artifact: Reshii Wraps:** This artifact cloak allows players to transform into an energy form, enabling new gameplay mechanics like Phase Diving and interaction within various content such as the Manaforge Omega raid, open world, and delves. The Reshii Wraps will scale and visually update as players progress.\n*   **New Class Updates:** Specific class updates are mentioned, but Paladin-specific details are not provided in this text.\n*   **New Class Sets:** New class gear sets will feature set bonuses that align with chosen Hero Talents, rather than class or specialization.",
+        "word_stats": {
+          "original": 1151,
+          "summary": 134,
+          "reduction_percent": 88.4
+        }
+      },
+      "Hunter": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1151,
+          "summary": 6,
+          "reduction_percent": 99.5
+        }
+      },
+      "Warlock": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1151,
+          "summary": 6,
+          "reduction_percent": 99.5
+        }
+      },
+      "Death Knight": {
+        "summary": "-   **Frost Death Knight** and **Unholy Death Knight** will receive class updates focusing on new gameplay for their specializations.\n-   New tier sets will be available, with set bonuses aligning with Hero Talents rather than traditional class or specialization.",
+        "word_stats": {
+          "original": 1151,
+          "summary": 39,
+          "reduction_percent": 96.6
+        }
+      },
+      "Druid": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1151,
+          "summary": 6,
+          "reduction_percent": 99.5
+        }
+      },
+      "Monk": {
+        "summary": "<ul>\n<li>Brewmaster Monk is receiving class updates in Ghosts of K’aresh.</li>\n<li>New class sets will align set bonuses with Hero Talents, not specialization.</li>\n</ul>",
+        "word_stats": {
+          "original": 1151,
+          "summary": 24,
+          "reduction_percent": 97.9
+        }
+      },
+      "Evoker": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1151,
+          "summary": 6,
+          "reduction_percent": 99.5
+        }
+      },
+      "Demon Hunter": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1151,
+          "summary": 6,
+          "reduction_percent": 99.5
+        }
+      }
+    },
+    "contentTypeSummaries": {
+      "Delves": {
+        "summary": "*   **The Archival Assault** is a new Delve located in the Azure Vaults on the Dragon Isles.\n*   Players will encounter ethereals, ethereal pirates, and brokers who are plundering this Delve.\n*   The use of **Reshii Wraps** will unlock unique challenge gateways to bosses and challenge rooms within The Archival Assault.\n*   Players may encounter the ghosts of fallen friends within the Delve.\n*   A boss encounter with **Nexus Princess Ky’veza** will be featured in this season's Delve.",
+        "word_stats": {
+          "original": 1151,
+          "summary": 78,
+          "reduction_percent": 93.2
+        }
+      },
+      "Raiding": {
+        "summary": "<ul>\n<li>The new raid, <strong>Manaforge Omega</strong>, is a massive facility where players will fight Shadow Guard Ethereals attempting to revive Dimensius.</li>\n<li>Players will ultimately confront Dimensius in a cosmic battle within this raid.</li>\n<li>The Reshii Wraps artifact can be used in the Manaforge Omega raid.</li>\n<li>Tazavesh, the Veiled Market, previously a dungeon, will now serve as a home base for adventurers.</li>\n</ul>",
+        "word_stats": {
+          "original": 1151,
+          "summary": 62,
+          "reduction_percent": 94.6
+        }
+      },
+      "M+": {
+        "summary": "<ul>\n<li>The War Within Season 3 introduces Eco-Dome Al’dani as a new dungeon.</li>\n<li>The Mythic+ dungeon pool for Season 3 will include:</li>\n<ul>\n<li>Returning: Halls of Atonement, Tazavesh: Streets of Wonder, Tazavesh: So’leah’s Gambit, Ara-Kara: City of Echoes, The Dawnbreaker, Priory of the Sacred Flame, Operation Floodgate.</li>\n<li>New: Eco-Dome Al’dani.</li>\n</ul>\n<li>Tazavesh, the Veiled Market, will also be available as a full Mega-dungeon.</li>\n<li>Checkpoints in dungeons are being updated and will be visually represented as Waystones on the map.</li>\n</ul>",
+        "word_stats": {
+          "original": 1151,
+          "summary": 80,
+          "reduction_percent": 93
+        }
+      },
+      "PvP": {
+        "summary": "<ul>\n  <li>Several PvP talents will receive updates.</li>\n  <li>A new World Quest, \"Vanquisher's Wake,\" will be available on an island for outdoor PvP battles.</li>\n  <li>Entry to Vanquisher's Wake does not require a quest; players can enter with War Mode enabled.</li>\n</ul>",
+        "word_stats": {
+          "original": 1151,
+          "summary": 40,
+          "reduction_percent": 96.5
+        }
+      },
+      "Open World": {
+        "summary": "<p>The <strong>Ghosts of K’aresh</strong> content update introduces a new zone, <strong>K’aresh</strong>, the fragmented homeworld of the ethereals, which players can explore.</p>\n<ul>\n<li>Players continue The War Within campaign, aiding Alleria Windrunner and Locus-Walker against Dimensius.</li>\n<li><strong>Tazavesh, the Veiled Market</strong> returns as a city hub for adventurers.</li>\n<li>The artifact, <strong>Reshii Wraps</strong>, allows players to engage in <strong>Phase Diving</strong>, a new overlay of K’aresh featuring unique creatures, objectives, and world quests like \"Warrants\" for hunting notorious monsters.</li>\n<li>The <strong>Ecological Succession</strong> system involves restoring K’aresh's eco-domes by collecting and relocating creatures from other zones.</li>\n<li>A new World Quest is added to Vanquisher's Wake island for outdoor PvP.</li>\n</ul>",
+        "word_stats": {
+          "original": 1151,
+          "summary": 105,
+          "reduction_percent": 90.9
+        }
+      }
+    }
+  },
+  {
+    "id": "dive-into-summer-and-save-up-to-50",
+    "title": "Dive into Summer and Save up to 50%!",
+    "date": "2025-06-17",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24215169/dive-into-summer-and-save-up-to-50",
+    "summary": "<p>Save up to 50% on <em>The War Within</em>, mounts, pets, toys, and transmogs. This summer sale includes discounts on select game services (Name Change, Race Change, Faction Change, Paid Character Transfer) and a 33% discount on Level 70 Character Boosts. The sale ends June 30, 2025.</p>",
+    "word_stats": {
+      "original": 636,
+      "summary": 46,
+      "reduction_percent": 92.8
+    },
+    "classSummaries": {
+      "Warrior": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 636,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Mage": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 636,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Rogue": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 636,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Priest": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 636,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Paladin": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 636,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Hunter": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 636,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Warlock": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 636,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Death Knight": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 636,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Druid": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 636,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Monk": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 636,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Evoker": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 636,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Demon Hunter": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 636,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      }
+    },
+    "contentTypeSummaries": {
+      "Delves": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 636,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Raiding": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 636,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "M+": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 636,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "PvP": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 636,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Open World": {
+        "summary": "<p>The War Within expansion is available for 50% off. This offers players a chance to experience the subterranean worlds of Khaz Algar, encounter the Earthen, face the nerubian empire, and engage with goblin culture.</p>\n<p>Additionally, discounts are available on select mounts, pets, toys, and transmog appearances, as well as game services like name changes, race changes, and faction changes. An Enhanced Level 70 Character Boost is also on sale at 33% off.</p>",
+        "word_stats": {
+          "original": 636,
+          "summary": 72,
+          "reduction_percent": 88.7
+        }
+      }
+    }
+  },
+  {
+    "id": "go-on-an-adventure-in-the-legacy-of-arathor-content-update-now-live",
+    "title": "Go on an Adventure in the Legacy of Arathor Content Update—Now Live!",
+    "date": "2025-06-17",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24208341/go-on-an-adventure-in-the-legacy-of-arathor-content-update-now-live",
+    "summary": "The \"Legacy of Arathor\" update arrives June 17th, bringing a new Arathi Highlands campaign with branching faction viewpoints. Players can experience lore with Lorewalker Cho, tackle enhanced Overcharged Delves with new affixes and trait trees, and utilize new UI options like Assisted Highlight and Single-Button Assistant. Turbulent Timeways will feature Battle for Azeroth dungeons, and the Greedy Emissary event returns with new rewards including mount and recolored Tier 2 armor.",
+    "word_stats": {
+      "original": 993,
+      "summary": 70,
+      "reduction_percent": 93
+    },
+    "classSummaries": {
+      "Warrior": {
+        "summary": "<p>Warriors will have access to the new <strong>Assisted Highlight</strong> UI option, which highlights the next recommended ability. The <strong>Single-Button Assistant</strong> will also be available, allowing players to cast a sequence of recommended damage abilities with a single button press, with a slight additional global cooldown between casts.</p>",
+        "word_stats": {
+          "original": 993,
+          "summary": 47,
+          "reduction_percent": 95.3
+        }
+      },
+      "Mage": {
+        "summary": "<ul>\n    <li><strong>Assisted Highlight:</strong> This UI option highlights the next recommended ability for damage rotations, assisting players with new specializations or those seeking guidance.</li>\n    <li><strong>Single-Button Assistant:</strong> For more casual play or accessibility needs, this feature casts the next recommended damage ability with a single button press, including an added global cooldown between abilities. It also detects optimal AoE or multi-target usage.</li>\n    <li><strong>Tier 2 Armor Set Recolors:</strong> Mage armor sets will receive recolors as part of the Greedy Emissary event rewards.</li>\n</ul>",
+        "word_stats": {
+          "original": 993,
+          "summary": 80,
+          "reduction_percent": 91.9
+        }
+      },
+      "Rogue": {
+        "summary": "<ul>\n  <li>The Legacy of Arathor update introduces a new campaign in the Arathi Highlands.</li>\n  <li>Rogues can utilize new UI options:</li>\n  <ul>\n    <li>Assisted Highlight: Recommends the next ability based on resources and situation.</li>\n    <li>Single-Button Assistant: Casts the next recommended damage ability with a single button press, including AoE or multi-target spells when appropriate.</li>\n  </ul>\n  <li>The Greedy Emissary event returns with new rewards, including recolors of classic Tier 2 armor sets, with the Rogue set being among them.</li>\n</ul>",
+        "word_stats": {
+          "original": 993,
+          "summary": 77,
+          "reduction_percent": 92.2
+        }
+      },
+      "Priest": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 993,
+          "summary": 6,
+          "reduction_percent": 99.4
+        }
+      },
+      "Paladin": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 993,
+          "summary": 6,
+          "reduction_percent": 99.4
+        }
+      },
+      "Hunter": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 993,
+          "summary": 6,
+          "reduction_percent": 99.4
+        }
+      },
+      "Warlock": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 993,
+          "summary": 6,
+          "reduction_percent": 99.4
+        }
+      },
+      "Death Knight": {
+        "summary": "<p>The \"Legacy of Arathor\" update introduces new content relevant to Death Knights:</p>\n<ul>\n  <li><strong>Arathi Highlands Campaign:</strong> A new storyline focusing on Stromgarde and Hammerfall.</li>\n  <li><strong>Lorewalking with Lorewalker Cho:</strong> Players can experience curated lore moments related to Xal'atath, Ethereals, and The Lich King.</li>\n  <li><strong>Overcharged Delves:</strong> Delves will feature new affixes and a specific trait tree to enhance gameplay.</li>\n  <li><strong>UI Updates:</strong> Assisted Highlight and Single-Button Assistant are new options to aid in ability rotation and combat.</li>\n  <li><strong>Tier 2 Armor Recalibrations:</strong> The Greedy Emissary event will offer recolored classic Tier 2 armor sets, including a Death Knight set.</li>\n</ul>",
+        "word_stats": {
+          "original": 993,
+          "summary": 96,
+          "reduction_percent": 90.3
+        }
+      },
+      "Druid": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 993,
+          "summary": 6,
+          "reduction_percent": 99.4
+        }
+      },
+      "Monk": {
+        "summary": "<ul><li>Monks will receive recolored Tier 2 armor sets during the Greedy Emissary event, returning the week of July 1.</li></ul>",
+        "word_stats": {
+          "original": 993,
+          "summary": 19,
+          "reduction_percent": 98.1
+        }
+      },
+      "Evoker": {
+        "summary": "The Legacy of Arathor update brings new UI options:\n\n*   <strong>Assisted Highlight:</strong> Highlights the next recommended ability for damage rotations, aiding new players or those trying new specializations.\n*   <strong>Single-Button Assistant:</strong> Casts the next recommended damage ability in sequence with a single button press, including AoE detection. A small additional global cooldown is added between abilities when using this feature.",
+        "word_stats": {
+          "original": 993,
+          "summary": 60,
+          "reduction_percent": 94
+        }
+      },
+      "Demon Hunter": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 993,
+          "summary": 6,
+          "reduction_percent": 99.4
+        }
+      }
+    },
+    "contentTypeSummaries": {
+      "Delves": {
+        "summary": "- **Overcharged Delves**: Six new Delves in Khaz Algar offer increased challenge with a Delve-specific affix, new Titan enemies, more traps, and a dedicated trait tree to alter trap effects.",
+        "word_stats": {
+          "original": 993,
+          "summary": 30,
+          "reduction_percent": 97
+        }
+      },
+      "Raiding": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 993,
+          "summary": 6,
+          "reduction_percent": 99.4
+        }
+      },
+      "M+": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 993,
+          "summary": 6,
+          "reduction_percent": 99.4
+        }
+      },
+      "PvP": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 993,
+          "summary": 6,
+          "reduction_percent": 99.4
+        }
+      },
+      "Open World": {
+        "summary": "- **New Arathi Highlands Campaign:** A new storyline focusing on Stromgarde and Hammerfall in the Arathi Highlands, dealing with a conspiracy and tensions. Player faction influences the narrative.\n- **Lorewalking with Lorewalker Cho:** Players can revisit iconic Azeroth lore moments related to Xal'atath, Ethereals, and The Lich King.\n- **Overcharged Delves:** Six new Delve encounters in Khaz Algar featuring Titan enemies, increased traps, a new Delve-specific affix, and a new trait tree.\n- **Turbulent Timeways Refresh:** Battle for Azeroth dungeons are added to the Timeways rotation, including six new dungeons. A new vendor is available in Boralus and Dazar'Alor.\n- **The Greedy Emissary Returns:** Treasure goblins will appear in various locations with new rewards, including a mount and recolored Tier 2 armor sets.",
+        "word_stats": {
+          "original": 993,
+          "summary": 123,
+          "reduction_percent": 87.6
+        }
+      }
+    }
+  },
+  {
+    "id": "take-a-timely-tour-through-the-turbulent-timeways",
+    "title": "Take a Timely Tour Through the Turbulent Timeways",
+    "date": "2025-06-17",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24209852/take-a-timely-tour-through-the-turbulent-timeways",
+    "summary": "A seven-week Timewalking event begins, featuring six Battle for Azeroth dungeons. Players earn a stacking experience buff (\"Knowledge of the Timeways,\" up to 30%) and can achieve \"Mastery of the Timeways\" for five weeks to earn the Chrono Corsair mount. Timewalking dungeons scale enemies and loot to player level. Dungeons drop Heroic-level gear and grant reputation bonuses for the corresponding expansion. The event also includes a new Battle for Azeroth vendor and a temporary quest offering increased rewards.",
+    "word_stats": {
+      "original": 2011,
+      "summary": 78,
+      "reduction_percent": 96.1
+    },
+    "classSummaries": {
+      "Warrior": {
+        "summary": "The Turbulent Timeways event focuses on Battle for Azeroth Timewalking dungeons.\n<ul>\n  <li>Six Battle for Azeroth dungeons are available: Atal'Dazar, Freehold, King's Rest, Shrine of the Storm, Temple of Sethraliss, and Waycrest Manor.</li>\n  <li>Completing Timewalking dungeons grants \"Knowledge of the Timeways,\" a stacking buff increasing experience gains by 5% per stack, up to 30% after four stacks (\"Mastery of the Timeways\").</li>\n  <li>This buff is account-wide and persists through death.</li>\n  <li>The \"Master of the Turbulent Timeways III\" achievement rewards a new mount for maintaining \"Mastery of the Timeways\" for five weeks.</li>\n  <li>A Battle for Azeroth Timewalking vendor is available in Boralus and Dazar'Alor.</li>\n  <li>The weekly Timewalking quest offers an increased reward: a Heroic Cache of Undermine Treasures (item levels 649-658).</li>\n  <li>Reputation gains from quests and creature kills related to Battle for Azeroth are increased by 50% during the event.</li>\n</ul>",
+        "word_stats": {
+          "original": 2011,
+          "summary": 139,
+          "reduction_percent": 93.1
+        }
+      },
+      "Mage": {
+        "summary": "No Mage-specific content was found in this blog post.",
+        "word_stats": {
+          "original": 2011,
+          "summary": 9,
+          "reduction_percent": 99.6
+        }
+      },
+      "Rogue": {
+        "summary": "The current Timewalking event features a seven-week rotation of past expansion dungeons.\n\nFor Rogues, the Battle for Azeroth Timewalking weeks (June 17 and July 29) include dungeons like Freehold and Waycrest Manor.\nThe Mists of Pandaria Timewalking week (June 24) includes dungeons like Shado-Pan Monastery.\nThe Burning Crusade Timewalking week (July 1) includes dungeons like Magister's Terrace.\nThe Warlords of Draenor Timewalking week (July 8) includes dungeons like Grimrail Depot.\nThe Legion Timewalking week (July 15) includes dungeons like Court of Stars.\n\nThe event also offers a stacking buff, \"Knowledge of the Timeways,\" which increases experience gains and can be upgraded to \"Mastery of the Timeways\" after five weeks, rewarding a Chrono Corsair mount.",
+        "word_stats": {
+          "original": 2011,
+          "summary": 114,
+          "reduction_percent": 94.3
+        }
+      },
+      "Priest": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 2011,
+          "summary": 6,
+          "reduction_percent": 99.7
+        }
+      },
+      "Paladin": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 2011,
+          "summary": 6,
+          "reduction_percent": 99.7
+        }
+      },
+      "Hunter": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 2011,
+          "summary": 6,
+          "reduction_percent": 99.7
+        }
+      },
+      "Warlock": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 2011,
+          "summary": 6,
+          "reduction_percent": 99.7
+        }
+      },
+      "Death Knight": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 2011,
+          "summary": 6,
+          "reduction_percent": 99.7
+        }
+      },
+      "Druid": {
+        "summary": "<p>The current Timewalking event features a rotating selection of dungeons from previous expansions, including Battle for Azeroth, Mists of Pandaria, The Burning Crusade, Warlords of Draenor, and Legion.</p>\n<ul>\n  <li>Druids can expect the following dungeons to be available during their respective weeks:\n    <ul>\n      <li>Battle for Azeroth: Atal'Dazar, Freehold, King's Rest, Shrine of the Storm, Temple of Sethraliss, Waycrest Manor</li>\n      <li>Legion: Black Rook Hold, Court of Stars, Darkheart Thicket, Eye of Azshara, Neltharion's Lair, Vault of the Wardens</li>\n    </ul>\n  </li>\n  <li>The \"Knowledge of the Timeways\" buff provides an experience bonus, stacking up to 30% with \"Mastery of the Timeways.\"</li>\n  <li>Completing the \"Master of the Turbulent Timeways III\" achievement by maintaining the \"Mastery of the Timeways\" buff for five weeks awards the Chrono Corsair mount.</li>\n  <li>Timewalking dungeons scale enemies and loot to player level.</li>\n  <li>Reputation gains are increased by 50% for factions associated with the current expansion's Timewalking week.</li>\n</ul>",
+        "word_stats": {
+          "original": 2011,
+          "summary": 148,
+          "reduction_percent": 92.6
+        }
+      },
+      "Monk": {
+        "summary": "The blog post details a multi-week Timewalking event featuring Battle for Azeroth dungeons.\n\n*   Six Battle for Azeroth dungeons will be available: Atal'Dazar, Freehold, King's Rest, Shrine of the Storm, Temple of Sethraliss, and Waycrest Manor.\n*   A new Battle for Azeroth Timewalking vendor will be present in Boralus and Dazar'Alor.\n*   Completing Timewalking dungeons grants a stacking experience buff, \"Knowledge of the Timeways,\" which caps at 30% increased experience with \"Mastery of the Timeways\" after four stacks.\n*   Players can earn the Chrono Corsair mount by achieving \"Master of the Turbulent Timeways III,\" which requires maintaining the \"Mastery of the Timeways\" buff for five weeks during the event.\n*   Timewalking dungeons scale enemies and loot to player level and offer a 50% bonus to reputation gains from Battle for Azeroth content during the relevant week.",
+        "word_stats": {
+          "original": 2011,
+          "summary": 136,
+          "reduction_percent": 93.2
+        }
+      },
+      "Evoker": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 2011,
+          "summary": 6,
+          "reduction_percent": 99.7
+        }
+      },
+      "Demon Hunter": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 2011,
+          "summary": 6,
+          "reduction_percent": 99.7
+        }
+      }
+    },
+    "contentTypeSummaries": {
+      "Delves": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 2011,
+          "summary": 6,
+          "reduction_percent": 99.7
+        }
+      },
+      "Raiding": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 2011,
+          "summary": 6,
+          "reduction_percent": 99.7
+        }
+      },
+      "M+": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 2011,
+          "summary": 6,
+          "reduction_percent": 99.7
+        }
+      },
+      "PvP": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 2011,
+          "summary": 6,
+          "reduction_percent": 99.7
+        }
+      },
+      "Open World": {
+        "summary": "The \"Turbulent Timeways\" event features a weekly rotation of Timewalking dungeons from past expansions, starting with Battle for Azeroth (June 17-24). This includes six specific BfA dungeons: Atal'Dazar, Freehold, King's Rest, Shrine of the Storm, Temple of Sethraliss, and Waycrest Manor.\n\nDuring the event, players will receive a \"Knowledge of the Timeways\" buff, increasing experience gain from monsters and quests by 5%, which stacks to 30% after four applications, becoming \"Mastery of the Timeways.\" This buff is account-wide and persists through death, aiding alt leveling.\n\nA new Battle for Azeroth vendor will be available in Boralus and Dazar'Alor. The weekly Timewalking quest offers an enhanced reward: a Heroic Cache of Undermine Treasures (items level 649-658) for a limited time.\n\nCompleting the \"Master of the Turbulent Timeways III\" achievement, earned by maintaining \"Mastery of the Timeways\" for five weeks, grants the new Chrono Corsair mount. Previous rewards, like the Timely Buzzbee mount, will also be available from the Timewalking vendor.\n\nTimewalking dungeons scale enemies and loot to player level, offering a chance at Heroic item drops and awarding reputation with relevant factions. Additionally, all reputations from the corresponding expansion will grant a 50% bonus from quests and creature kills while Timewalking is active. The event continues with Mists of Pandaria, The Burning Crusade, Warlords of Draenor, Legion, and Classic Timewalking dungeons in subsequent weeks.",
+        "word_stats": {
+          "original": 2011,
+          "summary": 223,
+          "reduction_percent": 88.9
+        }
+      }
+    }
+  },
+  {
+    "id": "wow-classic-20th-anniversary-edition-phase-5-launches-july-10",
+    "title": "WoW Classic 20th Anniversary Edition Phase 5 Launches July 10",
+    "date": "2025-06-16",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24213950/wow-classic-20th-anniversary-edition-phase-5-launches-july-10",
+    "summary": "The War Effort begins July 10th, enabling players to contribute resources to open the Gates of Ahn'Qiraj. Completing the \"Bang a Gong!\" quest first earns the Black Qiraji Resonating Crystal mount and triggers a 10-hour window for others to obtain it. This unlocks the 20-player Ruins of Ahn'Qiraj and 40-player Temple of Ahn'Qiraj raids, featuring new class armor sets and the \"Treasures of the Timeless One\" epic weapon quest.",
+    "word_stats": {
+      "original": 1199,
+      "summary": 69,
+      "reduction_percent": 94.2
+    },
+    "classSummaries": {
+      "Warrior": {
+        "summary": "<ul><li>The War Effort requires players to turn in supplies to open the Gates of Ahn'Qiraj.</li>\n<li>Warriors can turn in Commendations to War Effort Commanders for their faction.</li>\n<li>Completing the \"Scepter of the Shifting Sands\" questline and the \"Bang a Gong!\" quest grants the Black Qiraji Resonating Crystal mount.</li>\n<li>Warriors can obtain the Conqueror's Battlegear set from the Temple of Ahn'Qiraj and the Battlegear of Unyielding Strength set (Ring, Cloak, 1H Axe) from the Ruins of Ahn'Qiraj.</li></ul>",
+        "word_stats": {
+          "original": 1199,
+          "summary": 76,
+          "reduction_percent": 93.7
+        }
+      },
+      "Mage": {
+        "summary": "<ul>\n    <li>Mages can obtain two new class armor sets:</li>\n    <ul>\n        <li><b>Trappings of Vaulted Secrets</b> from Ruins of Ahn'Qiraj, including a ring, cloak, and 1H sword.</li>\n        <li><b>Enigma Vestments</b> (boots, circlet, leggings, robes, shoulderpads) from Temple of Ahn'Qiraj, acquired through reputation with the Brood of Nozdormu and raid tokens.</li>\n    </ul>\n</ul>",
+        "word_stats": {
+          "original": 1199,
+          "summary": 49,
+          "reduction_percent": 95.9
+        }
+      },
+      "Rogue": {
+        "summary": "<ul>\n<li>Rogues can obtain the <strong>Emblems of Veiled Shadows</strong> set from Ruins of Ahn'Qiraj, which includes a ring, cloak, and dagger.</li>\n<li>The <strong>Deathdealer's Embrace</strong> set, a Tier 2.5 raid set, is available from Temple of Ahn'Qiraj. This set includes boots, helm, spaulders, leggings, and vest.</li>\n</ul>",
+        "word_stats": {
+          "original": 1199,
+          "summary": 46,
+          "reduction_percent": 96.2
+        }
+      },
+      "Priest": {
+        "summary": "<ul>\n<li>Priests can obtain the <strong>Finery of Infinite Wisdom</strong> set (Ring, Cloak, 1H Mace) from the Ruins of Ahn'Qiraj.</li>\n<li>Priests can obtain the <strong>Garments of the Oracle</strong> set (Boots, Mantle, Tiara, Trousers, Vestments) from the Temple of Ahn'Qiraj by collecting Qiraji Tokens, Idols, and Scarabs, and reaching reputation with the Brood of Nozdormu.</li>\n</ul>",
+        "word_stats": {
+          "original": 1199,
+          "summary": 54,
+          "reduction_percent": 95.5
+        }
+      },
+      "Paladin": {
+        "summary": "Paladins can obtain two new armor sets:\n\n*   **Battlegear of Eternal Justice:** Acquired from the Ruins of Ahn'Qiraj, this set includes a ring, cloak, and a 1H sword.\n*   **Avenger's Battlegear:** This set, consisting of a breastplate, crown, greaves, leggings, and pauldrons, is obtained from the Temple of Ahn'Qiraj and requires collecting Qiraji Tokens, Idols, and Scarabs, along with gaining reputation with the Brood of Nozdormu.",
+        "word_stats": {
+          "original": 1199,
+          "summary": 66,
+          "reduction_percent": 94.5
+        }
+      },
+      "Hunter": {
+        "summary": "<ul>\n  <li>Hunters can obtain the Tier 2.5 armor set, \"Trappings of the Unseen Path,\" from the Ruins of Ahn'Qiraj (20-player raid).</li>\n  <li>This set includes a ring (Signet of the Unseen Path), a cloak (Cloak of the Unseen Path), and a 1H Axe (Scythe of the Unseen Path).</li>\n  <li>The Tier 2.5 raid set, \"Striker's Guard,\" is acquired from the Temple of Ahn'Qiraj (40-player raid) and includes armor pieces: Striker's Diadem, Striker's Footguards, Striker's Hauberk, Striker's Leggings, and Striker's Pauldrons.</li>\n  <li>Acquiring these sets requires collecting Qiraji Tokens, class-specific Idols, and Scarabs from the raids, in addition to reaching specific Reputation levels with the Brood of Nozdormu.</li>\n</ul>",
+        "word_stats": {
+          "original": 1199,
+          "summary": 105,
+          "reduction_percent": 91.2
+        }
+      },
+      "Warlock": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1199,
+          "summary": 6,
+          "reduction_percent": 99.5
+        }
+      },
+      "Death Knight": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1199,
+          "summary": 6,
+          "reduction_percent": 99.5
+        }
+      },
+      "Druid": {
+        "summary": "Druids can obtain the Symbols of Unending Life set from the Ruins of Ahn'Qiraj, including the Band of Unending Life (Ring), Cloak of Unending Life (Cloak), and Mace of Unending Life (1H Mace). The Genesis Raiment set is available from the Temple of Ahn'Qiraj and includes Genesis Boots, Genesis Helm, Genesis Shoulderpads, Genesis Trousers, and Genesis Vest.",
+        "word_stats": {
+          "original": 1199,
+          "summary": 57,
+          "reduction_percent": 95.2
+        }
+      },
+      "Monk": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1199,
+          "summary": 6,
+          "reduction_percent": 99.5
+        }
+      },
+      "Evoker": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1199,
+          "summary": 6,
+          "reduction_percent": 99.5
+        }
+      },
+      "Demon Hunter": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1199,
+          "summary": 6,
+          "reduction_percent": 99.5
+        }
+      }
+    },
+    "contentTypeSummaries": {
+      "Delves": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1199,
+          "summary": 6,
+          "reduction_percent": 99.5
+        }
+      },
+      "Raiding": {
+        "summary": "The War Effort begins July 10th, requiring players to contribute resources to unlock the Ruins of Ahn'Qiraj (20-player) and Temple of Ahn'Qiraj (40-player) raids.\n\n*   **War Effort Contribution:** Factions must turn in large quantities of supplies. If requirements aren't met within 15 days of unlock, automatic low-level contributions will begin.\n*   **\"Bang a Gong!\" Quest:** The first player to complete the \"Scepter of the Shifting Sands\" questline and turn in \"Bang a Gong!\" will open the Gates of Ahn'Qiraj for the server and receive the Black Qiraji Resonating Crystal mount.\n*   **Ten Hour War:** After the gong is rung, a 10-hour window opens for players to complete the questline and obtain the mount. Raid access begins after this window.\n*   **\"Treasures of the Timeless One\":** Players who complete \"The Might of Kalimdor\" questline (part of the Scepter of the Shifting Sands) are eligible for this quest, which rewards a choice of epic weapons.\n*   **Raid Content:**\n    *   **Ruins of Ahn'Qiraj:** 20-player raid with 6 bosses. Requires level 60 and Cenarion Circle reputation.\n    *   **Temple of Ahn'Qiraj:** 40-player raid with 9 bosses. Requires level 60 and Brood of Nozdormu reputation.\n*   **New Class Armor Sets:**\n    *   Tier 2.5 raid sets are obtainable from both Ahn'Qiraj raids through boss loot, Qiraji Tokens, Idols, and Scarabs, along with reputation with the Brood of Nozdormu.\n    *   Ruins of Ahn'Qiraj drops items for specific slots (rings, cloaks, 1H weapons) and pieces for sets like Genesis Raiment (Druid) and Striker's Guard (Hunter).\n    *   Temple of Ahn'Qiraj drops full set pieces for all classes, such as Avenger's Battlegear (Paladin) and Conqueror's Battlegear (Warrior).",
+        "word_stats": {
+          "original": 1199,
+          "summary": 266,
+          "reduction_percent": 77.8
+        }
+      },
+      "M+": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1199,
+          "summary": 6,
+          "reduction_percent": 99.5
+        }
+      },
+      "PvP": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1199,
+          "summary": 6,
+          "reduction_percent": 99.5
+        }
+      },
+      "Open World": {
+        "summary": "The War Effort begins July 10th, requiring players to turn in vast amounts of supplies to open the Gates of Ahn'Qiraj.\nThe first player to complete the \"Bang a Gong!\" quest after the gates open will receive the Black Qiraji Resonating Crystal mount.\nA 10-hour window follows the gong ringing, during which players can complete quests and earn the mount.\nAfter this window, the Ruins of Ahn'Qiraj (20-player) and Temple of Ahn'Qiraj (40-player) raids will become available.\nPlayers who complete the \"Scepter of the Shifting Sands\" questline, but not \"Bang a Gong!\" in time, can still earn an epic weapon through the \"Treasures of the Timeless One\" quest.\nNew Tier 2.5 armor sets can be obtained from both raid instances, requiring reputation with the Brood of Nozdormu and specific tokens.",
+        "word_stats": {
+          "original": 1199,
           "summary": 130,
-          "reduction_percent": 96.8
+          "reduction_percent": 89.2
+        }
+      }
+    }
+  },
+  {
+    "id": "wow-weekly-the-legacy-of-arathor-arrives-june-17-and-more",
+    "title": "WoW Weekly: The Legacy of Arathor Arrives June 17, and More!",
+    "date": "2025-06-13",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24213948/wow-weekly-the-legacy-of-arathor-arrives-june-17-and-more",
+    "summary": "The Legacy of Arathor content update, launching June 17, introduces Overcharged Delves and a new story campaign in the Arathi Highlands focusing on Stromgarde and Hammerfall.  The update also includes UI enhancements like the Combat Assistant and Single-Button Assistant to aid players. A new short story, \"Faith & Flame,\" features Faerin Lothar.",
+    "word_stats": {
+      "original": 388,
+      "summary": 52,
+      "reduction_percent": 86.6
+    },
+    "classSummaries": {
+      "Warrior": {
+        "summary": "-   The \"Legacy of Arathor\" content update, live June 17, will introduce new UI options: \"Assisted Highlight\" and \"Single-Button Assistant.\"\n-   These assistances aim to help players learn new classes or alts, including Warriors, and will evolve over time.\n-   A new story campaign, \"Rise of the Red Dawn,\" will feature branching viewpoints based on faction and involve characters like Faerin, Danath, and Geya'rah dealing with a conspiracy in the Arathi Highlands.",
+        "word_stats": {
+          "original": 388,
+          "summary": 72,
+          "reduction_percent": 81.4
+        }
+      },
+      "Mage": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 388,
+          "summary": 6,
+          "reduction_percent": 98.5
+        }
+      },
+      "Rogue": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 388,
+          "summary": 6,
+          "reduction_percent": 98.5
+        }
+      },
+      "Priest": {
+        "summary": "<ul><li>The \"Legacy of Arathor\" content update introduces new UI options: Assisted Highlight and Single-Button Assistant, aimed at assisting players with learning new classes or alternate characters.</li><li>The War Within's \"Rise of the Red Dawn\" story campaign will feature Faerin, Danath, and Geya'rah dealing with a new enemy in the Arathi Highlands.</li><li>The short story \"Faith & Flame\" by L. L. McKinney, featuring Faerin Lothar, will be available.</li></ul>",
+        "word_stats": {
+          "original": 388,
+          "summary": 65,
+          "reduction_percent": 83.2
+        }
+      },
+      "Paladin": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 388,
+          "summary": 6,
+          "reduction_percent": 98.5
+        }
+      },
+      "Hunter": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 388,
+          "summary": 6,
+          "reduction_percent": 98.5
+        }
+      },
+      "Warlock": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 388,
+          "summary": 6,
+          "reduction_percent": 98.5
+        }
+      },
+      "Death Knight": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 388,
+          "summary": 6,
+          "reduction_percent": 98.5
+        }
+      },
+      "Druid": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 388,
+          "summary": 6,
+          "reduction_percent": 98.5
+        }
+      },
+      "Monk": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 388,
+          "summary": 6,
+          "reduction_percent": 98.5
+        }
+      },
+      "Evoker": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 388,
+          "summary": 6,
+          "reduction_percent": 98.5
+        }
+      },
+      "Demon Hunter": {
+        "summary": "No Demon Hunter-specific content was found in the provided blog post.",
+        "word_stats": {
+          "original": 388,
+          "summary": 11,
+          "reduction_percent": 97.2
+        }
+      }
+    },
+    "contentTypeSummaries": {
+      "Delves": {
+        "summary": "<ul><li>Overcharged Delves will be introduced in the Legacy of Arathor content update, launching June 17.</li></ul>",
+        "word_stats": {
+          "original": 388,
+          "summary": 15,
+          "reduction_percent": 96.1
+        }
+      },
+      "Raiding": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 388,
+          "summary": 6,
+          "reduction_percent": 98.5
+        }
+      },
+      "M+": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 388,
+          "summary": 6,
+          "reduction_percent": 98.5
+        }
+      },
+      "PvP": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 388,
+          "summary": 6,
+          "reduction_percent": 98.5
+        }
+      },
+      "Open World": {
+        "summary": "The \"Legacy of Arathor\" content update introduces a new story campaign, \"Rise of the Red Dawn,\" set in the Arathi Highlands. Players will join Faerin, Danath, and Geya'rah to investigate a conspiracy and manage rising tensions between Stromgarde and Hammerfall. The campaign will feature branching viewpoints based on the player's faction. Additionally, new UI options, \"Assisted Highlight\" and \"Single-Button Assistant,\" are being added to help players learn new classes or alternate characters, with further evolution planned.",
+        "word_stats": {
+          "original": 388,
+          "summary": 76,
+          "reduction_percent": 80.4
+        }
+      }
+    }
+  },
+  {
+    "id": "legacy-of-arathor-update-notes",
+    "title": "Legacy of Arathor Update Notes",
+    "date": "2025-06-12",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24206706/legacy-of-arathor-update-notes",
+    "summary": "The Legacy of Arathor update introduces a new campaign questline, \"Rise of the Red Dawn,\" with faction-specific rewards. Players can now \"Lorewalk\" with Lorewalker Cho, revisiting iconic Azerothian moments with new toys as rewards. Overcharged Delves offer increased challenge and new rewards, including a mount. UI enhancements include Assisted Highlight and a Single-Button Assistant for improved gameplay guidance. Battle for Azeroth Timewalking dungeons are added, alongside Timewalking dungeon adjustments to increase difficulty and reward Timewarped Badges. The Greedy Emissary event returns with enhanced Treasure Goblins and legacy loot buffs. A new class ability, \"Recuperate,\" is added.",
+    "word_stats": {
+      "original": 1389,
+      "summary": 96,
+      "reduction_percent": 93.1
+    },
+    "classSummaries": {
+      "Warrior": {
+        "summary": "Warrior:\n*   New Ability: Recuperate - Restores 50% of maximum health over 10 seconds.",
+        "word_stats": {
+          "original": 1389,
+          "summary": 14,
+          "reduction_percent": 99
+        }
+      },
+      "Mage": {
+        "summary": "<ul>\n<li>Mages receive a new ability: <strong>Recuperate</strong>, which restores 50% of maximum health over 10 seconds by preparing and eating food.</li>\n<li>Timewalking dungeons have been adjusted to allow players to practice class rotations more authentically. This includes increased enemy and boss health, and changes to difficulty scaling to make gear more impactful.</li>\n<li>The Turbulent Timeways event will feature Battle for Azeroth dungeons for seven weeks, starting and ending with BFA content. New Timewalking dungeons from BFA include Atal’Dazar, Freehold, King’s Rest, Shrine of the Storm, Temple of Sethraliss, and Waycrest Manor.</li>\n</ul>",
+        "word_stats": {
+          "original": 1389,
+          "summary": 92,
+          "reduction_percent": 93.4
+        }
+      },
+      "Rogue": {
+        "summary": "-   Rogues receive a new ability: **Recuperate**, which restores 50% of maximum health over 10 seconds.\n-   Timewalking dungeons are being adjusted to encourage more authentic class usage and rotation practice. Enemy and boss health are increased, with difficulty scaling changes to make geared players' damage more noticeable and lower-geared players more resistant. Item level scaling will now account for enchantments and gems.\n-   Timewalking dungeons will now drop Adventurer gear and reward 25 Timewarped Badges per completion.\n-   Battle for Azeroth Timewalking dungeons will be added to the rotation, with new dungeons including Freehold and Waycrest Manor. A new Battle for Azeroth vendor will also be available.",
+        "word_stats": {
+          "original": 1389,
+          "summary": 108,
+          "reduction_percent": 92.2
+        }
+      },
+      "Priest": {
+        "summary": "A new Priest ability, **Recuperate**, has been introduced, allowing Priests to restore 50% of their maximum health over 10 seconds by preparing and consuming food.",
+        "word_stats": {
+          "original": 1389,
+          "summary": 25,
+          "reduction_percent": 98.2
+        }
+      },
+      "Paladin": {
+        "summary": "- Paladins receive a new ability: **Recuperate**, which restores 50% of maximum health over 10 seconds by preparing and consuming food.",
+        "word_stats": {
+          "original": 1389,
+          "summary": 21,
+          "reduction_percent": 98.5
+        }
+      },
+      "Hunter": {
+        "summary": "<ul><li>The Hunter class will receive a new ability: <strong>Recuperate</strong>, which restores 50% of maximum health over 10 seconds.</li></ul>",
+        "word_stats": {
+          "original": 1389,
+          "summary": 18,
+          "reduction_percent": 98.7
+        }
+      },
+      "Warlock": {
+        "summary": "- Warlocks gain a new ability: \"Recuperate\" which restores 50% of maximum health over 10 seconds.\n- The Cooldown Manager will now display information for Warlock summons tracked on the Totem frame, such as Earth Elemental and Call Dreadstalkers.",
+        "word_stats": {
+          "original": 1389,
+          "summary": 39,
+          "reduction_percent": 97.2
+        }
+      },
+      "Death Knight": {
+        "summary": "<ul>\n    <li>Death Knights gain a new ability: <strong>Recuperate</strong>, which restores 50% of maximum health over 10 seconds.</li>\n    <li>Timewalking dungeons have seen difficulty adjustments, including increased enemy and boss health, and changes to player damage scaling.</li>\n    <li>Lower-geared players will be slightly more damage-resistant, while higher-geared players will notice more incoming damage.</li>\n    <li>Timewalking dungeons now drop Adventurer gear and reward 25 Timewarped Badges upon completion.</li>\n</ul>",
+        "word_stats": {
+          "original": 1389,
+          "summary": 64,
+          "reduction_percent": 95.4
+        }
+      },
+      "Druid": {
+        "summary": "Druid\n*   New Ability: Recuperate – Restores 50% of maximum health over 10 seconds.",
+        "word_stats": {
+          "original": 1389,
+          "summary": 14,
+          "reduction_percent": 99
+        }
+      },
+      "Monk": {
+        "summary": "<li>Monks gain a new ability: <strong>Recuperate</strong>, which restores 50% of maximum health over 10 seconds.</li>\n<li>Timewalking dungeons have been rebalanced, with increased enemy and boss health, and adjustments to difficulty scaling to make player abilities and rotations more impactful. Gear is also more rewarding in Timewalking.</li>",
+        "word_stats": {
+          "original": 1389,
+          "summary": 46,
+          "reduction_percent": 96.7
+        }
+      },
+      "Evoker": {
+        "summary": "Evokers receive a new defensive ability: <strong>Recuperate</strong>, which restores 50% of maximum health over 10 seconds.",
+        "word_stats": {
+          "original": 1389,
+          "summary": 16,
+          "reduction_percent": 98.8
+        }
+      },
+      "Demon Hunter": {
+        "summary": "<p>The <strong>Demon Hunter</strong> class receives one new ability:</p>\n<ul>\n<li><strong>Recuperate:</strong> Restores 50% of maximum health over 10 seconds.</li>\n</ul>\n<p>All classes, including Demon Hunters, will benefit from changes to Timewalking dungeons, which include increased enemy and boss health, adjusted difficulty scaling for both lower and higher geared players, and increased Timewarped Badge rewards.</p>",
+        "word_stats": {
+          "original": 1389,
+          "summary": 53,
+          "reduction_percent": 96.2
+        }
+      }
+    },
+    "contentTypeSummaries": {
+      "Delves": {
+        "summary": "<ul>\n  <li>Overcharged Delves are being introduced with six new locations across Khaz Algar.</li>\n  <li>These Delves will feature a new Delve-specific affix to increase challenge.</li>\n  <li>Players can unlock traits in a new, Delve-specific trait tree.</li>\n  <li>New rewards include the upgradeable Durable Information Securing Container belt, the OC91 Chariot mount, and the Redeployment Module Hearthstone toy.</li>\n  <li>Players will also earn more Delves currency.</li>\n</ul>",
+        "word_stats": {
+          "original": 1389,
+          "summary": 62,
+          "reduction_percent": 95.5
+        }
+      },
+      "Raiding": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1389,
+          "summary": 6,
+          "reduction_percent": 99.6
+        }
+      },
+      "M+": {
+        "summary": "Overcharged Delves introduce new challenges within six dungeons across Khaz Algar. These delves feature Titan enemies, more traps, a new delve-specific affix to amp difficulty, and an additional trait tree. Players can earn the upgradeable Durable Information Securing Container belt, the OC91 Chariot mount, the Redeployment Module Hearthstone toy, and more Delves currency.",
+        "word_stats": {
+          "original": 1389,
+          "summary": 53,
+          "reduction_percent": 96.2
+        }
+      },
+      "PvP": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 1389,
+          "summary": 6,
+          "reduction_percent": 99.6
+        }
+      },
+      "Open World": {
+        "summary": "<ul>\n<li>A new campaign questline, \"Rise of the Red Dawn,\" is available in the Arathi Highlands, focusing on Stromgarde and Hammerfall tensions. Rewards include faction-specific tabards and an \"Lamplighter's Pauldrons\" transmog.</li>\n<li>\"Go Lorewalking with Lorewalker Cho\" allows players to revisit three curated storylines: Xal'atath, Ethereals, and The Lich King. Rewards include three new toys: \"Echo of Xal'atath,\" \"K’aresh Memory Crystal,\" and \"Royal Visage.\"</li>\n<li>Overcharged Delves introduces six new Delve instances with a new Delve-specific affix, Titan enemies, traps, and a new trait tree. Rewards include the \"OC91 Chariot\" mount and \"Redeployment Module\" Hearthstone toy.</li>\n<li>The Turbulent Timeways event will feature Battle for Azeroth dungeons for seven weeks, with six new dungeons added: Atal’Dazar, Freehold, King's Rest, Shrine of the Storm, Temple of Sethraliss, and Waycrest Manor. A new vendor will be available in Boralus and Dazar'alor.</li>\n<li>The Greedy Emissary event returns, featuring Treasure Goblins with new affixes and rewards including a mount and recolors of classic Tier 2 armor sets. A \"Collector’s Bounty\" buff will increase legacy loot drops.</li>\n</ul>",
+        "word_stats": {
+          "original": 1389,
+          "summary": 170,
+          "reduction_percent": 87.8
+        }
+      }
+    }
+  },
+  {
+    "id": "legacy-of-arathor-get-an-assist-with-new-ui-options",
+    "title": "Legacy of Arathor: Get an Assist With New UI Options",
+    "date": "2025-06-11",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24205457/legacy-of-arathor-get-an-assist-with-new-ui-options",
+    "summary": "<p>Legacy of Arathor introduces two UI options to assist players.</p>\n<p><strong>Assisted Highlight</strong> suggests the next recommended damage ability, helping new players or those trying new specs. It focuses only on DPS abilities.</p>\n<p><strong>Single-Button Assistant</strong> casts the next recommended damage ability with a single button press, including AoE when appropriate. A small global cooldown is added between uses. It’s designed for a more casual experience.</p>\n<p>These features aim to lower the barrier to entry and improve accessibility.</p>",
+    "word_stats": {
+      "original": 381,
+      "summary": 76,
+      "reduction_percent": 80.1
+    },
+    "classSummaries": {
+      "Warrior": {
+        "summary": "The Legacy of Arathor update introduces two UI features to assist players with rotations:\n\n*   <strong>Assisted Highlight:</strong> This option highlights the next recommended damage ability based on your character's resources and current situation. It focuses on DPS abilities only, excluding buffs, healing, and damage mitigation.\n*   <strong>Single-Button Assistant:</strong> This feature provides a single button to cast the next recommended damage-dealing ability in sequence. It includes a small additional global cooldown between abilities and can detect when to use AoE or multi-target spells.\n\nBoth features are designed to help new players, those trying new specializations, or players seeking additional guidance and accessibility options.",
+        "word_stats": {
+          "original": 381,
+          "summary": 102,
+          "reduction_percent": 73.2
+        }
+      },
+      "Mage": {
+        "summary": "<ul><li>Assisted Highlight will suggest the next recommended damage ability based on situational resources.</li><li>This feature focuses solely on damage abilities, excluding buffs, healing, or mitigation.</li><li>Single-Button Assistant allows casting the next recommended damage ability with a single button press.</li><li>A small additional global cooldown is applied between abilities when using the Single-Button Assistant.</li><li>The Single-Button Assistant will also detect and cast appropriate Area of Effect (AoE) or multi-target spells when applicable.</li></ul>",
+        "word_stats": {
+          "original": 381,
+          "summary": 67,
+          "reduction_percent": 82.4
+        }
+      },
+      "Rogue": {
+        "summary": "*   <strong>Assisted Highlight:</strong> This UI option highlights the recommended next damage-dealing ability based on your current resources and situation. It is designed to assist players learning a new specialization or those seeking guidance on their damage rotation. It will not highlight buffs, healing, or mitigation abilities.\n*   <strong>Single-Button Assistant:</strong> This feature provides a single button to cast the next recommended damage-dealing ability in sequence. It can also detect when to use Area of Effect (AoE) or multi-target abilities in the open world. A small additional global cooldown is applied between abilities when using this feature.",
+        "word_stats": {
+          "original": 381,
+          "summary": 95,
+          "reduction_percent": 75.1
+        }
+      },
+      "Priest": {
+        "summary": "<ul><li>Assisted Highlight will suggest the next recommended damage ability in your rotation, focusing on DPS abilities.</li>\n<li>Single-Button Assistant allows you to cast the next recommended damage ability with a single button press, including AoE/multi-target spells when appropriate.</li>\n<li>A small additional global cooldown is applied between abilities when using the Single-Button Assistant.</li>\n<li>These features are intended to help new players, those trying new specializations, or players seeking additional guidance and accessibility.</li></ul>",
+        "word_stats": {
+          "original": 381,
+          "summary": 70,
+          "reduction_percent": 81.6
+        }
+      },
+      "Paladin": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 381,
+          "summary": 6,
+          "reduction_percent": 98.4
+        }
+      },
+      "Hunter": {
+        "summary": "- Assisted Highlight: Recommends the next damage ability based on situation and resources. Focuses on DPS abilities only.\n- Single-Button Assistant: Casts the next recommended damage ability with a single button press. Includes a small additional global cooldown between abilities. Detects and casts AoE or multi-target abilities when appropriate.",
+        "word_stats": {
+          "original": 381,
+          "summary": 49,
+          "reduction_percent": 87.1
+        }
+      },
+      "Warlock": {
+        "summary": "Warlocks will benefit from new UI features in Legacy of Arathor.\n*   <strong>Assisted Highlight:</strong> When enabled, this feature highlights the recommended next damage ability in your rotation based on your current situation and resources. It is designed for new players, those trying a new specialization, or players seeking guidance. Note that it focuses only on DPS abilities and will not highlight buffs, healing, or damage mitigation.\n*   <strong>Single-Button Assistant:</strong> This new button casts the next recommended damage-dealing ability in sequence. It is intended for players seeking extra help or a more casual experience. A small additional global cooldown is applied between abilities when using this feature. It also automatically detects when to use AoE or multi-target spells in the open world.\n\nThese options aim to improve accessibility and ease the learning curve for Warlocks.",
+        "word_stats": {
+          "original": 381,
+          "summary": 134,
+          "reduction_percent": 64.8
+        }
+      },
+      "Death Knight": {
+        "summary": "*   **Assisted Highlight:** A new UI option that highlights the recommended next damage ability in your rotation based on resources and situational context. This feature focuses solely on DPS abilities, excluding buffs, healing, or damage mitigation.\n*   **Single-Button Assistant:** A new button that casts the next recommended damage-dealing ability in sequence. It includes a slight global cooldown between abilities and can detect when to use Area of Effect (AoE) or multi-target spells. This is designed for players seeking a more casual experience or additional guidance.",
+        "word_stats": {
+          "original": 381,
+          "summary": 85,
+          "reduction_percent": 77.7
+        }
+      },
+      "Druid": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 381,
+          "summary": 6,
+          "reduction_percent": 98.4
+        }
+      },
+      "Monk": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 381,
+          "summary": 6,
+          "reduction_percent": 98.4
+        }
+      },
+      "Evoker": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 381,
+          "summary": 6,
+          "reduction_percent": 98.4
+        }
+      },
+      "Demon Hunter": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 381,
+          "summary": 6,
+          "reduction_percent": 98.4
+        }
+      }
+    },
+    "contentTypeSummaries": {
+      "Delves": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 381,
+          "summary": 6,
+          "reduction_percent": 98.4
+        }
+      },
+      "Raiding": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 381,
+          "summary": 6,
+          "reduction_percent": 98.4
+        }
+      },
+      "M+": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 381,
+          "summary": 6,
+          "reduction_percent": 98.4
+        }
+      },
+      "PvP": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 381,
+          "summary": 6,
+          "reduction_percent": 98.4
+        }
+      },
+      "Open World": {
+        "summary": "<p>The Legacy of Arathor update introduces two new UI features to assist players with their class rotation.</p>\n<ul>\n<li><strong>Assisted Highlight:</strong> This option highlights the recommended next damage-dealing ability based on current resources and situation. It is intended for new players, those trying new specializations, or players seeking guidance on their rotation. It primarily focuses on DPS abilities, excluding buffs, healing, or mitigation.</li>\n<li><strong>Single-Button Assistant:</strong> This feature allows players to cast the next recommended damage ability in sequence with a single button press. It includes a small additional global cooldown between abilities and can detect when an Area of Effect (AoE) or multi-target ability is appropriate. This is aimed at players seeking casual gameplay or additional assistance.</li>\n</ul>\n<p>These features are located in the Game Menu &gt; Options &gt; Gameplay Enhancements for Assisted Highlight, and the Talents &amp; Spellbook for the Single-Button Assistant. Both are designed to improve accessibility and lower the barrier to entry.</p>",
+        "word_stats": {
+          "original": 381,
+          "summary": 154,
+          "reduction_percent": 59.6
         }
       }
     }

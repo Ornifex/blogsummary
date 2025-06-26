@@ -12,7 +12,7 @@ import { CLASSES, CONTENT_TYPES } from "./src/types";
 
 const BASE_URL = "https://worldofwarcraft.blizzard.com";
 const BLOG_LIST_URL = `${BASE_URL}/en-us/search/blog?a=Blizzard%20Entertainment`;
-const OUTPUT_FILE = "./src/public/data/summaries.json";
+const OUTPUT_FILE = "./public/data/summaries.json";
 
 console.log("Loaded API Key:", process.env.GEMINI_API_KEY);
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY!);
@@ -75,9 +75,12 @@ async function summarize(
   if (!preference || !type) {
     // 🟢 GENERAL SUMMARY MODE
     prompt = `
+      You are an expert summarizer for World of Warcraft blog posts, focusing on the current retail version, The War Within and later.
+      Your task is to create a concise, clear summary of the provided blog post content. Do not preface your response with any framing text.
+      Focus on the most relevant and important details, avoiding filler or unnecessary information.
       Summarize the following World of Warcraft blog post in strictly under 100 words.
-      Focus on content relevant to *Retail WoW only* — The War Within and later.
-      Do not include Classic, Wrath, Season of Discovery, Season of Mastery, Mists of Pandaria, Cataclysm, or other non-Retail versions.
+      Focus on content relevant to *Retail WoW only* — current retail is The War Within and later. Next expansion is called Midnight. Current expansion is The War Within.
+      Do not include Classic or Wrath of the Lich King or Season of Discovery or Season of Mastery or Mists of Pandaria or Cataclysm or other non-Retail versions.
       Use clean, minimal HTML (not markdown). Line breaks are allowed. Be clear, concise, and readable.
 
       """
@@ -85,7 +88,9 @@ async function summarize(
       """`;
   } else {
     // 🔵 HYPERFOCUSED SUMMARY MODE
-    const baseInstruction = `Summarize the following blog post in **approximately 150 words**, but only if the content merits it. 
+    const baseInstruction = `You are an expert summarizer for World of Warcraft blog posts, focusing on the current retail version, The War Within and later.
+     Your task is to create a concise, clear summary of the provided blog post content. Do not preface your response with any framing text.
+     Summarize the following blog post in **approximately 150 words**, but only if the content merits it. 
      Feel free to exceed 150 words, if absolutely necessary to capture all relevant info.
      Be concise and avoid filler. 
      If relevant content is sparse, fewer words are preferred.
@@ -219,6 +224,9 @@ async function main() {
     summaries.push(newSummary);
     existingIds.add(post.id);
 
+    if (!existsSync(OUTPUT_FILE)) {
+      writeFileSync(OUTPUT_FILE, "[]");
+    }
     writeFileSync(OUTPUT_FILE, JSON.stringify(summaries, null, 2));
     console.log(`Saved summary for: ${post.title}`);
 
