@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
-import summaries from "./data/summaries.json";
-import type { BlogSummary } from "./types.ts";
+
+import type { BlogSummary } from "./types";
 import {
   Card,
   CardHeader,
@@ -25,10 +25,12 @@ import {
 
 import { FilterBar } from "@/components/FilterBar";
 
+
 export default function App() {
   const PAGE_SIZE = 5;
   const [visibleCount, setVisibleCount] = useState<number>(PAGE_SIZE);
   const [items, setItems] = useState<BlogSummary[]>([]);
+  const [summaries, setSummaries] = useState<BlogSummary[]>([]);
   const [selected, setSelected] = useState({
     classes: new Set<string>(),
     contentTypes: new Set<string>(),
@@ -36,9 +38,61 @@ export default function App() {
   });
 
   useEffect(() => {
-    setItems(summaries.slice(0, visibleCount));
-  }, [visibleCount]);
+    fetch("/data/summaries.json")
+      .then(res => {
+        if (!res.ok) {
+          throw new Error(`HTTP error! status: ${res.status}`);
+        }
+        return res.json();
+      })
+      .then(data => {
+        if (Array.isArray(data) && data.length > 0) {
+          setSummaries(data);
+        } else {
+          setSummaries([
+            {
+              id: "dummy-error",
+              title: "No Summaries Found",
+              original_url: "#",
+              date: "Never",
+              source: "Nowhere",
+              summary: "No summaries were found on file. Please check your data source.",
+              word_stats: {
+                original: 0,
+                summary: 0,
+                reduction_percent: 0
+              },
+              classSummaries: {},
+              contentTypeSummaries: {}
+            }
+          ]);
+        }
+      })
+      .catch((err) => {
+        console.error("Failed to fetch summaries.json:", err);
+        setSummaries([
+          {
+            id: "dummy-error",
+            title: "No Summaries Found",
+            original_url: "#",
+            date: "",
+            source: "",
+            summary: "No summaries were found on file. Please check your data source.",
+            word_stats: {
+              original: 0,
+              summary: 0,
+              reduction_percent: 0
+            },
+            classSummaries: {},
+            contentTypeSummaries: {}
+          }
+        ]);
+      });
+  }, []);
 
+  useEffect(() => {
+    setItems(summaries.slice(0, visibleCount));
+  }, [visibleCount, summaries]);
   const loadMore = () => {
     setVisibleCount((prev) => prev + PAGE_SIZE);
   };
@@ -55,7 +109,7 @@ export default function App() {
     <div className="bg-foreground text-card min-h-screen border-accent">
       {/* <h1 className="text-2xl bg-foreground font-bold p-4 text-center">BlogSummary</h1> */}
       <div className="min-h-screen flex w-3xl min-w-3xl mx-auto p-4">
-        <div className="flex flex-1 flex-col justify-between items-center">
+        <div className="flex flex-1 flex-col items-center">
           <FilterBar selected={selected} setSelected={setSelected} />
 
         {/*<h2 className="text-xl font-semibold mb-4">Latest Summaries</h2>*/}
@@ -96,7 +150,10 @@ export default function App() {
                 {selectedTabs.map((tab) =>
                   tab === "general" ? (
                     <TabsContent key={tab} value="general">
-                      <p className="text-gray-200">{item.summary}</p>
+                      <div
+                        className="text-gray-200"
+                        dangerouslySetInnerHTML={{ __html: item.summary }}
+                      />
                     </TabsContent>
                   ) : (
                     <TabsContent key={tab} value={tab.toLowerCase()}>

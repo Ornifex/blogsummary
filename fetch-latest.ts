@@ -12,7 +12,7 @@ import { CLASSES, CONTENT_TYPES } from "./src/types";
 
 const BASE_URL = "https://worldofwarcraft.blizzard.com";
 const BLOG_LIST_URL = `${BASE_URL}/en-us/search/blog?a=Blizzard%20Entertainment`;
-const OUTPUT_FILE = "./src/data/summaries.json";
+const OUTPUT_FILE = "./src/public/data/summaries.json";
 
 console.log("Loaded API Key:", process.env.GEMINI_API_KEY);
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY!);
@@ -70,20 +70,60 @@ async function summarize(
   preference?: string,
   type?: "class" | "contentType"
 ): Promise<string> {
-  let focus = "";
-  let extra = "";
+  let prompt: string;
 
-  if (type === "class") {
-    focus = `, focusing solely on content relevant to the class "${preference}"`;
-    extra = ` If no relevant content is found, simply return the string "Please refer to the general summary."`;
-  } else if (type === "contentType") {
-    focus = `, focusing on content relevant to the content type "${preference}"`;
-    extra = ` If no relevant content is found, simply return the string "Please refer to the general summary."`;
-  }
+  if (!preference || !type) {
+    // 🟢 GENERAL SUMMARY MODE
+    prompt = `
+      Summarize the following World of Warcraft blog post in strictly under 100 words.
+      Focus on content relevant to *Retail WoW only* — The War Within and later.
+      Do not include Classic, Wrath, Season of Discovery, Season of Mastery, Mists of Pandaria, Cataclysm, or other non-Retail versions.
+      Use clean, minimal HTML (not markdown). Line breaks are allowed. Be clear, concise, and readable.
 
-  const prompt = `Summarize the following World of Warcraft blog post in under 100 words${focus}. 
-                  Do not report anything not directly mentioned in the text. Focus on things relevant to Retail WoW only, The War Within and later.
-                  Use HTML for styling, not markdown. Be concise, but readable, well-formatted.${extra}:\n\n"""\n${text}\n"""`;
+      """
+      ${text}
+      """`;
+  } else {
+    // 🔵 HYPERFOCUSED SUMMARY MODE
+    const baseInstruction = `Summarize the following blog post in **approximately 150 words**, but only if the content merits it. 
+     Feel free to exceed 150 words, if absolutely necessary to capture all relevant info.
+     Be concise and avoid filler. 
+     If relevant content is sparse, fewer words are preferred.
+     Focus on content relevant to *Retail WoW only* — The War Within and later.
+     Do not include Classic, Wrath, Season of Discovery, Season of Mastery, Mists of Pandaria, Cataclysm, or other non-Retail versions.
+     Focusing *only* on content relevant to the selected ${type === "class" ? "class" : "content type"}: "${preference}".`;
+
+    const relevanceFilter = `Ignore all unrelated or general-purpose information already likely covered in the main summary. 
+     Exclude information that applies equally to all players.
+     Do not include background context, unrelated events, or other classes/content types.
+     Ensure all points are consistent with each other and with the source text.
+     Focus solely on the specific ${type === "class" ? "class" : "content type"}: "${preference}".
+     Do not include Classic, Wrath, Season of Discovery, Season of Mastery, Mists of Pandaria, Cataclysm, or other non-Retail versions.
+     Do not include vague statements or generic marketing language (e.g. “players will enjoy exciting adventures”). Focus only on concrete details explicitly stated in the text.
+     M+ pertains to specifically Mythic+ dungeons, not raid content. Raid content excludes M+ dungeons. 
+     Open World content is not M+ or Raiding, it refers specifically to outdoor content like world quests, events, and exploration.`;
+
+    const duplicationWarning = `Assume the user has read the general summary. Do not repeat or paraphrase it.`;
+
+    const formatting = `Output in clean, minimal HTML. Use simple HTML tags such as <strong>, <em>, <ul>, <li>, and <br> only when they improve readability. Avoid tables or excessive formatting. 
+     Use readable, concise, and structured phrasing. Do not use markdown. Only return the raw summary content, which can be formatted for clarity, prefer clarity in formatting, like lists, and linebreaks, where it makes sense. 
+     Do not prepend or append any explanation, greeting, or framing text. This includes most importantly, do not include the words "Summary" or "Summarize" in the output.
+     Do not include any additional context, disclaimers, or explanations. The summary should be ready to be displayed directly to the user without any additional framing or context.
+     `;
+
+    const fallback = `If the blog post contains no content relevant to "${preference}", return exactly: "Please refer to the general summary."`;
+
+    prompt = `
+      ${baseInstruction}
+      ${relevanceFilter}
+      ${duplicationWarning}
+      ${formatting}
+      ${fallback}
+
+      """
+      ${text}
+      """`;
+        }
 
   try {
     const result = await model.generateContent(prompt);
@@ -94,6 +134,7 @@ async function summarize(
     return "[SUMMARY_FAILED]";
   }
 }
+
 
 async function delay(ms: number) {
   return new Promise(resolve => setTimeout(resolve, ms));
