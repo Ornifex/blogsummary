@@ -17,7 +17,12 @@ const OUTPUT_FILE = "./public/data/summaries.json";
 
 console.log("Loaded API Key:", process.env.GEMINI_API_KEY);
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY!);
-const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash-lite-preview-06-17" });
+const model = genAI.getGenerativeModel({ 
+  model: "gemini-2.5-flash-lite-preview-06-17",
+  generationConfig: {
+    temperature: 0.1
+  }
+});
 
 async function fetchBlogList() {
   const res = await axios.get(BLOG_LIST_URL);
@@ -83,45 +88,51 @@ async function summarize(
       Focus on content relevant to *Retail WoW only* — current retail is The War Within and later. Next expansion is called Midnight. Current expansion is The War Within.
       Do not include Classic or Wrath of the Lich King or Season of Discovery or Season of Mastery or Mists of Pandaria or Cataclysm or other non-Retail versions.
       Use clean, minimal HTML (not markdown). Line breaks are allowed. Be clear, concise, and readable.
+      Always begin with a single <strong>highlight sentence</strong>, followed by a <ul> of 3–5 key points, enclosed by <li> tags, each item starting an arrow.
+
 
       """
       ${text}
       """`;
   } else {
     // 🔵 HYPERFOCUSED SUMMARY MODE
-    prompt = `You are an expert summarizer for World of Warcraft blog posts, focusing on the current retail version, The War Within and later.
-     Your task is to create a concise, clear summary of the provided blog post content. Do not preface your response with any framing text.
-     Summarize the following blog post in **approximately 150 words**, but only if the content merits it. 
-     Feel free to exceed 150 words, if absolutely necessary to capture all relevant info.
-     Be concise and avoid filler. 
-     If relevant content is sparse, fewer words are preferred.
-     Focus on content relevant to *Retail WoW only* — The War Within and later.
-     Do not include Classic, Wrath, Season of Discovery, Season of Mastery, Mists of Pandaria, Cataclysm, or other non-Retail versions.
-     Focusing *only* on content relevant to the selected ${type === "class" ? "class" : "content type"}: "${preference}".
+    prompt = `
+        You are an expert summarizer for World of Warcraft blog posts. Focus exclusively on the current Retail WoW version — The War Within and future expansions, which are Midnight and The Last Titan.
 
-    Ignore all unrelated or general-purpose information already likely covered in the main summary. 
-     Exclude information that applies equally to all players.
-     Do not include background context, unrelated events, or other classes/content types.
-     Ensure all points are consistent with each other and with the source text.
-     Focus solely on the specific ${type === "class" ? "class" : "content type"}: "${preference}".
-     Do not include Classic, Wrath, Season of Discovery, Season of Mastery, Mists of Pandaria, Cataclysm, or other non-Retail versions.
-     Do not include vague statements or generic marketing language (e.g. “players will enjoy exciting adventures”). Focus only on concrete details explicitly stated in the text.
-     M+ pertains to specifically Mythic+ dungeons, not raid content. Raid content excludes M+ dungeons. 
-     Open World content is not M+ or Raiding, it refers specifically to outdoor content like world quests, events, and exploration.
+        Your task is to generate a concise, topic-specific summary based on the following blog post. 
+        Focus *only* on content explicitly relevant to the ${type === "class" ? "class" : "content type"}: "${preference}".
 
-    Assume the user has read the general summary. Do not repeat or paraphrase it. 
-    
-    Output in clean, minimal HTML. Use simple HTML tags such as <strong>, <em>, <ul>, <li>, and <br> only when they improve readability. Avoid tables or excessive formatting. 
-     Use readable, concise, and structured phrasing. Do not use markdown. Only return the raw summary content, which can be formatted for clarity, prefer clarity in formatting, like lists, and linebreaks, where it makes sense. 
-     Do not prepend or append any explanation, greeting, or framing text. This includes most importantly, do not include the words "Summary" or "Summarize" in the output.
-     Do not include any additional context, disclaimers, or explanations. The summary should be ready to be displayed directly to the user without any additional framing or context.
-     
+        Do **not** include:
+        - General-purpose information already likely covered in the main summary. This includes game wide events.
+        - Background context, unrelated events, or content about other classes/content types.
+        - Any reference to non-Retail WoW versions (Classic, Wrath, Cataclysm, Mists, SoD, SoM, etc.).
+        - Vague, filler, or promotional language (e.g., “exciting adventures”, “players can look forward to…”).
+        - Explanatory text, introductions, disclaimers, or the word "Summary".
 
-    If the blog post contains no content relevant to "${preference}", return exactly: "Please refer to the general summary."
+        If "${type} ${preference}" is not meaningfully discussed, return exactly:
+        "Please refer to the general summary."
 
-      """
-      ${text}
-      """`;
+        Content Type Definitions:
+        - “Mythic+” refers only to Mythic+ dungeon content — not raids.
+        - “Raids” exclude Mythic+.
+        - “Open World” refers to outdoor content (world quests, events, exploration, the trading post), excluding M+ and Raids.
+        - “PvP” refers to player-vs-player content (battlegrounds, arenas, world PvP), excluding M+ and Raids.
+        - “Classes” refers to the specific class mentioned, specifically class changes, tuning, talent changes, tier set changes, bugfixes, not general class information. When prompted with a class name, do not include any Raid, Mythic+, PvP, or Open World content, regardless of how relevant it may seem.
+        
+
+         Summary instructions:
+        - Aim for ~150 words, but fewer if the relevant content is sparse. More is acceptable only if needed.
+        - Use clean, minimal HTML only.
+        - Do not use markdown formatting.
+        - Use clear, concise language.
+        - Allow these tags only: <strong>, <em>, <ul>, <li>, <br>. Use lists and line breaks to improve clarity.
+        - Return **only** the raw summary. No headers, greetings, or framing.
+        - Always begin with a single <strong>highlight sentence</strong>, followed by a <ul> of 3–5 key points, enclosed by <li> tags, each item starting an arrow.
+
+        """
+        ${text}
+        """
+        `;
         }
 
   try {

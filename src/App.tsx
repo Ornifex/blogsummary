@@ -4,7 +4,6 @@ import type { BlogSummary, Classes, ContentType } from "./types";
 
 type SummaryKey = "General" | Classes | ContentType;
 
-
 import {
   Card,
   CardHeader,
@@ -187,10 +186,10 @@ export default function App() {
                         disabled={isReferToGeneral}
                       >
                         <span className="truncate block">
-                          {tab.charAt(0).toUpperCase() + tab.slice(1)}
                           {isReferToGeneral && (
                             <span className="ml-1 text-red-400" title="No summary">!</span>
                           )}
+                          {tab.charAt(0).toUpperCase() + tab.slice(1)}
                         </span>
                       </TabsTrigger>
                     );
@@ -198,7 +197,6 @@ export default function App() {
                 </TabsList>
 
                 {selectedTabs.map((tab) => {
-                  
                   const summaryData = item.summaries?.[tab as SummaryKey];
                   const wordStats = summaryData?.word_stats;
                   return (

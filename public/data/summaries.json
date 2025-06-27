@@ -1,152 +1,304 @@
 [
   {
+    "id": "take-a-trip-down-forsaken-memories-lane-during-the-july-trading-post",
+    "title": "Take a Trip Down Forsaken Memories Lane During the July Trading Post",
+    "date": "2025-06-26",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24214499/take-a-trip-down-forsaken-memories-lane-during-the-july-trading-post",
+    "summaries": {
+      "Warrior": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 963,
+          "summary": 6,
+          "reduction_percent": 99.4
+        }
+      },
+      "Mage": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 963,
+          "summary": 6,
+          "reduction_percent": 99.4
+        }
+      },
+      "Rogue": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 963,
+          "summary": 6,
+          "reduction_percent": 99.4
+        }
+      },
+      "Priest": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 963,
+          "summary": 6,
+          "reduction_percent": 99.4
+        }
+      },
+      "Paladin": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 963,
+          "summary": 6,
+          "reduction_percent": 99.4
+        }
+      },
+      "Hunter": {
+        "summary": "<strong>The July Trading Post features several Forsaken-themed cosmetic items relevant to Hunters.</strong>\n<ul>\n<li>Wailing Banshee’s Longbow and Forsaken’s Grotesque Longbow are available as Bow transmogs.</li>\n<li>Forsaken’s Grotesque Quiver and Wailing Banshee’s Quiver are available as Back transmogs.</li>\n<li>The bonus rewards include Ensemble: Forsaken’s Grotesque Collection, which provides a full armor transmog set.</li>\n<li>Players can earn Trader's Tender by completing various in-game activities, including those that can be applied to Hunter gameplay.</li>\n</ul>",
+        "word_stats": {
+          "original": 963,
+          "summary": 72,
+          "reduction_percent": 92.5
+        }
+      },
+      "Warlock": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 963,
+          "summary": 6,
+          "reduction_percent": 99.4
+        }
+      },
+      "Death Knight": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 963,
+          "summary": 6,
+          "reduction_percent": 99.4
+        }
+      },
+      "Druid": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 963,
+          "summary": 6,
+          "reduction_percent": 99.4
+        }
+      },
+      "Monk": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 963,
+          "summary": 6,
+          "reduction_percent": 99.4
+        }
+      },
+      "Evoker": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 963,
+          "summary": 6,
+          "reduction_percent": 99.4
+        }
+      },
+      "Demon Hunter": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 963,
+          "summary": 6,
+          "reduction_percent": 99.4
+        }
+      },
+      "Delves": {
+        "summary": "<strong>The July Trading Post features Forsaken-themed rewards, including a mount, transmog set, and back item.</strong>\n<ul>\n<li>Players can earn Trader's Tender by completing activities in the Traveler's Log, which can be used to purchase these items.</li>\n<li>Bonus rewards are unlocked by accumulating points through these activities.</li>\n<li>The Forsaken's Grotesque Charger mount, Ensemble: Forsaken's Grotesque Collection transmog, and Forsaken's Grotesque Cauldron back item are the new rewards.</li>\n<li>Trader's Tender can be saved and accumulated across months, and items can be \"frozen\" for future purchase.</li>\n</ul>",
+        "word_stats": {
+          "original": 963,
+          "summary": 84,
+          "reduction_percent": 91.3
+        }
+      },
+      "Raiding": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 963,
+          "summary": 6,
+          "reduction_percent": 99.4
+        }
+      },
+      "M+": {
+        "summary": "<strong>The July Trading Post features Forsaken-themed rewards and allows earning Trader's Tender through various activities, including Mythic+ dungeons.</strong>\n\t<ul>\n\t<li>Players can earn Trader's Tender by completing activities listed in the Traveler's Log, which includes running Mythic+ dungeons.</li>\n\t<li>The July Trading Post offers Forsaken-themed transmog sets, mounts, pets, and weapon appearances.</li>\n\t<li>Bonus rewards for July include the Forsaken’s Grotesque Cauldron, Ensemble: Forsaken’s Grotesque Collection, and Forsaken’s Grotesque Charger, earned by filling the Traveler's Log bar.</li>\n\t<li>Trader's Tender can be accumulated and saved for future purchases, and items can be \"frozen\" to remain available across months.</li>\n\t<li>The Trading Post is accessible in Dornogal on the Isle of Dorn, as well as in Stormwind and Orgrimmar.</li>\n\t</ul>",
+        "word_stats": {
+          "original": 963,
+          "summary": 114,
+          "reduction_percent": 88.2
+        }
+      },
+      "PvP": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 963,
+          "summary": 6,
+          "reduction_percent": 99.4
+        }
+      },
+      "Open World": {
+        "summary": "<strong>July's Trading Post features a Forsaken theme with new rewards.</strong>\n<ul>\n<li>New Forsaken-themed rewards include the Forsaken’s Grotesque Cauldron, Ensemble: Forsaken’s Grotesque Collection, and Forsaken’s Grotesque Charger.</li>\n<li>Players can earn Trader's Tender by completing activities in the Traveler's Log to unlock these rewards.</li>\n<li>The Trading Post is available in Stormwind, Orgrimmar, and Dornogal.</li>\n<li>A variety of mounts, pets, transmog gear, and weapon appearances are available for purchase.</li>\n</ul>",
+        "word_stats": {
+          "original": 963,
+          "summary": 68,
+          "reduction_percent": 92.9
+        }
+      },
+      "General": {
+        "summary": "<strong>July's Trading Post features a Forsaken theme with new rewards and familiar vendors.</strong>\n<ul>\n<li>New Forsaken-themed rewards include the Grotesque Cauldron, Collection transmog, and Charger mount.</li>\n<li>Players can purchase items from vendors in Stormwind, Orgrimmar, and Dornogal.</li>\n<li>Available items include various mounts, pets, armor, and weapon transmogs.</li>\n<li>Bonus rewards are unlocked by completing activities in the Traveler's Log.</li>\n<li>Unspent Trader's Tender carries over to future months.</li>\n</ul>",
+        "word_stats": {
+          "original": 963,
+          "summary": 67,
+          "reduction_percent": 93
+        }
+      }
+    }
+  },
+  {
     "id": "stop-greedy-goblins-and-get-diabolical-goodies-starting-july-1",
     "title": "Stop Greedy Goblins and Get Diabolical Goodies Starting July 1",
     "date": "2025-06-26",
     "original_url": "https://worldofwarcraft.blizzard.com/news/24213953/stop-greedy-goblins-and-get-diabolical-goodies-starting-july-1",
     "summaries": {
       "Warrior": {
-        "summary": "<ul>\n<li><strong>Greedy Emissary Event (July 1 - July 29):</strong> Encounter more Treasure Goblins in Stormwind, Orgrimmar, Dornogal, and The Undermine for rewards like the Inarius' Charger mount.</li>\n<li><strong>Collector's Bounty Buff (July 1 - July 29):</strong> Increased drop rates (up to 10x, some 25x) and doubled transmog loot chances in pre-Dragonflight legacy raids and dungeons for mounts, specific raid items (Eye of Sulfuras, Bindings of the Windseeker, Warglaives of Azzinoth, Thori'dal, The Stars' Fury), and the Golden Hearthstone Card.</li>\n<li><strong>Undermine Portals:</strong> Killing Undermine rares or defeating certain bosses in the Liberation of Undermine raid can trigger portals. Portal Storms spawn additional portals with enhanced affixes.</li>\n<li><strong>Treasure Goblin Customization:</strong> Use Elixirs on goblin summoning portals to add specific affixes, increasing goblin spawns and difficulty.</li>\n<li><strong>Diabolical Rewards:</strong> Earn Hellstone Shards from Hellcaller Chests (guaranteed Hellstone Shards for the first ten) to purchase hellish armor sets, including recolors of classic Tier 2 armor sets for Warriors, from Hellhunter Baranar in Dornogal.</li>\n</ul>",
+        "summary": "<strong>Warrior armor sets are among the diabolical rewards available during the Greedy Emissary event.</strong>\n<ul>\n<li>Recolors of classic Tier 2 armor sets are obtainable.</li>\n<li>Hellstone Shards are earned from Hellcaller Chests dropped by Treasure Goblins and event activities.</li>\n<li>These shards can be exchanged for hellish armor sets and other items.</li>\n</ul>",
         "word_stats": {
-          "original": 972,
-          "summary": 158,
-          "reduction_percent": 83.7
+          "original": 977,
+          "summary": 51,
+          "reduction_percent": 94.8
         }
       },
       "Mage": {
-        "summary": "<ul>\n    <li><strong>Greedy Emissary Event (July 1 - July 29):</strong> Treasure Goblins will be more prevalent in Stormwind, Orgrimmar, Dornogal, and The Undermine.</li>\n    <li><strong>Collector's Bounty Buff (July 1 - July 29):</strong> Increased drop rates (up to 10x, one item 25x) and doubled transmog drop rates in pre-Dragonflight legacy raids and dungeons.</li>\n    <li><strong>Portals:</strong> Spawn hourly in Stormwind (Docks), Orgrimmar (entrance), and Dornogal (southeast exit). In The Undermine, portals can spawn from killing rares, raid bosses, or during Portal Storms (hourly).</li>\n    <li><strong>Treasure Goblin Affixes:</strong> Goblins now have affixes indicated by icons. Elixirs can be used at summoning portals to customize goblin affixes, with more affixes potentially spawning more goblins.</li>\n    <li><strong>Diabolical Rewards:</strong> Hellstone Shards are earned from Hellcaller Chests (dropped by Treasure Goblins) and event activities. These can be exchanged for rewards, including recolors of classic Tier 2 armor sets.</li>\n</ul>",
+        "summary": "<strong>Mage armor sets are among the diabolical rewards available during the Greedy Emissary event.</strong>\n\t<ul>\n\t\t<li>Players can earn Hellstone Shards by defeating Treasure Goblins and participating in event activities.</li>\n\t\t<li>Hellstone Shards can be exchanged for hellish armor sets, including recolors of classic Tier 2 sets for Mages.</li>\n\t\t<li>The event features Treasure Goblins with various affixes that can be customized using Elixirs.</li>\n\t\t<li>These affixes include effects like spawning Arcane Overloads, dealing Shadowflame damage, or creating pools of lightning.</li>\n\t</ul>",
         "word_stats": {
-          "original": 972,
-          "summary": 137,
-          "reduction_percent": 85.9
+          "original": 977,
+          "summary": 78,
+          "reduction_percent": 92
         }
       },
       "Rogue": {
-        "summary": "Rogue armor set recolors are among the diabolical rewards available during the Greedy Emissary event. Players earn Hellstone Shards from Hellcaller Chests, which drop from Treasure Goblins or are obtained from event activities. These shards can be exchanged for the armor sets and other items. The Collector's Bounty buff also increases the drop rate of legacy mounts and specific items from pre-Dragonflight raids and dungeons by up to 10x, with transmog loot drop rates doubled.",
+        "summary": "<strong>The Greedy Emissary event returns with new rewards and mechanics.</strong>\n<ul>\n<li>Rogues can obtain recolors of classic Tier 2 armor sets from Hellcaller Chests earned during the event.</li>\n<li>Hellstone Shards are the currency used to purchase these rewards from Hellhunter Baranar in Dornogal.</li>\n<li>Treasure Goblins encountered during the event can have various affixes, some of which can be customized with Elixirs.</li>\n<li>The Collector's Bounty buff increases drop rates for legacy mounts and transmog items in pre-Dragonflight raids and dungeons.</li>\n</ul>",
         "word_stats": {
-          "original": 972,
-          "summary": 75,
-          "reduction_percent": 92.3
+          "original": 977,
+          "summary": 80,
+          "reduction_percent": 91.8
         }
       },
       "Priest": {
-        "summary": "<ul>\n  <li>The Priest tier set recolors are part of the diabolical rewards from the Greedy Emissary event.</li>\n  <li>Hellstone Shards are earned from Hellcaller Chests, which drop from Treasure Goblins during the event.</li>\n  <li>These shards can be exchanged for various rewards, including the Priest armor set recolors, from Hellhunter Baranar in Dornogal.</li>\n  <li>The first ten Hellcaller Chests are guaranteed to contain Hellstone Shards; these chests can also yield Valorstones and other items.</li>\n</ul>",
+        "summary": "<strong>Priests can acquire recolors of classic Tier 2 armor sets during the Greedy Emissary event.</strong>\n<ul>\n<li>Priests can obtain recolored Tier 2 armor sets.</li>\n<li>These sets are exchanged for Hellstone Shards.</li>\n<li>Hellstone Shards are earned from Hellcaller Chests dropped by Treasure Goblins.</li>\n<li>Hellcaller Chests can also contain Valorstones and other items.</li>\n</ul>",
         "word_stats": {
-          "original": 972,
-          "summary": 72,
-          "reduction_percent": 92.6
+          "original": 977,
+          "summary": 52,
+          "reduction_percent": 94.7
         }
       },
       "Paladin": {
-        "summary": "The Greedy Emissary event returns July 1st to July 29th, featuring increased Treasure Goblin spawns in Stormwind, Orgrimmar, Dornogal, and The Undermine. Players can earn Hellstone Shards from Hellcaller Chests to purchase rewards, including recolors of classic Tier 2 Paladin armor sets.\n\nThe Collector's Bounty buff also runs concurrently, increasing drop rates for pre-Dragonflight legacy mounts, the Eye of Sulfuras, Golden Hearthstone Card, Bindings of the Windseeker, Warglaives of Azzinoth, and Thori'dal, The Stars' Fury by up to 10x (or 25x for the Eye of Sulfuras). Transmog loot drop rates in legacy raids and dungeons are doubled. This buff can be toggled on and off at any innkeeper.\n\nIn The Undermine, Treasure Goblins can be triggered by killing rares or defeating specific bosses in the Liberation of Undermine raid. Portal Storms, occurring on the quarter-hour, spawn additional portals with enhanced affixes. Players can use Elixirs at portals to customize Goblin affixes, with more affixes increasing the number of goblins that can spawn. Rewards from Hellcaller Chests can also include Valorstones and other items.",
+        "summary": "<strong>The Greedy Emissary event introduces new rewards and mechanics for players.</strong>\n\t<ul>\n\t\t<li>Paladins can obtain recolored Tier 2 armor sets through the Hellstone Shards currency earned during the event.</li>\n\t\t<li>Treasure Goblins encountered during the event can have various affixes, some of which can be customized using Elixirs.</li>\n\t\t<li>The Collector's Bounty buff increases drop rates for legacy mounts and specific transmog items from pre-Dragonflight raids and dungeons.</li>\n\t\t<li>Portals spawn in various locations, including Dornogal, Orgrimmar, Stormwind, and the Undermine, offering opportunities to encounter Treasure Goblins.</li>\n\t\t<li>Hellcaller Chests, dropped by Treasure Goblins, can contain Hellstone Shards, Valorstones, and other items.</li>\n\t</ul>",
         "word_stats": {
-          "original": 972,
-          "summary": 173,
-          "reduction_percent": 82.2
+          "original": 977,
+          "summary": 99,
+          "reduction_percent": 89.9
         }
       },
       "Hunter": {
-        "summary": "<p>The Greedy Emissary event, running from July 1st to July 29th, introduces Treasure Goblins in Stormwind, Orgrimmar, Dornogal, and Undermine, offering new rewards like the Inarius' Charger mount. Currency earned, Hellstone Shards, can be exchanged for hellish armor sets, including recolors of classic Tier 2 sets, and other items.</p>\n\n<p>The Collector's Bounty buff also activates during this period, increasing drop rates by up to 10x (and some up to 25x) for pre-Dragonflight legacy mounts, along with doubled transmog loot rates in legacy raids and dungeons. Timewalking content and pets/toys are excluded.</p>\n\n<p>Portals will spawn hourly in Dornogal, Orgrimmar, and Stormwind. In the Undermine, portals can spawn from killing rares, defeating bosses in the Liberation of Undermine raid, or during Portal Storms that occur every 15 minutes and feature enhanced affixes.</p>\n\n<p>Treasure Goblins will now have affixes indicated by icons, which can be customized using Elixirs thrown at their summoning portals. These Elixirs add various effects, some beneficial (like the Rich Elixir granting increased Haste and Movement Speed), and others detrimental, potentially spawning additional enemies or environmental hazards.</p>",
+        "summary": "<strong>Hunter armor sets are among the diabolical rewards available during the Greedy Emissary event.</strong>\n<ul>\n<li>Players can earn Hellstone Shards from Hellcaller Chests dropped by Treasure Goblins.</li>\n<li>These shards can be exchanged for hellish armor sets, including recolors of classic Tier 2 armor sets for Hunters.</li>\n<li>The Greedy Emissary event runs from July 1 to July 29.</li>\n<li>Treasure Goblins can be customized with various affixes using Elixirs, offering different challenges and rewards.</li>\n</ul>",
         "word_stats": {
-          "original": 972,
-          "summary": 177,
-          "reduction_percent": 81.8
+          "original": 977,
+          "summary": 73,
+          "reduction_percent": 92.5
         }
       },
       "Warlock": {
-        "summary": "*   **Greedy Emissary Event:** Treasure Goblins are more frequent in Stormwind, Orgrimmar, Dornogal, and Undermine.\n    *   Earn Hellstone Shards from Hellcaller Chests dropped by Treasure Goblins and event activities.\n    *   Hellcaller Chests may contain Valorstones and other items.\n    *   Your first ten Hellcaller Chests are guaranteed to yield Hellstone Shards.\n    *   Exchange Hellstone Shards for rewards, including recolored Tier 2 armor sets.\n*   **Collector's Bounty:** Increased drop rates for pre-Dragonflight legacy mounts (up to 10x, some 25x) and doubled transmog loot in legacy raids and dungeons.\n*   **Portals:** Spawn hourly in Stormwind, Orgrimmar, and Dornogal. In the Undermine, killing rares or certain raid bosses can trigger portals, and Portal Storms spawn additional portals with affixes.\n*   **Treasure Goblin Affixes:** Treasure Goblins have affixes indicated by icons. Elixirs can be thrown at summoning portals to customize these affixes, potentially increasing the number of goblins that spawn.",
+        "summary": "Please refer to the general summary.",
         "word_stats": {
-          "original": 972,
-          "summary": 145,
-          "reduction_percent": 85.1
+          "original": 977,
+          "summary": 6,
+          "reduction_percent": 99.4
         }
       },
       "Death Knight": {
-        "summary": "<ul><li>The <strong>Greedy Emissary event</strong> returns from July 1st to July 29th, featuring Treasure Goblins in Stormwind, Orgrimmar, Dornogal, and Undermine.</li><li>Players can earn <strong>Hellstone Shards</strong> from Hellcaller Chests to purchase rewards, including recolors of classic Tier 2 armor sets for Death Knights.</li><li>The <strong>Collector's Bounty buff</strong> also runs concurrently, increasing loot drop rates by up to 10x (and some up to 25x) and doubling transmog loot drops in pre-Dragonflight legacy raids and dungeons.</li><li>Portals spawn hourly in Stormwind, Orgrimmar, and Dornogal. In the Undermine, portals can be triggered by killing rares or defeating certain bosses in the Liberation of Undermine raid, with a chance to spawn Treasure Goblins.</li><li>Portal Storms in the Undermine can spawn five additional portals with enhanced affixes.</li><li>Treasure Goblins can have various affixes applied, which can be customized using Elixirs on summoning portals. These elixirs add affixes like Arcane, Blistering, Connected, Cursing, Deafening, Explosive, Healthy, Magma, Rallying, Rich, Storming, Tempestuous, Trapper, and Windforce.</li></ul>",
+        "summary": "Please refer to the general summary.",
         "word_stats": {
-          "original": 972,
-          "summary": 152,
-          "reduction_percent": 84.4
+          "original": 977,
+          "summary": 6,
+          "reduction_percent": 99.4
         }
       },
       "Druid": {
-        "summary": "<ul>\n  <li>The Greedy Emissary event returns from July 1 to July 29, featuring increased Treasure Goblin spawns in Stormwind, Orgrimmar, Dornogal, and Undermine.</li>\n  <li>Players earn Hellstone Shards from Hellcaller Chests dropped by Treasure Goblins and event activities.</li>\n  <li>Hellstone Shards can be exchanged for rewards, including recolors of classic Tier 2 armor sets, such as the Druid set.</li>\n  <li>The Collector's Bounty buff, also active July 1-29, increases drop rates for pre-Dragonflight legacy mounts and specific raid items by up to 10x (or 25x for some), and doubles transmog loot in legacy dungeons and raids.</li>\n  <li>In the Undermine, Treasure Goblins can spawn from killing rares or defeating specific bosses in the Liberation of Undermine raid.</li>\n  <li>Portal Storms in the Undermine can spawn additional portals with enhanced affixes and a chance for more Treasure Goblins.</li>\n  <li>Players can influence Treasure Goblin spawns by using Elixirs on summoning portals, which add specific affixes and increase the number of goblins.</li>\n</ul>",
+        "summary": "<strong>Druids can obtain recolors of classic Tier 2 armor sets during the Greedy Emissary event.</strong>\n<ul>\n<li>Druids can acquire recolored Tier 2 armor sets.</li>\n<li>These sets are exchanged for Hellstone Shards earned during the Greedy Emissary event.</li>\n<li>Hellstone Shards are obtained from Hellcaller Chests dropped by Treasure Goblins and event activities.</li>\n<li>The event runs from July 1 to July 29.</li>\n</ul>",
         "word_stats": {
-          "original": 972,
-          "summary": 155,
-          "reduction_percent": 84.1
+          "original": 977,
+          "summary": 61,
+          "reduction_percent": 93.8
         }
       },
       "Monk": {
-        "summary": "<ul><li>Monks can obtain recolored Tier 2 armor sets from Hellhunter Baranar in Dornogal by exchanging Hellstone Shards earned during the Greedy Emissary event.</li><li>Hellstone Shards are acquired from Hellcaller Chests, which drop from Treasure Goblins and during event activities.</li><li>The Collector's Bounty buff, active from July 1-29, increases drop rates for pre-Dragonflight legacy mounts by up to 10x (and one by 25x) and doubles transmog loot drops in legacy raids and dungeons.</li></ul>",
+        "summary": "<strong>Monks can acquire recolored Tier 2 armor sets during the Greedy Emissary event.</strong>\n<ul>\n<li>Monks can obtain recolored versions of classic Tier 2 armor sets.</li>\n<li>These sets are exchanged for Hellstone Shards earned from Treasure Goblins and event activities.</li>\n<li>Hellstone Shards are obtained from Hellcaller Chests, which can also contain Valorstones and other items.</li>\n</ul>",
         "word_stats": {
-          "original": 972,
-          "summary": 70,
-          "reduction_percent": 92.8
+          "original": 977,
+          "summary": 55,
+          "reduction_percent": 94.4
         }
       },
       "Evoker": {
-        "summary": "<ul>\n  <li>The Greedy Emissary event runs from July 1 to July 29, featuring increased Treasure Goblin spawns in Stormwind, Orgrimmar, Dornogal, and Undermine.</li>\n  <li>Hellstone Shards are earned from Treasure Goblins and event activities, exchangeable for rewards including recolors of classic Tier 2 armor sets, with Evoker recolors available.</li>\n  <li>The Collector's Bounty buff also runs concurrently, increasing drop rates for pre-Dragonflight mounts, the Eye of Sulfuras, Golden Hearthstone Card, Bindings of the Windseeker, Warglaives of Azzinoth, and Thori'dal by up to 10x (or 25x for specific items) and doubling transmog drop rates in legacy raids and dungeons.</li>\n  <li>Portals spawn hourly in Stormwind, Orgrimmar, and Dornogal.</li>\n  <li>In the Undermine, portals can be triggered by killing rares or defeating specific bosses in the Liberation of Undermine raid. Portal Storms also spawn additional portals with enhanced affixes.</li>\n  <li>Treasure Goblins can have various affixes, which can be influenced by Elixirs tossed at summoning portals to customize goblin encounters and rewards.</li>\n</ul>",
+        "summary": "<strong>Evoker armor set recolors are available as rewards during the Greedy Emissary event.</strong>\n\t<ul>\n\t<li>Players can earn Hellstone Shards by defeating Treasure Goblins and completing event activities.</li>\n\t<li>Hellstone Shards can be exchanged for various rewards, including recolored armor sets.</li>\n\t<li>The Evoker armor set recolors are among the diabolical rewards obtainable during the event.</li>\n\t</ul>",
         "word_stats": {
-          "original": 972,
-          "summary": 156,
-          "reduction_percent": 84
+          "original": 977,
+          "summary": 54,
+          "reduction_percent": 94.5
         }
       },
       "Demon Hunter": {
-        "summary": "<ul>\n<li>The Greedy Emissary event returns July 1st - July 29th, featuring increased Treasure Goblin spawns in Stormwind, Orgrimmar, Dornogal, and the Undermine.</li>\n<li>New rewards include the Inarius' Charger mount.</li>\n<li>Hellstone Shards are the currency, earned from Hellcaller Chests dropped by Treasure Goblins and event activities.</li>\n<li>Hellcaller Chests can also contain Valorstones.</li>\n<li>The Collector's Bounty buff also runs July 1st - July 29th, increasing drop rates by up to 10x (and one item 25x) for pre-Dragonflight mounts, Eye of Sulfuras, Golden Hearthstone Card, Bindings of the Windseeker, Warglaives of Azzinoth, and Thori'dal, The Stars' Fury in legacy raids and dungeons. Transmog loot drop rates are doubled.</li>\n<li>Demon Hunter armor set recolors of classic Tier 2 sets are available as rewards during the Greedy Emissary event.</li>\n</ul>",
+        "summary": "<strong>Demon Hunters can acquire recolored Tier 2 armor sets during the Greedy Emissary event.</strong>\n\t<ul>\n\t<li>The event runs from July 1st to July 29th.</li>\n\t<li>Hellstone Shards are earned from Hellcaller Chests dropped by Treasure Goblins and event activities.</li>\n\t<li>These shards can be exchanged for rewards, including the Demon Hunter recolored Tier 2 armor.</li>\n\t</ul>",
         "word_stats": {
-          "original": 972,
-          "summary": 126,
-          "reduction_percent": 87
+          "original": 977,
+          "summary": 54,
+          "reduction_percent": 94.5
         }
       },
       "Delves": {
-        "summary": "The Greedy Emissary event runs from July 1st to July 29th, featuring increased Treasure Goblin spawns in Stormwind, Orgrimmar, Dornogal, and the Undermine. Players can earn Hellstone Shards from Hellcaller Chests dropped by Treasure Goblins to purchase rewards, including recolored Tier 2 armor sets, from Hellhunter Baranar in Dornogal.\n\nIn the Undermine, Treasure Goblins can spawn from killing rares or defeating certain bosses in the Liberation of Undermine raid. Portal Storms at the quarter-hour can spawn five additional portals with enhanced Affixes and a chance for Treasure Goblins.\n\nPlayers can influence the Affixes of Treasure Goblins by using Elixirs on their summoning portals, which can increase the number of goblins that spawn. A table details various Affixes and their corresponding Elixirs and effects.\n\nThe Collector's Bounty buff also runs during this period, increasing the drop rates of pre-Dragonflight legacy mounts by up to 25 times and doubling transmog loot drops in legacy raids and dungeons. Timewalking content and pets/toys are excluded. The Collector's Bounty buff can be toggled on and off at any innkeeper.",
+        "summary": "<strong>The Greedy Emissary event returns, featuring increased Treasure Goblin spawns and new rewards.</strong>\n<ul>\n<li>Treasure Goblins will appear more frequently in Stormwind, Orgrimmar, Dornogal, and The Undermine, offering new rewards including the Inarius' Charger mount.</li>\n<li>Hellstone Shards are earned from Hellcaller Chests dropped by Treasure Goblins and event activities, used to purchase hellish armor sets, including recolors of classic Tier 2 sets.</li>\n<li>The Collector's Bounty buff doubles transmog loot drop rates and increases mount drop rates by up to 25 times in pre-Dragonflight legacy raids and dungeons.</li>\n<li>Portals to Treasure Goblins spawn hourly in capital cities and can be triggered by defeating rares or specific bosses in the Liberation of Undermine raid.</li>\n<li>Portal Storms in The Undermine spawn additional portals with enhanced affixes, and players can use Elixirs to customize Treasure Goblin affixes for increased challenge and rewards.</li>\n</ul>",
         "word_stats": {
-          "original": 972,
-          "summary": 174,
-          "reduction_percent": 82.1
+          "original": 977,
+          "summary": 139,
+          "reduction_percent": 85.8
         }
       },
       "Raiding": {
-        "summary": "<ul><li>The Collector's Bounty buff increases drop rates for legacy mounts and specific raid items from pre-Dragonflight content by up to 10x (25x for some), and doubles transmog loot drops in legacy raids and dungeons.</li>\n<li>Timewalking content, Pets, and Toys are excluded from the Collector's Bounty buff.</li>\n<li>Portals spawn every 60 minutes on the hour in Stormwind, Orgrimmar, and Dornogal.</li>\n<li>In the Undermine, killing rares can trigger portals, and defeating certain bosses in the Liberation of Undermine raid has a chance to spawn portals.</li>\n<li>Portal Storms in the Undermine, occurring every quarter-hour, can spawn five enhanced portals with additional affixes.</li>\n<li>Treasure Goblins can have various affixes indicated by icons, and players can influence these affixes using special Elixirs on summoning portals.</li>\n<li>Hellstone Shards are earned from Treasure Goblins and event activities, redeemable for rewards like recolored Tier 2 armor sets.</li></ul>",
+        "summary": "<strong>The Collector's Bounty buff increases drop rates for legacy mounts and transmog items in pre-Dragonflight raids and dungeons.</strong>\n<ul>\n<li>Drop rates for pre-Dragonflight legacy mounts from dungeons and raids are increased up to 10 times.</li>\n<li>Transmog loot drop rates in pre-Dragonflight legacy raids and dungeons are doubled.</li>\n<li>Specific items like the Eye of Sulfuras, Golden Hearthstone Card, Bindings of the Windseeker, Warglaives of Azzinoth, and Thori'dal, The Stars' Fury have significantly increased drop chances.</li>\n<li>The buff is active by default but can be toggled on or off at any innkeeper in capital cities and Dalaran.</li>\n<li>The event runs from July 1 to July 29.</li>\n</ul>",
         "word_stats": {
-          "original": 972,
-          "summary": 139,
-          "reduction_percent": 85.7
+          "original": 977,
+          "summary": 105,
+          "reduction_percent": 89.3
         }
       },
       "M+": {
-        "summary": "The Greedy Emissary event returns July 1st to July 29th. Treasure Goblins will appear in Stormwind, Orgrimmar, Dornogal, and The Undermine.\n\nIn The Undermine, portals can spawn from killing rares or defeating certain bosses in the Liberation of Undermine raid. Portal Storms at the quarter-hour will spawn five additional portals with enhanced affixes, and may spawn Treasure Goblins.\n\nTreasure Goblins will have affixes indicated by icons. Players can use Elixirs on portals to customize these affixes, which in turn increases the number of goblins that can spawn. Affixes include effects like Arcane Overloads, Shadowflame damage, spawning Fallen, and creating pools of money that grant Haste and Movement Speed.\n\nHellstone Shards are earned from Hellcaller Chests dropped by Treasure Goblins and through event activities. These shards can be exchanged for rewards like recolored Tier 2 armor sets. Hellcaller Chests may also contain Valorstones and other items.",
+        "summary": "<strong>The Greedy Emissary event introduces new mechanics and rewards for players.</strong>\n\t<ul>\n\t<li>Treasure Goblins will spawn with various affixes, indicated by icons, which can be customized using Elixirs.</li>\n\t<li>Elixirs like Arcane, Blistering, and Explosive add specific challenges and effects when used on Goblin summoning portals.</li>\n\t<li>Players can earn Hellstone Shards from Hellcaller Chests dropped by Treasure Goblins and event activities.</li>\n\t<li>Hellstone Shards can be exchanged for hellish armor sets, including recolors of classic Tier 2 armor, and other rewards.</li>\n\t<li>The Collector's Bounty buff increases drop rates for legacy mounts from pre-Dragonflight dungeons and raids by up to 10 times.</li>\n\t</ul>",
         "word_stats": {
-          "original": 972,
-          "summary": 145,
-          "reduction_percent": 85.1
+          "original": 977,
+          "summary": 100,
+          "reduction_percent": 89.8
         }
       },
       "PvP": {
-        "summary": "The Greedy Emissary event returns from July 1st to July 29th, featuring increased Treasure Goblin spawns in Stormwind, Orgrimmar, Dornogal, and Undermine. Players can earn Hellstone Shards from Hellcaller Chests dropped by these goblins and other event activities. These shards can be exchanged for diabolical rewards, including recolored Tier 2 armor sets, from Hellhunter Baranar in Dornogal.\n\nThe Collector's Bounty buff also runs concurrently, increasing drop rates for pre-Dragonflight legacy mounts by up to 10x (and some specific items like the Eye of Sulfuras by 25x) and doubling transmog loot drop chances in legacy raids and dungeons. This buff is toggled via innkeepers.\n\nPortals spawn hourly in Stormwind, Orgrimmar, and Dornogal. In the Undermine, portals can be triggered by killing rares or during the Liberation of Undermine raid, with Portal Storms spawning additional, affixed portals every hour. Treasure Goblins in the Undermine may also spawn with various affixes, which can be customized using Elixirs, potentially increasing the number of goblins spawned.",
+        "summary": "<strong>The Greedy Emissary event returns with new challenges and rewards.</strong>\n<ul>\n<li>Treasure Goblins will appear in Stormwind, Orgrimmar, Dornogal, and The Undermine, offering new rewards including the Inarius' Charger mount.</li>\n<li>Hellstone Shards are earned from Hellcaller Chests dropped by Treasure Goblins and event activities, used to purchase hellish armor sets, including recolors of classic Tier 2 sets.</li>\n<li>The Undermine features unique portal mechanics, with rare spawns and raid bosses potentially triggering portals, and Portal Storms spawning additional portals with affixes.</li>\n<li>Players can customize Treasure Goblin encounters by using Elixirs on summoning portals, which add specific affixes and increase the number of goblins that can spawn.</li>\n<li>The Collector's Bounty buff increases drop rates for pre-Dragonflight legacy mounts and transmog loot in legacy dungeons and raids by up to 10-25 times.</li>\n</ul>",
         "word_stats": {
-          "original": 972,
-          "summary": 161,
-          "reduction_percent": 83.4
+          "original": 977,
+          "summary": 130,
+          "reduction_percent": 86.7
         }
       },
       "Open World": {
-        "summary": "<ul>\n<li>The Greedy Emissary event returns July 1-29, featuring increased Treasure Goblin spawns in Stormwind, Orgrimmar, Dornogal, and the Undermine.</li>\n<li>Players can earn Hellstone Shards from Treasure Goblins and Hellcaller Chests to purchase new rewards, including recolors of Tier 2 armor sets and the Inarius' Charger mount.</li>\n<li>Portals spawn hourly on the hour in Stormwind (Docks), Orgrimmar (outside entrance), and Dornogal (southeast exit).</li>\n<li>In the Undermine, Portals can be triggered by killing rare enemies or defeating certain bosses in the Liberation of Undermine raid. Portal Storms occur at the quarter-hour, spawning additional Portals with affixes.</li>\n<li>Treasure Goblins now have visible affixes, and players can use Elixirs at summoning portals to customize these affixes, potentially increasing the number of goblins that spawn.</li>\n<li>The Collector's Bounty buff also runs July 1-29, increasing drop rates for pre-Dragonflight legacy mounts (up to 10x) and doubling transmog loot chances in pre-Dragonflight raids and dungeons.</li>\n<li>The Collector's Bounty buff can be toggled on or off at any innkeeper.</li>\n</ul>",
+        "summary": "<strong>The Greedy Emissary event returns, featuring Treasure Goblins and the Collector's Bounty buff.</strong>\n<ul>\n<li>The Greedy Emissary event runs from July 1 to July 29, with Treasure Goblins appearing in Stormwind, Orgrimmar, Dornogal, and Undermine, offering rewards like the Inarius' Charger mount.</li>\n<li>The Collector's Bounty buff also runs from July 1 to July 29, increasing drop rates for legacy mounts and transmog items from pre-Dragonflight dungeons and raids by up to 10-25 times.</li>\n<li>Portals spawn hourly in Stormwind, Orgrimmar, and Dornogal, with additional portals and Portal Storms occurring in the Undermine, which can spawn Treasure Goblins.</li>\n<li>Players can influence Treasure Goblin encounters by using Elixirs on summoning portals to add specific affixes, altering their behavior and rewards.</li>\n<li>Hellstone Shards earned during the event can be exchanged for diabolical rewards, including recolors of classic Tier 2 armor sets.</li>\n</ul>",
         "word_stats": {
-          "original": 972,
-          "summary": 163,
-          "reduction_percent": 83.2
+          "original": 977,
+          "summary": 138,
+          "reduction_percent": 85.9
         }
       },
       "General": {
-        "summary": "The Greedy Emissary event runs July 1-29, featuring more Treasure Goblins in capital cities and Dornogal, offering rewards like the Inarius' Charger mount.\n\nThe Collector's Bounty buff also runs during this time, increasing legacy mount drop rates by up to 10x (and some specific items up to 25x), and doubling transmog loot in pre-Dragonflight raids/dungeons.\n\nPortals spawn hourly in Stormwind, Orgrimmar, and Dornogal. Undermine has unique portal mechanics, including Portal Storms. Treasure Goblins can be customized with Elixirs, adding various affixes. Hellstone Shards, earned from chests and event activities, can be exchanged for diabolical rewards, including recolored Tier 2 armor sets.",
+        "summary": "<strong>The Greedy Emissary event returns July 1-29, featuring increased loot drops and new rewards.</strong>\n<ul>\n<li>The event includes the Collector's Bounty buff, doubling transmog drop rates and increasing legacy mount drop rates in pre-Dragonflight content.</li>\n<li>Treasure Goblins will appear in Stormwind, Orgrimmar, Dornogal, and Undermine, offering new rewards like the Inarius' Charger mount.</li>\n<li>Players can customize Treasure Goblin encounters with Elixirs that add various affixes.</li>\n<li>Hellstone Shards earned during the event can be exchanged for recolored Tier 2 armor sets and other items.</li>\n</ul>",
         "word_stats": {
-          "original": 972,
-          "summary": 101,
-          "reduction_percent": 89.6
+          "original": 977,
+          "summary": 84,
+          "reduction_percent": 91.4
         }
       }
     }
@@ -230,11 +382,11 @@
         }
       },
       "Monk": {
-        "summary": "The Mists of Pandaria Classic pre-patch introduces the Monk class. Monks can specialize as Windwalker for damage, Mistweaver for healing, or Brewmaster for tanking. The Pandaren starting experience will also be available.",
+        "summary": "<strong>The Monk class is introduced as a new playable class with the Mists of Pandaria Classic pre-patch.</strong>\n<ul>\n<li>Monks can specialize as Windwalkers for damage, Mistweavers for healing, or Brewmasters for tanking.</li>\n<li>The Monk class is available to the new Pandaren race.</li>\n<li>Players can experience the Monk class and Pandaren starting experience on the Wandering Isle.</li>\n<li>A Level 85 Character Boost is available for Pandaren and Monks.</li>\n</ul>",
         "word_stats": {
           "original": 895,
-          "summary": 32,
-          "reduction_percent": 96.4
+          "summary": 68,
+          "reduction_percent": 92.4
         }
       },
       "Evoker": {
@@ -262,11 +414,11 @@
         }
       },
       "Raiding": {
-        "summary": "Mogu'shan Vaults, the first raid tier for Mists of Pandaria Classic, opens on July 31st. This raid features 6 bosses and is available in 10-player and 25-player formats, with both Normal and Heroic difficulties. The raid is located in Kun Lai Summit and is designed for level 90 characters.",
+        "summary": "<strong>Mists of Pandaria Classic will launch Mogu'shan Vaults raid on July 31.</strong>\n\t<ul>\n\t<li>Mogu'shan Vaults is located in Kun Lai Summit.</li>\n\t<li>The raid will feature 6 bosses.</li>\n\t<li>Available difficulties include 10-player Normal and Heroic, and 25-player Normal and Heroic.</li>\n\t</ul>",
         "word_stats": {
           "original": 895,
-          "summary": 49,
-          "reduction_percent": 94.5
+          "summary": 40,
+          "reduction_percent": 95.5
         }
       },
       "M+": {
@@ -294,11 +446,11 @@
         }
       },
       "General": {
-        "summary": "Mists of Pandaria Classic launches July 21, with a pre-patch on July 1. This update introduces the Pandaren race and Monk class. Players can earn a special mount in modern WoW by completing the Pandaren starting experience. The Mogu'shan Vaults raid opens on July 31. The content focuses on Mists of Pandaria Classic, not current retail expansions like The War Within.",
+        "summary": "<strong>Mists of Pandaria Classic launches July 21, with pre-patch on July 1.</strong>\n<ul>\n<li>New playable race: Pandaren.</li>\n<li>New class: Monk.</li>\n<li>Revamped classes, AOE looting, Pet Battles, and Theramore's Fall scenario.</li>\n<li>Earn a Sage Serpent mount in modern WoW by completing the Pandaren starting experience in MoP Classic.</li>\n<li>Mogu'shan Vaults raid opens July 31.</li>\n</ul>",
         "word_stats": {
           "original": 895,
-          "summary": 61,
-          "reduction_percent": 93.2
+          "summary": 54,
+          "reduction_percent": 94
         }
       }
     }
@@ -430,27 +582,3219 @@
         }
       },
       "PvP": {
-        "summary": "<ul><li>Blacksmithing, Leatherworking, and Tailoring recipes for PvP gear will require Spirit of Harmony to learn.</li><li>Blacksmiths can purchase PvP armor recipes from vendors in Shrine of Two Moons or Shrine of Seven Stars.</li><li>Leatherworkers can purchase PvP armor recipes from vendors in Shrine of Two Moons or Shrine of Seven Stars.</li></ul>",
+        "summary": "<strong>Spirit of Harmony can be used to purchase PvP and starter dungeon gear recipes.</strong>\n        <ul>\n        <li>Blacksmiths can purchase PvP and tanking armor recipes for one Spirit of Harmony each.</li>\n        <li>Leatherworkers can purchase PvP armor recipes for one Spirit of Harmony each.</li>\n        <li>Tailors can purchase PvP armor recipes for one Spirit of Harmony each.</li>\n        </ul>",
         "word_stats": {
           "original": 3254,
-          "summary": 49,
-          "reduction_percent": 98.5
+          "summary": 54,
+          "reduction_percent": 98.3
         }
       },
       "Open World": {
-        "summary": "The provided blog post details profession changes and new features for Mists of Pandaria, which is not relevant to The War Within or later retail WoW content. \n\nPlease refer to the general summary.",
+        "summary": "<strong>Spirit of Harmony is a new bind-on-pickup crafting material found on all lootable creatures in Pandaria.</strong>\n        <ul>\n        <li>Spirit of Harmony can be used to purchase various profession-specific bonuses and materials from a vendor in the Vale of Eternal Blossoms.</li>\n        <li>Blacksmithing, Leatherworking, and Tailoring utilize Spirit of Harmony for epic item recipes, including PvP and starter dungeon gear.</li>\n        <li>Herbalists can find Golden Lotus, which has a chance to grant a treasure-finding buff when picked.</li>\n        <li>Archaeology dig sites have been expanded to six locations, with a chance for Sha to appear, dropping extra fragments and keystone.</li>\n        <li>Cooking introduces specialized training paths and individual stat-boosting food items, with rewards from the Ironpaw faction.</li>\n        </ul>",
         "word_stats": {
           "original": 3254,
-          "summary": 33,
-          "reduction_percent": 99
+          "summary": 111,
+          "reduction_percent": 96.6
         }
       },
       "General": {
-        "summary": "This blog post details professions in Mists of Pandaria. Key features include:\n\n*   **Spirit of Harmony:** A new bind-on-pickup material used across professions for crafting epic items, recipes, and special bonuses.\n*   **Tools of the Trade:** Profession-specific tools will provide skill bonuses rather than being equipped.\n*   **New Recipes and Materials:** Introduces Golden Lotus, Ghost Iron, Trillium, Exotic Leather, and various new herbs.\n*   **Profession Specializations:** Cooking allows specialization in different \"Ways\" (Brew, Grill, Oven, Pot, Steamer, Wok).\n*   **Engineering Mounts:** Features new rocket mounts and the Blingtron 4000.\n*   **Archaeology:** Expanded dig sites and new fragment types for Mogu and Pandaren.",
+        "summary": "<strong>Spirit of Harmony is a new bind-on-pickup material central to many Mists of Pandaria professions.</strong>\n<ul>\n<li>Spirit of Harmony can be obtained from lootable creatures and used to purchase profession bonuses or materials.</li>\n<li>Blacksmithing, Leatherworking, and Tailoring utilize Spirit of Harmony for epic item recipes, including PvP and starter dungeon gear.</li>\n<li>New profession-specific items include Engineering mounts, Alchemy transmutes, and specialized cooking recipes.</li>\n<li>Herbalism introduces new herbs like Golden Lotus, while Mining features Ghost Iron and Trillium.</li>\n<li>Jewelcrafting allows for gem discovery bypasses and the creation of Panther mounts.</li>\n</ul>",
         "word_stats": {
           "original": 3254,
-          "summary": 102,
-          "reduction_percent": 96.9
+          "summary": 90,
+          "reduction_percent": 97.2
+        }
+      }
+    }
+  },
+  {
+    "id": "journey-through-the-wandering-isle-and-take-on-the-way-of-the-monk",
+    "title": "Journey Through the Wandering Isle and Take on the Way of the Monk",
+    "date": "2025-06-25",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24216885/journey-through-the-wandering-isle-and-take-on-the-way-of-the-monk",
+    "summaries": {
+      "Warrior": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 701,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Mage": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 701,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Rogue": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 701,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Priest": {
+        "summary": "<strong>Priest is available as a class choice for Pandaren characters.</strong>\n<ul>\n<li>Priests are one of the classes available for Pandaren characters to choose upon reaching level 10.</li>\n</ul>",
+        "word_stats": {
+          "original": 701,
+          "summary": 28,
+          "reduction_percent": 96
+        }
+      },
+      "Paladin": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 701,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Hunter": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 701,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Warlock": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 701,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Death Knight": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 701,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Druid": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 701,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Monk": {
+        "summary": "<strong>The Monk class is uniquely tied to the narrative of the Wandering Isle, representing discipline, balance, and physical mastery.</strong>\n\t<ul>\n\t\t<li>Monks are defined by their fluidity and adaptability, with specializations for tanking (Brewmaster), healing (Mistweaver), and damage (Windwalker).</li>\n\t\t<li>Brewmaster monks utilize Stagger to delay incoming damage, reflecting resilience and cleverness.</li>\n\t\t<li>Mistweaver monks blend traditional healing with melee abilities for a hybrid playstyle.</li>\n\t\t<li>Windwalker monks are martial offense experts, using combos and chi for high damage.</li>\n\t\t<li>The Monk class is available to Pandaren, Human, Orc, Dwarf, Tauren, Gnome, Troll, Draenei, and Blood Elf races.</li>\n\t</ul>",
+        "word_stats": {
+          "original": 701,
+          "summary": 94,
+          "reduction_percent": 86.6
+        }
+      },
+      "Evoker": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 701,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Demon Hunter": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 701,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Delves": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 701,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Raiding": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 701,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "M+": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 701,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "PvP": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 701,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "Open World": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 701,
+          "summary": 6,
+          "reduction_percent": 99.1
+        }
+      },
+      "General": {
+        "summary": "<strong>Pandaren and the Monk class are introduced in Mists of Pandaria.</strong>\n<ul>\n<li>Pandaren start on the Wandering Isle, a living turtle named Shen-zin Su.</li>\n<li>Pandaren are neutral until level 10, then choose Alliance or Horde.</li>\n<li>Available Pandaren classes include Warrior, Hunter, Rogue, Priest, Shaman, Mage, and Monk.</li>\n<li>Monks are available to many races and specialize in Tanking (Brewmaster), Healing (Mistweaver), or Damage (Windwalker).</li>\n<li>The Wandering Isle storyline involves healing Shen-zin Su and leads Pandaren to join a faction.</li>\n</ul>",
+        "word_stats": {
+          "original": 701,
+          "summary": 79,
+          "reduction_percent": 88.7
+        }
+      }
+    }
+  },
+  {
+    "id": "mists-of-pandaria-classic-enter-the-mogushan-vaults-raid-july-31",
+    "title": "Mists of Pandaria Classic: Enter the Mogu’shan Vaults Raid July 31!",
+    "date": "2025-06-25",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24216437/mists-of-pandaria-classic-enter-the-mogushan-vaults-raid-july-31",
+    "summaries": {
+      "Warrior": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 825,
+          "summary": 6,
+          "reduction_percent": 99.3
+        }
+      },
+      "Mage": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 825,
+          "summary": 6,
+          "reduction_percent": 99.3
+        }
+      },
+      "Rogue": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 825,
+          "summary": 6,
+          "reduction_percent": 99.3
+        }
+      },
+      "Priest": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 825,
+          "summary": 6,
+          "reduction_percent": 99.3
+        }
+      },
+      "Paladin": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 825,
+          "summary": 6,
+          "reduction_percent": 99.3
+        }
+      },
+      "Hunter": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 825,
+          "summary": 6,
+          "reduction_percent": 99.3
+        }
+      },
+      "Warlock": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 825,
+          "summary": 6,
+          "reduction_percent": 99.3
+        }
+      },
+      "Death Knight": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 825,
+          "summary": 6,
+          "reduction_percent": 99.3
+        }
+      },
+      "Druid": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 825,
+          "summary": 6,
+          "reduction_percent": 99.3
+        }
+      },
+      "Monk": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 825,
+          "summary": 6,
+          "reduction_percent": 99.3
+        }
+      },
+      "Evoker": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 825,
+          "summary": 6,
+          "reduction_percent": 99.3
+        }
+      },
+      "Demon Hunter": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 825,
+          "summary": 6,
+          "reduction_percent": 99.3
+        }
+      },
+      "Delves": {
+        "summary": "<strong>Mogu'shan Vaults, a raid instance, is now available.</strong>\n<ul>\n<li>The Mogu'shan Vaults is located in Kun Lai Summit and features 6 bosses.</li>\n<li>Bosses include The Stone Guard, Feng the Accursed, Gara'jal the Spiritbinder, The Spirit Kings, Elegon, and Will of the Emperor.</li>\n<li>The raid is available on Normal and Heroic difficulties for both 10 and 25 player modes.</li>\n<li>Several achievements are available, with a title reward \"Delver of the Vaults\" for completing all Heroic difficulty achievements.</li>\n</ul>",
+        "word_stats": {
+          "original": 825,
+          "summary": 77,
+          "reduction_percent": 90.7
+        }
+      },
+      "Raiding": {
+        "summary": "<strong>Mogu’shan Vaults, a raid from the Pandaria expansion, is now available in Retail WoW.</strong>\n<ul>\n<li>The raid is located in the Kun Lai Summit and features 6 bosses.</li>\n<li>It is available in Normal and Heroic difficulties for 10 and 25 players.</li>\n<li>Bosses include The Stone Guard, Feng the Accursed, Gara’jal the Spiritbinder, The Spirit Kings, Elegon, and Will of the Emperor.</li>\n<li>Several raid achievements are available, including difficulty-specific achievements and unique challenge achievements for each boss.</li>\n<li>Completing certain achievements can reward players with titles such as \"Delver of the Vaults\".</li>\n</ul>",
+        "word_stats": {
+          "original": 825,
+          "summary": 91,
+          "reduction_percent": 89
+        }
+      },
+      "M+": {
+        "summary": "<strong>Mogu'shan Vaults will be available as a Mythic+ dungeon.</strong>\n<ul>\n<li>Mogu'shan Vaults will be added to the Mythic+ rotation.</li>\n<li>The dungeon features six bosses: The Stone Guard, Feng the Accursed, Gara’jal the Spiritbinder, The Spirit Kings, Elegon, and Will of the Emperor.</li>\n<li>Achievements are available for completing the dungeon and specific boss encounters on various difficulties.</li>\n<li>Players can earn the title \"Delver of the Vaults\" by completing all Heroic difficulty achievements.</li>\n</ul>",
+        "word_stats": {
+          "original": 825,
+          "summary": 72,
+          "reduction_percent": 91.3
+        }
+      },
+      "PvP": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 825,
+          "summary": 6,
+          "reduction_percent": 99.3
+        }
+      },
+      "Open World": {
+        "summary": "Please refer to the general summary.",
+        "word_stats": {
+          "original": 825,
+          "summary": 6,
+          "reduction_percent": 99.3
+        }
+      },
+      "General": {
+        "summary": "<strong>Mogu'shan Vaults, a classic raid from Mists of Pandaria, is returning to Retail WoW on July 31st.</strong>\n<ul>\n<li>The raid will be available in Normal and Heroic difficulties for both 10 and 25-player groups.</li>\n<li>It features six bosses, including the Stone Guard, Feng the Accursed, and Elegon.</li>\n<li>Players can earn achievements, some with unique titles like \"Delver of the Vaults.\"</li>\n<li>The raid is located in the Kun Lai Summit and was originally designed for level 90 characters.</li>\n</ul>",
+        "word_stats": {
+          "original": 825,
+          "summary": 78,
+          "reduction_percent": 90.5
+        }
+      }
+    }
+  },
+  {
+    "id": "hotfixes-june-24-2025",
+    "title": "Hotfixes: June 24, 2025",
+    "date": "2025-06-25",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24201420/hotfixes-june-24-2025",
+    "summaries": {
+      "Warrior": {
+        "summary": "<strong>Warrior class changes focus on damage increases for Arms and Fury specializations.</strong>\n<ul>\n<li>Arms: Whirlwind damage increased by 100%.</li>\n<li>Fury: Whirlwind damage increased by 120%.</li>\n<li>Fury: Thunder Clap damage increased by 25%.</li>\n<li>Fury: Odyn’s Fury damage increased by 30%.</li>\n<li>Fury: Mountain Thane: Thunder Blast damage increased by 25%.</li>\n<li>Arms: Colossus Smash can no longer be parried.</li>\n<li>Protection: Fixed a bug causing Shield Charge to deal damage extra times or to targets near their starting position.</li>\n</ul>",
+        "word_stats": {
+          "original": 4115,
+          "summary": 76,
+          "reduction_percent": 98.2
+        }
+      },
+      "Mage": {
+        "summary": "<strong>Mage Frost damage has been increased by 3% in non-PvP content.</strong>\n<ul>\n<li>Frost Mage damage increased by 3%.</li>\n<li>Frostfire: Overpowered Barrier now causes Blazing Barrier to reflect 40% of damage absorbed (was 60%) in PvP.</li>\n<li>Fire Mage Pyroblast damage increased by 20% in PvP.</li>\n<li>Fire Mage Fire Blast damage increased by 15% in PvP.</li>\n<li>Fire Mage Fireball damage increased by 15% in PvP.</li>\n</ul>",
+        "word_stats": {
+          "original": 4115,
+          "summary": 64,
+          "reduction_percent": 98.4
+        }
+      },
+      "Rogue": {
+        "summary": "<strong>Subtlety Rogues received a 5% all damage increase.</strong>\n<ul>\n<li>Subtlety Rogues: All damage increased by 5%. Does not affect PvP combat.</li>\n<li>Outlaw Rogues: Combat Stamina now increases Stamina by 18% in PvP combat (was 12%).</li>\n<li>Trickster Rogues: Fixed an issue that prevented Blade Flurry and Nimble Flurry from dealing increased damage to targets with the Fazed debuff applied.</li>\n<li>Assassination Rogues: Kingsbane can no longer be parried.</li>\n<li>Outlaw Rogues: Fixed an issue that could cause Blade Flurry to strike below the maximum number of available targets when fighting near dead enemies.</li>\n<li>Outlaw Rogues: Fixed an issue that caused Blade Flurry to deal an incorrect amount of damage with the Deft Maneuvers talent selected.</li>\n<li>Outlaw Rogues: Fixed an issue that prevented Roll the Bones' Grand Melee buff from updating Blade Flurry's damage output dynamically when gaining or losing the buff.</li>\n<li>Subtlety Rogues: Fixed an issue that could cause Nimble Flurry to strike below the maximum number of available targets when fighting near dead enemies.</li>\n</ul>",
+        "word_stats": {
+          "original": 4115,
+          "summary": 163,
+          "reduction_percent": 96
+        }
+      },
+      "Priest": {
+        "summary": "<strong>Priest class changes focus on Shadow and Discipline specializations.</strong>\n<ul>\n<li>Shadow Priests see an increase to Psychic Link damage, Halo damage, and Voidweaver's Entropic Rift damage.</li>\n<li>Discipline Priests have Power Word: Radiance healing no longer reduced in PvP combat, and Ultimate Penitence damage and healing increased in PvP combat.</li>\n<li>Discipline Priests also had an issue resolved where the Cooldown Manager tracked Power Word: Shield duration instead of its cooldown.</li>\n<li>Holy Priests had an issue fixed where Prayer of Healing could be displayed on the Cooldown Manager when not talented.</li>\n</ul>",
+        "word_stats": {
+          "original": 4115,
+          "summary": 90,
+          "reduction_percent": 97.8
+        }
+      },
+      "Paladin": {
+        "summary": "<strong>Several Paladin class changes and fixes have been implemented.</strong>\n<ul>\n<li>An issue causing Divine Hammer and Shield of the Righteous to not cast Empyrean Hammer has been resolved.</li>\n<li>Holy Paladin's Lightsmith: Blessing of the Forge healing increased by 15%.</li>\n<li>Holy Paladin's Lightsmith: Hammer and Anvil healing increased by 20%.</li>\n<li>An issue causing Avenging Wrath to not function properly when talented into Radiant Glory has been resolved for Retribution Paladins.</li>\n<li>The Avenging Shield buff granted from the Scarlet Enclave 6-piece set bonus for Protection Paladins now correctly lasts the same duration as Avenging Wrath.</li>\n</ul>",
+        "word_stats": {
+          "original": 4115,
+          "summary": 94,
+          "reduction_percent": 97.7
+        }
+      },
+      "Hunter": {
+        "summary": "<strong>Hunter class changes focus on Survival specialization with damage increases.</strong>\n<ul>\n<li>Survival Hunter's Explosive Shot damage increased by 15%.</li>\n<li>Survival Hunter's Fury of the Eagle damage increased by 25%.</li>\n<li>Fixed an issue where Aspect of the Eagle variants of Raptor Strike and Mongoose Bite were dealing less damage than intended.</li>\n<li>Fixed an issue where casting Coordinated Assault at greater than 30 yards away could grant Howl of the Pack Leader twice.</li>\n<li>Fixed an issue where Aspect of the Eagle was not correctly extending the range of Spirit Bond.</li>\n</ul>",
+        "word_stats": {
+          "original": 4115,
+          "summary": 89,
+          "reduction_percent": 97.8
+        }
+      },
+      "Warlock": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 4115,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      },
+      "Death Knight": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 4115,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      },
+      "Druid": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 4115,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      },
+      "Monk": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 4115,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      },
+      "Evoker": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 4115,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      },
+      "Demon Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 4115,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      },
+      "Delves": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 4115,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      },
+      "Raiding": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 4115,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      },
+      "M+": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 4115,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      },
+      "PvP": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 4115,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      },
+      "Open World": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 4115,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      },
+      "General": {
+        "summary": "<strong>The War Within receives a series of hotfixes addressing class balance, dungeon mechanics, and quest progression.</strong>\n<ul>\n<li>Tank threat generation increased by 15% across all specializations.</li>\n<li>Several class set bonuses and individual spell damages were adjusted for balance.</li>\n<li>Delve item effects, including Durable Information Storage Container belt effects, were tuned.</li>\n<li>Various quest and lorewalking issues were resolved, improving player experience.</li>\n<li>Dungeon encounters in Darkflame Cleft and Liberation of Undermine saw bug fixes and tuning adjustments.</li>\n</ul>",
+        "word_stats": {
+          "original": 4115,
+          "summary": 76,
+          "reduction_percent": 98.2
+        }
+      }
+    }
+  },
+  {
+    "id": "join-world-of-warcraft-at-gamescom-2025",
+    "title": "Join World of Warcraft at gamescom 2025!",
+    "date": "2025-06-23",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24215994/join-world-of-warcraft-at-gamescom-2025",
+    "summaries": {
+      "Warrior": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 124,
+          "summary": 1,
+          "reduction_percent": 99.2
+        }
+      },
+      "Mage": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 124,
+          "summary": 1,
+          "reduction_percent": 99.2
+        }
+      },
+      "Rogue": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 124,
+          "summary": 1,
+          "reduction_percent": 99.2
+        }
+      },
+      "Priest": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 124,
+          "summary": 1,
+          "reduction_percent": 99.2
+        }
+      },
+      "Paladin": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 124,
+          "summary": 1,
+          "reduction_percent": 99.2
+        }
+      },
+      "Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 124,
+          "summary": 1,
+          "reduction_percent": 99.2
+        }
+      },
+      "Warlock": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 124,
+          "summary": 1,
+          "reduction_percent": 99.2
+        }
+      },
+      "Death Knight": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 124,
+          "summary": 1,
+          "reduction_percent": 99.2
+        }
+      },
+      "Druid": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 124,
+          "summary": 1,
+          "reduction_percent": 99.2
+        }
+      },
+      "Monk": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 124,
+          "summary": 1,
+          "reduction_percent": 99.2
+        }
+      },
+      "Evoker": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 124,
+          "summary": 1,
+          "reduction_percent": 99.2
+        }
+      },
+      "Demon Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 124,
+          "summary": 1,
+          "reduction_percent": 99.2
+        }
+      },
+      "Delves": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 124,
+          "summary": 1,
+          "reduction_percent": 99.2
+        }
+      },
+      "Raiding": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 124,
+          "summary": 1,
+          "reduction_percent": 99.2
+        }
+      },
+      "M+": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 124,
+          "summary": 1,
+          "reduction_percent": 99.2
+        }
+      },
+      "PvP": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 124,
+          "summary": 1,
+          "reduction_percent": 99.2
+        }
+      },
+      "Open World": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 124,
+          "summary": 1,
+          "reduction_percent": 99.2
+        }
+      },
+      "General": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 124,
+          "summary": 1,
+          "reduction_percent": 99.2
+        }
+      }
+    }
+  },
+  {
+    "id": "wow-weekly-the-legacy-of-arathor-content-update-is-now-live-and-more",
+    "title": "WoW Weekly: The Legacy of Arathor Content Update is Now Live, and More!",
+    "date": "2025-06-20",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24213952/wow-weekly-the-legacy-of-arathor-content-update-is-now-live-and-more",
+    "summaries": {
+      "Warrior": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 682,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Mage": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 682,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Rogue": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 682,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Priest": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 682,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Paladin": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 682,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 682,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Warlock": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 682,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Death Knight": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 682,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Druid": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 682,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Monk": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 682,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Evoker": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 682,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Demon Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 682,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Delves": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 682,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Raiding": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 682,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "M+": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 682,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "PvP": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 682,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Open World": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 682,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "General": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 682,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      }
+    }
+  },
+  {
+    "id": "embrace-the-heat-during-the-midsummer-fire-festival",
+    "title": "Embrace the Heat During the Midsummer Fire Festival",
+    "date": "2025-06-20",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24213951/embrace-the-heat-during-the-midsummer-fire-festival",
+    "summaries": {
+      "Warrior": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1797,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Mage": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1797,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Rogue": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1797,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Priest": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1797,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Paladin": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1797,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1797,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Warlock": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1797,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Death Knight": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1797,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Druid": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1797,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Monk": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1797,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Evoker": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1797,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Demon Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1797,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Delves": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1797,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Raiding": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1797,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "M+": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1797,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "PvP": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1797,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Open World": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1797,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "General": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1797,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      }
+    }
+  },
+  {
+    "id": "wowcast-immerse-yourself-in-the-ghosts-of-karesh-content-update",
+    "title": "WoWCast: Immerse Yourself in the Ghosts of K’aresh Content Update",
+    "date": "2025-06-18",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24215104/wowcast-immerse-yourself-in-the-ghosts-of-karesh-content-update",
+    "summaries": {
+      "Warrior": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1151,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Mage": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1151,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Rogue": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1151,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Priest": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1151,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Paladin": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1151,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1151,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Warlock": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1151,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Death Knight": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1151,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Druid": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1151,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Monk": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1151,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Evoker": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1151,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Demon Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1151,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Delves": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1151,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Raiding": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1151,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "M+": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1151,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "PvP": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1151,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Open World": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1151,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "General": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1151,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      }
+    }
+  },
+  {
+    "id": "dive-into-summer-and-save-up-to-50",
+    "title": "Dive into Summer and Save up to 50%!",
+    "date": "2025-06-17",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24215169/dive-into-summer-and-save-up-to-50",
+    "summaries": {
+      "Warrior": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 636,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Mage": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 636,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Rogue": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 636,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Priest": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 636,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Paladin": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 636,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 636,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Warlock": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 636,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Death Knight": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 636,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Druid": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 636,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Monk": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 636,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Evoker": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 636,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Demon Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 636,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Delves": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 636,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Raiding": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 636,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "M+": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 636,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "PvP": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 636,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Open World": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 636,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "General": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 636,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      }
+    }
+  },
+  {
+    "id": "go-on-an-adventure-in-the-legacy-of-arathor-content-update-now-live",
+    "title": "Go on an Adventure in the Legacy of Arathor Content Update—Now Live!",
+    "date": "2025-06-17",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24208341/go-on-an-adventure-in-the-legacy-of-arathor-content-update-now-live",
+    "summaries": {
+      "Warrior": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 993,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Mage": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 993,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Rogue": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 993,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Priest": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 993,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Paladin": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 993,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 993,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Warlock": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 993,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Death Knight": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 993,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Druid": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 993,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Monk": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 993,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Evoker": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 993,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Demon Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 993,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Delves": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 993,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Raiding": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 993,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "M+": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 993,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "PvP": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 993,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Open World": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 993,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "General": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 993,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      }
+    }
+  },
+  {
+    "id": "take-a-timely-tour-through-the-turbulent-timeways",
+    "title": "Take a Timely Tour Through the Turbulent Timeways",
+    "date": "2025-06-17",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24209852/take-a-timely-tour-through-the-turbulent-timeways",
+    "summaries": {
+      "Warrior": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 2011,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      },
+      "Mage": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 2011,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      },
+      "Rogue": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 2011,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      },
+      "Priest": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 2011,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      },
+      "Paladin": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 2011,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      },
+      "Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 2011,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      },
+      "Warlock": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 2011,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      },
+      "Death Knight": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 2011,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      },
+      "Druid": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 2011,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      },
+      "Monk": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 2011,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      },
+      "Evoker": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 2011,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      },
+      "Demon Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 2011,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      },
+      "Delves": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 2011,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      },
+      "Raiding": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 2011,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      },
+      "M+": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 2011,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      },
+      "PvP": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 2011,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      },
+      "Open World": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 2011,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      },
+      "General": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 2011,
+          "summary": 1,
+          "reduction_percent": 100
+        }
+      }
+    }
+  },
+  {
+    "id": "wow-classic-20th-anniversary-edition-phase-5-launches-july-10",
+    "title": "WoW Classic 20th Anniversary Edition Phase 5 Launches July 10",
+    "date": "2025-06-16",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24213950/wow-classic-20th-anniversary-edition-phase-5-launches-july-10",
+    "summaries": {
+      "Warrior": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1199,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Mage": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1199,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Rogue": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1199,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Priest": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1199,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Paladin": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1199,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1199,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Warlock": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1199,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Death Knight": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1199,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Druid": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1199,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Monk": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1199,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Evoker": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1199,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Demon Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1199,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Delves": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1199,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Raiding": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1199,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "M+": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1199,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "PvP": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1199,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Open World": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1199,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "General": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1199,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      }
+    }
+  },
+  {
+    "id": "wow-weekly-the-legacy-of-arathor-arrives-june-17-and-more",
+    "title": "WoW Weekly: The Legacy of Arathor Arrives June 17, and More!",
+    "date": "2025-06-13",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24213948/wow-weekly-the-legacy-of-arathor-arrives-june-17-and-more",
+    "summaries": {
+      "Warrior": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 388,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Mage": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 388,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Rogue": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 388,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Priest": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 388,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Paladin": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 388,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 388,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Warlock": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 388,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Death Knight": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 388,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Druid": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 388,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Monk": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 388,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Evoker": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 388,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Demon Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 388,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Delves": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 388,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Raiding": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 388,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "M+": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 388,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "PvP": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 388,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Open World": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 388,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "General": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 388,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      }
+    }
+  },
+  {
+    "id": "legacy-of-arathor-update-notes",
+    "title": "Legacy of Arathor Update Notes",
+    "date": "2025-06-12",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24206706/legacy-of-arathor-update-notes",
+    "summaries": {
+      "Warrior": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1389,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Mage": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1389,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Rogue": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1389,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Priest": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1389,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Paladin": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1389,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1389,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Warlock": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1389,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Death Knight": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1389,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Druid": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1389,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Monk": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1389,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Evoker": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1389,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Demon Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1389,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Delves": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1389,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Raiding": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1389,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "M+": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1389,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "PvP": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1389,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Open World": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1389,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "General": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1389,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      }
+    }
+  },
+  {
+    "id": "legacy-of-arathor-get-an-assist-with-new-ui-options",
+    "title": "Legacy of Arathor: Get an Assist With New UI Options",
+    "date": "2025-06-11",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24205457/legacy-of-arathor-get-an-assist-with-new-ui-options",
+    "summaries": {
+      "Warrior": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 381,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Mage": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 381,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Rogue": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 381,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Priest": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 381,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Paladin": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 381,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 381,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Warlock": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 381,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Death Knight": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 381,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Druid": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 381,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Monk": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 381,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Evoker": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 381,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Demon Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 381,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Delves": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 381,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Raiding": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 381,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "M+": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 381,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "PvP": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 381,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Open World": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 381,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "General": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 381,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      }
+    }
+  },
+  {
+    "id": "join-faerin-in-the-rise-of-the-red-dawn-story-campaign",
+    "title": "Join Faerin in the Rise of the Red Dawn Story Campaign",
+    "date": "2025-06-10",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24209850/join-faerin-in-the-rise-of-the-red-dawn-story-campaign",
+    "summaries": {
+      "Warrior": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 293,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Mage": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 293,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Rogue": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 293,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Priest": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 293,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Paladin": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 293,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 293,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Warlock": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 293,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Death Knight": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 293,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Druid": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 293,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Monk": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 293,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Evoker": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 293,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Demon Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 293,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Delves": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 293,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Raiding": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 293,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "M+": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 293,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "PvP": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 293,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "Open World": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 293,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      },
+      "General": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 293,
+          "summary": 1,
+          "reduction_percent": 99.7
+        }
+      }
+    }
+  },
+  {
+    "id": "warcraft-short-story-faith-flame",
+    "title": "Warcraft Short Story: \"Faith & Flame\"",
+    "date": "2025-06-10",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24209851/warcraft-short-story-faith-flame",
+    "summaries": {
+      "Warrior": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 162,
+          "summary": 1,
+          "reduction_percent": 99.4
+        }
+      },
+      "Mage": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 162,
+          "summary": 1,
+          "reduction_percent": 99.4
+        }
+      },
+      "Rogue": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 162,
+          "summary": 1,
+          "reduction_percent": 99.4
+        }
+      },
+      "Priest": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 162,
+          "summary": 1,
+          "reduction_percent": 99.4
+        }
+      },
+      "Paladin": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 162,
+          "summary": 1,
+          "reduction_percent": 99.4
+        }
+      },
+      "Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 162,
+          "summary": 1,
+          "reduction_percent": 99.4
+        }
+      },
+      "Warlock": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 162,
+          "summary": 1,
+          "reduction_percent": 99.4
+        }
+      },
+      "Death Knight": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 162,
+          "summary": 1,
+          "reduction_percent": 99.4
+        }
+      },
+      "Druid": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 162,
+          "summary": 1,
+          "reduction_percent": 99.4
+        }
+      },
+      "Monk": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 162,
+          "summary": 1,
+          "reduction_percent": 99.4
+        }
+      },
+      "Evoker": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 162,
+          "summary": 1,
+          "reduction_percent": 99.4
+        }
+      },
+      "Demon Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 162,
+          "summary": 1,
+          "reduction_percent": 99.4
+        }
+      },
+      "Delves": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 162,
+          "summary": 1,
+          "reduction_percent": 99.4
+        }
+      },
+      "Raiding": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 162,
+          "summary": 1,
+          "reduction_percent": 99.4
+        }
+      },
+      "M+": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 162,
+          "summary": 1,
+          "reduction_percent": 99.4
+        }
+      },
+      "PvP": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 162,
+          "summary": 1,
+          "reduction_percent": 99.4
+        }
+      },
+      "Open World": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 162,
+          "summary": 1,
+          "reduction_percent": 99.4
+        }
+      },
+      "General": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 162,
+          "summary": 1,
+          "reduction_percent": 99.4
+        }
+      }
+    }
+  },
+  {
+    "id": "wow-weekly-the-legacy-of-arathor-and-more",
+    "title": "WoW Weekly: The Legacy of Arathor, and More!",
+    "date": "2025-06-06",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24209848/wow-weekly-the-legacy-of-arathor-and-more",
+    "summaries": {
+      "Warrior": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 555,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Mage": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 555,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Rogue": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 555,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Priest": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 555,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Paladin": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 555,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 555,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Warlock": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 555,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Death Knight": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 555,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Druid": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 555,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Monk": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 555,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Evoker": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 555,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Demon Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 555,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Delves": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 555,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Raiding": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 555,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "M+": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 555,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "PvP": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 555,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Open World": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 555,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "General": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 555,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      }
+    }
+  },
+  {
+    "id": "its-electric-power-up-with-overcharged-delves",
+    "title": "It’s Electric: Power Up with Overcharged Delves!",
+    "date": "2025-06-06",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24206305/its-electric-power-up-with-overcharged-delves",
+    "summaries": {
+      "Warrior": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1112,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Mage": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1112,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Rogue": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1112,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Priest": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1112,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Paladin": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1112,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1112,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Warlock": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1112,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Death Knight": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1112,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Druid": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1112,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Monk": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1112,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Evoker": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1112,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Demon Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1112,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Delves": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1112,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Raiding": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1112,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "M+": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1112,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "PvP": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1112,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Open World": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1112,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "General": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 1112,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      }
+    }
+  },
+  {
+    "id": "go-lorewalking-with-the-help-of-lorewalker-cho",
+    "title": "Go Lorewalking With the Help of Lorewalker Cho",
+    "date": "2025-06-04",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24210000/go-lorewalking-with-the-help-of-lorewalker-cho",
+    "summaries": {
+      "Warrior": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 537,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Mage": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 537,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Rogue": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 537,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Priest": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 537,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Paladin": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 537,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 537,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Warlock": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 537,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Death Knight": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 537,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Druid": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 537,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Monk": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 537,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Evoker": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 537,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Demon Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 537,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Delves": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 537,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Raiding": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 537,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "M+": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 537,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "PvP": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 537,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "Open World": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 537,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      },
+      "General": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 537,
+          "summary": 1,
+          "reduction_percent": 99.8
+        }
+      }
+    }
+  },
+  {
+    "id": "presenting-the-dastardly-duos-creator-clash-coming-june-7",
+    "title": "Presenting the Dastardly Duos Creator Clash Coming June 7!",
+    "date": "2025-06-04",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24208339/presenting-the-dastardly-duos-creator-clash-coming-june-7",
+    "summaries": {
+      "Warrior": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 227,
+          "summary": 1,
+          "reduction_percent": 99.6
+        }
+      },
+      "Mage": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 227,
+          "summary": 1,
+          "reduction_percent": 99.6
+        }
+      },
+      "Rogue": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 227,
+          "summary": 1,
+          "reduction_percent": 99.6
+        }
+      },
+      "Priest": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 227,
+          "summary": 1,
+          "reduction_percent": 99.6
+        }
+      },
+      "Paladin": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 227,
+          "summary": 1,
+          "reduction_percent": 99.6
+        }
+      },
+      "Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 227,
+          "summary": 1,
+          "reduction_percent": 99.6
+        }
+      },
+      "Warlock": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 227,
+          "summary": 1,
+          "reduction_percent": 99.6
+        }
+      },
+      "Death Knight": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 227,
+          "summary": 1,
+          "reduction_percent": 99.6
+        }
+      },
+      "Druid": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 227,
+          "summary": 1,
+          "reduction_percent": 99.6
+        }
+      },
+      "Monk": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 227,
+          "summary": 1,
+          "reduction_percent": 99.6
+        }
+      },
+      "Evoker": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 227,
+          "summary": 1,
+          "reduction_percent": 99.6
+        }
+      },
+      "Demon Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 227,
+          "summary": 1,
+          "reduction_percent": 99.6
+        }
+      },
+      "Delves": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 227,
+          "summary": 1,
+          "reduction_percent": 99.6
+        }
+      },
+      "Raiding": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 227,
+          "summary": 1,
+          "reduction_percent": 99.6
+        }
+      },
+      "M+": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 227,
+          "summary": 1,
+          "reduction_percent": 99.6
+        }
+      },
+      "PvP": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 227,
+          "summary": 1,
+          "reduction_percent": 99.6
+        }
+      },
+      "Open World": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 227,
+          "summary": 1,
+          "reduction_percent": 99.6
+        }
+      },
+      "General": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 227,
+          "summary": 1,
+          "reduction_percent": 99.6
+        }
+      }
+    }
+  },
+  {
+    "id": "steel-your-nerves-for-dastardly-duos",
+    "title": "Steel Your Nerves for Dastardly Duos",
+    "date": "2025-06-03",
+    "original_url": "https://worldofwarcraft.blizzard.com/news/24209846/steel-your-nerves-for-dastardly-duos",
+    "summaries": {
+      "Warrior": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 700,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Mage": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 700,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Rogue": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 700,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Priest": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 700,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Paladin": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 700,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 700,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Warlock": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 700,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Death Knight": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 700,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Druid": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 700,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Monk": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 700,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Evoker": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 700,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Demon Hunter": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 700,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Delves": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 700,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Raiding": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 700,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "M+": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 700,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "PvP": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 700,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "Open World": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 700,
+          "summary": 1,
+          "reduction_percent": 99.9
+        }
+      },
+      "General": {
+        "summary": "[SUMMARY_FAILED]",
+        "word_stats": {
+          "original": 700,
+          "summary": 1,
+          "reduction_percent": 99.9
         }
       }
     }
