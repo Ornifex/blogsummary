@@ -29,6 +29,22 @@ import {
 import { FilterBar } from "@/components/FilterBar";
 import { useCallback } from "react";
 
+const DUMMY_SUMMARY: BlogSummary = {
+  id: "dummy",
+  title: "No summaries available",
+  date: "N/A",
+  original_url: "#",
+  summaries: {
+    General: {
+      summary: "No summaries available. Please check back later.",
+      word_stats: {
+        original: 0,
+        summary: 0,
+        reduction_percent: 0
+      }
+    }
+  },
+};
 
 export default function App() {
   const PAGE_SIZE = 5;
@@ -73,57 +89,21 @@ export default function App() {
   useEffect(() => {
     fetch("/data/summaries.json")
       .then(res => {
-        if (!res.ok) {
-          throw new Error(`HTTP error! status: ${res.status}`);
-        }
-        return res.json();
+      if (!res.ok) {
+        throw new Error(`HTTP error! status: ${res.status}`);
+      }
+      return res.json();
       })
       .then(data => {
-        if (Array.isArray(data) && data.length > 0) {
-          setSummaries(data);
-        } else {
-          setSummaries([
-            {
-              id: "dummy-error",
-              title: "No Summaries Found",
-              original_url: "#",
-              date: "Never",
-              source: "Nowhere",
-              summaries: {
-                General: {
-                  summary: "No summaries were found on file. Please check your data source.",
-                  word_stats: {
-                    original: 0,
-                    summary: 0,
-                    reduction_percent: 0
-                  }
-                }
-              },
-            }
-          ]);
-        }
+      if (Array.isArray(data) && data.length > 0) {
+        setSummaries(data);
+      } else {
+        setSummaries([DUMMY_SUMMARY]);
+      }
       })
       .catch((err) => {
-        console.error("Failed to fetch summaries.json:", err);
-        setSummaries([
-          {
-            id: "dummy-error",
-            title: "No Summaries Found",
-            original_url: "#",
-            date: "",
-            source: "",
-            summaries: {
-              General: {
-                summary: "No summaries were found on file. Please check your data source.",
-                word_stats: {
-                  original: 0,
-                  summary: 0,
-                  reduction_percent: 0
-                }
-              }
-            },
-          }
-        ]);
+      console.error("Failed to fetch summaries.json:", err);
+      setSummaries([DUMMY_SUMMARY]);
       });
   }, []);
 
