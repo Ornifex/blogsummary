@@ -17,25 +17,27 @@ const OUTPUT_FILE = "./public/data/summaries.json";
 
 console.log("Loaded API Key:", process.env.GEMINI_API_KEY);
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY!);
-const model = genAI.getGenerativeModel({ 
+const model = genAI.getGenerativeModel({
   model: "gemini-2.5-flash-lite-preview-06-17",
   generationConfig: {
-    temperature: 0.1
-  }
+    temperature: 0.1,
+  },
 });
 
 async function fetchBlogList() {
   const res = await axios.get(BLOG_LIST_URL);
   const $ = cheerio.load(res.data);
 
-  const posts = $(".List-item").map((_, el) => {
-    const title = $(el).find(".NewsBlog-title").text().trim();
-    const relativeLink = $(el).find(".NewsBlog-link").attr("href");
-    const url = `${BASE_URL}${relativeLink}`;
-    const id = relativeLink?.split("/").pop();
+  const posts = $(".List-item")
+    .map((_, el) => {
+      const title = $(el).find(".NewsBlog-title").text().trim();
+      const relativeLink = $(el).find(".NewsBlog-link").attr("href");
+      const url = `${BASE_URL}${relativeLink}`;
+      const id = relativeLink?.split("/").pop();
 
-    return { id, title, url };
-  }).get();
+      return { id, title, url };
+    })
+    .get();
 
   return posts;
 }
@@ -51,7 +53,9 @@ async function fetchArticleContent(url: string) {
   const page = await browser.newPage();
   console.log("Setting user agent and viewport...");
 
-  await page.setUserAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36");
+  await page.setUserAgent(
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36",
+  );
   await page.setViewport({ width: 1280, height: 800 });
 
   await page.goto(url, {
@@ -62,7 +66,10 @@ async function fetchArticleContent(url: string) {
   console.log(`Fetching content from: ${url}`);
   const result = await page.evaluate(() => {
     const text = document.querySelector(".detail")?.textContent?.trim() || "";
-    const date = document.querySelector(".LocalizedDateMount time")?.getAttribute("datetime") || "";
+    const date =
+      document
+        .querySelector(".LocalizedDateMount time")
+        ?.getAttribute("datetime") || "";
     return { text, date };
   });
   console.log("Content fetched successfully.");
@@ -74,7 +81,7 @@ async function fetchArticleContent(url: string) {
 async function summarize(
   text: string,
   preference?: string,
-  type?: "class" | "contentType"
+  type?: "class" | "contentType",
 ): Promise<string> {
   let prompt: string;
 
@@ -133,21 +140,24 @@ async function summarize(
         ${text}
         """
         `;
-        }
+  }
 
   try {
     const result = await model.generateContent(prompt);
     const response = result.response;
     return response.text().trim();
   } catch (err: any) {
-    console.error("Gemini API error:", err?.response?.status, err?.response?.data ?? err);
+    console.error(
+      "Gemini API error:",
+      err?.response?.status,
+      err?.response?.data ?? err,
+    );
     return "[SUMMARY_FAILED]";
   }
 }
 
-
 async function delay(ms: number) {
-  return new Promise(resolve => setTimeout(resolve, ms));
+  return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 function countWords(text: string): number {
@@ -156,7 +166,7 @@ function countWords(text: string): number {
 
 async function main() {
   const summaries = loadExistingSummaries();
-  const existingIds = new Set(summaries.map(e => e.id));
+  const existingIds = new Set(summaries.map((e) => e.id));
 
   const newPosts = await fetchBlogList();
 
@@ -173,7 +183,9 @@ async function main() {
     const generalSummary = await summarize(articleText);
     const originalWordCount = countWords(articleText);
     const generalSummaryWordCount = countWords(generalSummary);
-    const generalReduction = parseFloat(((1 - generalSummaryWordCount / originalWordCount) * 100).toFixed(1));
+    const generalReduction = parseFloat(
+      ((1 - generalSummaryWordCount / originalWordCount) * 100).toFixed(1),
+    );
 
     const classSummaries: BlogSummary["summaries"] = {};
     for (const className of CLASSES) {
@@ -186,14 +198,20 @@ async function main() {
         word_stats: {
           original: originalWordCount,
           summary: classSummaryWordCount,
-          reduction_percent: parseFloat(((1 - classSummaryWordCount / originalWordCount) * 100).toFixed(1)),
+          reduction_percent: parseFloat(
+            ((1 - classSummaryWordCount / originalWordCount) * 100).toFixed(1),
+          ),
         },
       };
     }
 
     for (const contentType of CONTENT_TYPES) {
       console.log(`Summarizing for content type: ${contentType}`);
-      const ctSummary = await summarize(articleText, contentType, "contentType");
+      const ctSummary = await summarize(
+        articleText,
+        contentType,
+        "contentType",
+      );
       await delay(5000);
       const ctSummaryWordCount = countWords(ctSummary);
       classSummaries[contentType] = {
@@ -201,7 +219,9 @@ async function main() {
         word_stats: {
           original: originalWordCount,
           summary: ctSummaryWordCount,
-          reduction_percent: parseFloat(((1 - ctSummaryWordCount / originalWordCount) * 100).toFixed(1)),
+          reduction_percent: parseFloat(
+            ((1 - ctSummaryWordCount / originalWordCount) * 100).toFixed(1),
+          ),
         },
       };
     }
