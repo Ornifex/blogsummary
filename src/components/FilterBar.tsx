@@ -82,8 +82,36 @@ export function FilterBar({ selected, setSelected }: FilterBarProps) {
 
   return (
     <div className="flex flex-wrap gap-4 w-3xl justify-between p-4 items-center rounded-none bg-foreground border-0 text-card shadow">
-      {renderDropdown("Class", "classes", options.classes)}
-      {renderDropdown("Content", "contentTypes", options.contentTypes)}
+      <div
+        onContextMenu={(e) => {
+          e.preventDefault();
+          setSelected((prev) => {
+            const allSelected = prev.classes.size > 0;
+            return {
+              ...prev,
+              classes: allSelected ? new Set() : new Set(options.classes),
+            };
+          });
+        }}
+      >
+        {renderDropdown("Class", "classes", options.classes)}
+      </div>
+      <div
+        onContextMenu={(e) => {
+          e.preventDefault();
+          setSelected((prev) => {
+            const allSelected = prev.contentTypes.size > 0;
+            return {
+              ...prev,
+              contentTypes: allSelected
+                ? new Set()
+                : new Set(options.contentTypes),
+            };
+          });
+        }}
+      >
+        {renderDropdown("Content", "contentTypes", options.contentTypes)}
+      </div>
 
       {/* {renderDropdown("Expansion", "expansions", options.expansions)} */}
     </div>
