@@ -20,27 +20,27 @@ Blog Summary is a web application that provides concise, topic-specific summarie
 
 2. Run the development server:
 
-    ```sh
-    npm run dev
-    ```
+   ```sh
+   npm run dev
+   ```
 
 3. Fetch and update summaries:
 
-    ```sh
-    npx tsx fetch-latest.ts
-    ```
+   ```sh
+   npx tsx fetch-latest.ts
+   ```
 
 ## Deployment
 
-The app can be deployed using Docker to Azure Web App via GitHub Actions. 
+The app can be deployed using Docker to Azure Web App via GitHub Actions.
 
 See [.github/workflows/deploy.yml](.github/workflows/deploy.yml).
 
 ### Workflow Details
 
-1. **lint**  ─┐  
-1. **audit**  ├─▶ 4. **deploy**
-1. **build**  ┘
+1. **lint** ─┐
+1. **audit** ├─▶ 4. **deploy**
+1. **build** ┘
 
 > The `lint`, `audit`, and `build` jobs run in parallel. The `deploy` job runs only after all three complete successfully.
 
@@ -52,4 +52,3 @@ The deployment workflow is automated using GitHub Actions and consists of the fo
 - **deploy**: Runs only if the lint, audit, and build jobs succeed. It logs in to Azure using credentials stored in GitHub Secrets, then deploys the newly built Docker image to the Azure Web App specified by `app-name`.
 
 This workflow ensures that code is linted, checked for vulnerabilities, built, and deployed in a reliable and automated fashion. The deployment only occurs if all previous checks pass, providing a robust CI/CD pipeline.
-
