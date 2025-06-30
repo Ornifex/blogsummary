@@ -23,6 +23,11 @@ import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
 
 import { FilterBar } from "@/components/FilterBar";
 import { useCallback } from "react";
+import {
+  Collapsible,
+  CollapsibleTrigger,
+  CollapsibleContent,
+} from "@/components/ui/collapsible";
 
 const DUMMY_SUMMARY: BlogSummary = {
   id: "dummy",
@@ -127,7 +132,7 @@ export default function App() {
     <div className="bg-foreground text-card min-h-screen border-accent">
       {/* <h1 className="text-2xl bg-foreground font-bold p-4 text-center">BlogSummary</h1> */}
       <div className="min-h-screen flex w-3xl min-w-3xl mx-auto p-4">
-        <div className="flex flex-1 flex-col items-center">
+        <div className="flex flex-1 flex-col">
           <FilterBar selected={selected} setSelected={setSelected} />
 
           {/*<h2 className="text-xl font-semibold mb-4">Latest Summaries</h2>*/}
@@ -218,6 +223,64 @@ export default function App() {
                               {wordStats?.reduction_percent ?? "-"}%
                             </span>
                           </div>
+
+                          <div className="text-xl max-w-full border-accent-foreground border-b line-clamp-2 pb-2"></div>
+
+                          <Collapsible>
+                            <CollapsibleTrigger asChild>
+                              <div className="flex justify-center">
+                                <button className="mt-2 mb-2 px-3 py-1 bg-accent text-foreground hover:text-white border border-accent-foreground transition hover:bg-accent-foreground">
+                                  Chat{" "}
+                                </button>
+                              </div>
+                            </CollapsibleTrigger>
+                            <CollapsibleContent>
+                              <div className="flex flex-col h-96 bg-card-foreground border-accent-foreground shadow-inner overflow-hidden border">
+                                <div className="flex-1 overflow-y-auto p-4 space-y-3">
+                                  <div className="mr-auto self-start bg-muted text-foreground px-4 py-2 shadow max-w-[80%]">
+                                    <span className="text-sm">
+                                      Ask me anything about this article!
+                                    </span>
+                                  </div>
+                                  <div className="ml-auto self-end text-card bg-slate-900 px-4 py-2 shadow max-w-[80%]">
+                                    <span className="text-sm">
+                                      User message... but it's very long so it
+                                      spans multiple lines and has a linebreak
+                                      and stuff
+                                    </span>
+                                  </div>
+                                  <div className="mr-auto self-start bg-muted text-foreground px-4 py-2 shadow max-w-[80%]">
+                                    <span className="text-sm">
+                                      AI response... but it's also quite lengthy
+                                      and goes on for a bit, just to illustrate
+                                      the point
+                                    </span>
+                                  </div>
+                                </div>
+                                <form
+                                  className="flex border-t border-accent-foreground p-2 bg-card-foreground"
+                                  onSubmit={(e) => {
+                                    e.preventDefault();
+                                    // handle send
+                                  }}
+                                >
+                                  <input
+                                    type="text"
+                                    className="flex-1 bg-transparent outline-none px-3 py-2 text-base text-card placeholder:text-muted-foreground"
+                                    placeholder="Type your question about the article..."
+                                    value="Type your query here..."
+                                    // onChange={e => setInput(e.target.value)}
+                                  />
+                                  <button
+                                    type="submit"
+                                    className="ml-2 px-4 py-2 bg-accent text-foreground hover:bg-accent-foreground transition"
+                                  >
+                                    Send
+                                  </button>
+                                </form>
+                              </div>
+                            </CollapsibleContent>
+                          </Collapsible>
                         </TabsContent>
                       );
                     })}
@@ -236,7 +299,7 @@ export default function App() {
                 <PaginationItem>
                   <PaginationNext
                     onClick={loadMore}
-                    className="cursor-pointer bg-foreground px-4 py-2 rounded-xl transition-colors"
+                    className="cursor-pointer bg-foreground px-4 py-2 rounded-none transition-colors"
                   ></PaginationNext>
                 </PaginationItem>
               </PaginationContent>
